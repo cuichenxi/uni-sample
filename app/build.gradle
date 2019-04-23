@@ -12,12 +12,21 @@ android {
         versionName "1.0"
         multiDexEnabled true
         ndk {
-            abiFilters 'x86','armeabi'  //使用uniapp时必须同时选择二者或选其一
+            multiDexEnabled true
+            //选择要添加的对应cpu类型的.so库。
+            abiFilters 'armeabi'
+            // 还可以添加 'x86', 'x86_64', 'mips', 'mips64', 'armeabi-v7a'
         }
+        manifestPlaceholders = [
+                "plus.unipush.appid" : "pPyZWvH3Fa6PXba19ID009",
+                "plus.unipush.appkey" : "b7dOGlNPHR7pqwUxcXPVi4",
+                "plus.unipush.appsecret": "IxVYAT9qws8dlNElacmSg1",
+                "apk.applicationId":"io.dcloud.HBuilder"
+        ]
     }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
@@ -29,6 +38,10 @@ android {
         ignoreAssetsPattern "!.svn:!.git:.*:!CVS:!thumbs.db:!picasa.ini:!*.scc:*~"
     }
     /*代码结束*/
+    sourceSets.main {
+        jniLibs.srcDir 'libs'
+        jni.srcDirs = []
+    }
 }
 repositories {
     flatDir {

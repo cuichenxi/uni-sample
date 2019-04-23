@@ -11,9 +11,9 @@ public final class R {
         public static final int weex_is_right_to_left = 0x7f030005;
     }
     public static final class drawable {
-        public static final int weex_error = 0x7f0600a8;
+        public static final int weex_error = 0x7f0600e2;
     }
     public static final class layout {
-        public static final int weex_recycler_layout = 0x7f090045;
+        public static final int weex_recycler_layout = 0x7f090052;
     }
 }

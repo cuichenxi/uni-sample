@@ -36,15 +36,15 @@ public final class R {
         public static final int viewAspectRatio = 0x7f02011b;
     }
     public static final class id {
-        public static final int center = 0x7f070029;
-        public static final int centerCrop = 0x7f07002a;
-        public static final int centerInside = 0x7f07002b;
-        public static final int fitCenter = 0x7f070063;
-        public static final int fitEnd = 0x7f070064;
-        public static final int fitStart = 0x7f070065;
-        public static final int fitXY = 0x7f070066;
-        public static final int focusCrop = 0x7f070067;
-        public static final int none = 0x7f070085;
+        public static final int center = 0x7f07002c;
+        public static final int centerCrop = 0x7f07002d;
+        public static final int centerInside = 0x7f07002e;
+        public static final int fitCenter = 0x7f07006a;
+        public static final int fitEnd = 0x7f07006b;
+        public static final int fitStart = 0x7f07006c;
+        public static final int fitXY = 0x7f07006d;
+        public static final int focusCrop = 0x7f070071;
+        public static final int none = 0x7f0700cf;
     }
     public static final class styleable {
         public static final int[] GenericDraweeHierarchy = { 0x7f020026, 0x7f020033, 0x7f020074, 0x7f020075, 0x7f020076, 0x7f0200b2, 0x7f0200ba, 0x7f0200bb, 0x7f0200c1, 0x7f0200c2, 0x7f0200c3, 0x7f0200c4, 0x7f0200cd, 0x7f0200ce, 0x7f0200d0, 0x7f0200d1, 0x7f0200d2, 0x7f0200d3, 0x7f0200d4, 0x7f0200d5, 0x7f0200d6, 0x7f0200d7, 0x7f0200d8, 0x7f0200d9, 0x7f02011b };
