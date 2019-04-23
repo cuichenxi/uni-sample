@@ -4,7 +4,7 @@
             "outputFile": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml",
             "map": [
                 {
-                    "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/318d457e6f52db86c1ab1a0757418b78/res/values-v17/values-v17.xml",
+                    "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/values-v17/values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,26,29,32,35,39,42,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",

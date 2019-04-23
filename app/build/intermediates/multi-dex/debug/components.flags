@@ -1,0 +1,151 @@
+-injars /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/libs/wechat-sdk-android-with-mta-5.1.4.jar(**.class)
+-injars /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/libs/qq_sdk_v3.1.0.jar(**.class)
+-injars /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/libs/qq_mta-sdk-1.6.2.jar(**.class)
+-injars /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/libs/alipayutdid.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/amap-libs-release.aar/d549bd8a09950c00a1cdd97f2e2c305a/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/amap-libs-release.aar/d549bd8a09950c00a1cdd97f2e2c305a/jars/libs/AMap_Search_V6.1.0_20180330.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/amap-libs-release.aar/d549bd8a09950c00a1cdd97f2e2c305a/jars/libs/AMap_Location_V4.2.0_20180809.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/amap-libs-release.aar/d549bd8a09950c00a1cdd97f2e2c305a/jars/libs/Android_Map3D_SDK_V6.4.1_20180906.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/baidu-libs-release.aar/b293b29ae52dea5438c6609624e34294/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/baidu-libs-release.aar/b293b29ae52dea5438c6609624e34294/jars/libs/BaiduLBS_Android.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-release.aar/0c59246b4cc21fa85e5de01a9563f975/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/74161db2b8368795b6967463c9ed1799/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/gallery-dmcBig-release.aar/1d3d15acdd82ce611dd444128f0ab7e5/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/gallery-dmcBig-release.aar/1d3d15acdd82ce611dd444128f0ab7e5/jars/libs/chrisbanes-photoview-1.2.4.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/jars/libs/GetuiSDK-support-MZP-1.0.7.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/jars/libs/GetuiSDK-support-HWP-1.0.4.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/jars/libs/GetuiSDK2.13.0.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/jars/libs/GetuiSDK-support-OPPO-1.0.2.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/jars/libs/GetuiSDK-support-VIVO-1.0.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/jars/libs/GetuiSDK-support-XMP-1.0.3.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/geolocation-amap-release.aar/b77e2397353a126009b57632d4dbd407/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/8f0309af9ad52646ca26385c253affe8/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/8f0309af9ad52646ca26385c253affe8/jars/libs/filedownloader-1.6.9.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/sqlite-release.aar/18510b433624292fa9434ea0f547ab6e/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/share-weixin-release.aar/792440787a69b0e97eb03c14365eebc3/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/60a6c1ab8676e59e998a97e153ecb643/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/statistics-umeng-release.aar/ca2e4c49903c8427e1c3736a67c884e6/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/statistics-umeng-release.aar/ca2e4c49903c8427e1c3736a67c884e6/jars/libs/umeng-analytics-v6.0.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/iBeacon-release.aar/5914e50338bfe3bd4e51c64823e42e44/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/payment-weixin-release.aar/82b25c547dd69270be4422a49b98bcb9/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/geolocation-baidu-release.aar/01a285b23a121f0cc941e439b1cac6df/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/972e88727f91e73bd8439f28636ee9aa/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/972e88727f91e73bd8439f28636ee9aa/jars/libs/tx_weibo_sdk.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/972e88727f91e73bd8439f28636ee9aa/jars/libs/tx_weibo_sdk_component.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/share-tencent-release.aar/972e88727f91e73bd8439f28636ee9aa/jars/libs/tx_weibo_sdk-httpclient-3.0.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/oauth-weixin-release.aar/416fb15c6b0131660fa9a42d5e17149f/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/payment-alipay-release.aar/19cb3bd57bc4cda2ea3bda85d9a2db2c/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/payment-alipay-release.aar/19cb3bd57bc4cda2ea3bda85d9a2db2c/jars/libs/alipaySingle-20161222.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/f661399518f08b1d3d8ff53873eb8102/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.31/98678431965f7487d6dc9b399e59b6c4b3921073/kotlin-stdlib-jre7-1.2.31.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/fresco-0.12.0.aar/93149c7e2d005dd58db07a5a25ce40d4/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/drawee-0.12.0.aar/33cadd7086812381e02089d2c6885155/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.12.0.aar/beccca614834386a5e421dde0b18e1c7/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.12.0.aar/7f01a31f19e7b34e490f89b09c6d17ed/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/ce22544b89c62e8efb1c83feb3098ce6/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/ce22544b89c62e8efb1c83feb3098ce6/jars/libs/internal_impl-23.2.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/bindingx-core-1.0.3.aar/1de25498b3fd7ae6d3b26c67ed251002/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/bindingx_weex_plugin-1.0.3.aar/8d356bc3983827a29dd26ab8d8bc9abe/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/0511f9ae050d75d69b766620c8d985e5/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/jars/libs/jpush-android-3.1.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/jcore-1.1.9.aar/f50349acddb80add112846aedcdab3e7/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/jcore-1.1.9.aar/f50349acddb80add112846aedcdab3e7/jars/libs/jcore-android-1.1.9.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/janalytics-1.2.0.aar/451d1c69fe40971771e5dd5f2dc32559/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/janalytics-1.2.0.aar/451d1c69fe40971771e5dd5f2dc32559/jars/libs/janalytics-android-1.2.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko/0.10.5/3cbcc64c210dfff0f424d5cfd6c9daae33a3b6a4/anko-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sqlite/0.10.5/c40a65042fbb80cd7f6346a43ecd86e91471592d/anko-sqlite-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk25/0.10.5/3f7582e496cc90645f0945a935f6dd62d8722f34/anko-sdk25-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk25-coroutines/0.10.5/a160a7cfec057903a0a90fcad79e638f5fa3e0c9/anko-sdk25-coroutines-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7/0.10.5/36b46e9e6be3dbe205305b17277a4c7e70511771/anko-appcompat-v7-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4/0.10.5/8cfc1f1577584292e01b3795bdd73bb83cf93e/anko-support-v4-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7-coroutines/0.10.5/95a4a2395c64c2d290ba2d545dffeeb25127355f/anko-appcompat-v7-coroutines-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7-commons/0.10.5/aef4ba4de0af4b2ad0e87ce39ebeb090b9486f43/anko-appcompat-v7-commons-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4-commons/0.10.5/ee52628d3ecd09087a0780dd8b3afd43db322906/anko-support-v4-commons-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.5/55538bc9d9af1f43477463e002443be54ff5ebf1/anko-commons-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/5.1/f7fb5ca756f7c22d18bd61c2fa4e50ce16fdb03c/ormlite-android-5.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/5.1/bf7a747016c99ac01577d3268a4ac9c24e94d5de/ormlite-core-5.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.github.bxvip/support-http/1.0.10.5.5/82c825f6ebcef875019e5a9b6ea516e5f7b83ab4/support-http-1.0.10.5.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.github.bxvip/android-support/26.0.2.11.6/bde80cbdf59a6ffae268a0de0296b3ebcca22617/android-support-26.0.2.11.6.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-coroutines/0.10.5/e9d8b6af71a5fccd1d0585a1f845963122a127dc/anko-coroutines-0.10.5.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/0.15/b1fece43d4273e8941d01784d6f64c7486da1990/kotlinx-coroutines-android-0.15.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/0.15/5f0e2a96538d4ddc421ed042799e825016875f29/kotlinx-coroutines-core-0.15.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.31/153dcd9ed9db246a7e36f4d7609e2a9f4718c674/kotlin-stdlib-1.2.31.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/07b1db146ce6cccbcc95586bb22019af/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cd7e02f8650ee4e4bcaa0ce819400230/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ce62e0cb0972e9796ccdda76da284459/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a7ebdcf2c58fb236c11bd6edf2e2612/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b7595d12a9aeb8dbd1f4d2861ab90c7b/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe63890c4dbca52f1db010c400ba13ad/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/fbcore-0.12.0.aar/5f2edf65d6f2e4506538c6e94917c04d/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.9.0/cbb185635e8f265d6391c7d43118d3856574dc3a/disklrucache-4.9.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.9.0/ccdd6bc8b4f3c001fbddec29ecddd515a13203c4/annotations-4.9.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9e8bf222279338f80a46d9bdc52a3f7b/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/340b95433c9a1cad5f63827ad3e6e485/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03311b1abfc4f7b94eb4419434c0d2f8/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3c24376fe847b86769f1ef1cc7ff5e12/jars/classes.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar(**.class)
+-injars /Users/dzc/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar(**.class)
+-injars /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/classes/debug(**.class)
+-outjars /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /Users/dzc/Library/Android/sdk/build-tools/27.0.3/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:118
+-keep class cn.tt.client.BaseApp {
+    <init>(...);
+}
+
+# Referenced at /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:282
+-keep class io.dcloud.multiprocess.activity.WebAppActivity1 {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

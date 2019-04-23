@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.HBuilder.integrate">
 
     <supports-screens
@@ -19,18 +20,40 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.FLASHLIGHT" />
     <!-- Barcode(二维码)  end -->
-
+    <!--android:name="io.dcloud.application.DCloudApplication"-->
     <application
-        android:name="io.dcloud.application.DCloudApplication"
+        android:name="cn.tt.client.BaseApp"
         android:allowBackup="true"
         android:allowClearUserData="true"
         android:icon="@drawable/icon"
         android:label="@string/app_name"
+        tools:replace="android:name"
         android:largeHeap="true"
         android:debuggable="true"
         android:supportsRtl="true">
 
         <!-- 应用入口 -->
+        <activity
+            android:name="cn.tt.client.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppBaseTheme.Launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="co.bxvip"
+                    android:scheme="bxvip.open" />
+            </intent-filter>
+        </activity>
+
         <activity
             android:name="io.dcloud.PandoraEntry"
             android:theme="@style/TranslucentTheme"
@@ -49,10 +72,10 @@
                 <action android:name="android.intent.action.SEND"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
-            </intent-filter>
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN"/>-->
+                <!--<category android:name="android.intent.category.LAUNCHER"/>-->
+            <!--</intent-filter>-->
         </activity>
         <meta-data android:name="dcloud_uninview_background"
             android:value="true"/>
