@@ -1,0 +1,6 @@
+# Referenced at /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:112
+-keep class io.dcloud.application.DCloudApplication { <init>(...); }
+
+# Referenced at /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:256
+-keep class io.dcloud.multiprocess.activity.WebAppActivity1 { <init>(...); }
+
