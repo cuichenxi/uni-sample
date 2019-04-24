@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -180,12 +180,12 @@
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_dcloud_actionsheet_bottom_pressed.9.png.flat",
-        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/74161db2b8368795b6967463c9ed1799/res/drawable-xhdpi-v4/dcloud_actionsheet_bottom_pressed.9.png"
-    },
-    {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_dcloud_actionsheet_bottom_pressed.9.png.flat",
+        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/74161db2b8368795b6967463c9ed1799/res/drawable-xhdpi-v4/dcloud_actionsheet_bottom_pressed.9.png"
     },
     {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/layout_dcloud_image_pick_gallery_item.xml.flat",
@@ -428,12 +428,12 @@
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
-        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/anim/abc_slide_in_top.xml"
-    },
-    {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/anim_dcloud_slide_out_to_right.xml.flat",
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/74161db2b8368795b6967463c9ed1799/res/anim/dcloud_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -456,20 +456,20 @@
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_dcloud_streamapp_icon_appdefault.png.flat",
-        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/74161db2b8368795b6967463c9ed1799/res/drawable-xhdpi-v4/dcloud_streamapp_icon_appdefault.png"
-    },
-    {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1c4f6adde1fccee1541819462a3a7136/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
-        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a951b24a6ce2efadcdc53ba486239b58/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_dcloud_streamapp_icon_appdefault.png.flat",
+        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/74161db2b8368795b6967463c9ed1799/res/drawable-xhdpi-v4/dcloud_streamapp_icon_appdefault.png"
     },
     {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/layout_dcloud_custom_notification_mi.xml.flat",
         "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/lib.5plus.base-release.aar/74161db2b8368795b6967463c9ed1799/res/layout/dcloud_custom_notification_mi.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/a951b24a6ce2efadcdc53ba486239b58/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",

@@ -12,23 +12,6 @@
                         "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
                         "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,1805"
                     }
-                },
-                {
-                    "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe63890c4dbca52f1db010c400ba13ad/res/values-zh-rHK/values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "101",
-                        "endOffsets": "152"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1810",
-                        "endColumns": "101",
-                        "endOffsets": "1907"
-                    }
                 }
             ]
         }

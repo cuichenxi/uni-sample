@@ -32,22 +32,13 @@ MERGED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/
 MERGED from [cn.jiguang.sdk:jcore:1.1.9] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jcore-1.1.9.aar/f50349acddb80add112846aedcdab3e7/AndroidManifest.xml:2:1-14:12
 MERGED from [cn.jiguang.sdk:janalytics:1.2.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/janalytics-1.2.0.aar/451d1c69fe40971771e5dd5f2dc32559/AndroidManifest.xml:2:1-44:12
 MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:17:1-223:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/07b1db146ce6cccbcc95586bb22019af/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cd7e02f8650ee4e4bcaa0ce819400230/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a7ebdcf2c58fb236c11bd6edf2e2612/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b7595d12a9aeb8dbd1f4d2861ab90c7b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ce62e0cb0972e9796ccdda76da284459/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe63890c4dbca52f1db010c400ba13ad/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:drawee:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/drawee-0.12.0.aar/33cadd7086812381e02089d2c6885155/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.12.0.aar/beccca614834386a5e421dde0b18e1c7/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.12.0.aar/7f01a31f19e7b34e490f89b09c6d17ed/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.2.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/ce22544b89c62e8efb1c83feb3098ce6/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:fbcore:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/fbcore-0.12.0.aar/5f2edf65d6f2e4506538c6e94917c04d/AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9e8bf222279338f80a46d9bdc52a3f7b/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/340b95433c9a1cad5f63827ad3e6e485/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03311b1abfc4f7b94eb4419434c0d2f8/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3c24376fe847b86769f1ef1cc7ff5e12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:2:1-11:12
 INJECTED from /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-84:12
 INJECTED from /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-84:12
 INJECTED from /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml:2:1-84:12
@@ -169,8 +160,6 @@ MERGED from [cn.jiguang.sdk:janalytics:1.2.0] /Users/dzc/.gradle/caches/transfor
 MERGED from [cn.jiguang.sdk:janalytics:1.2.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/janalytics-1.2.0.aar/451d1c69fe40971771e5dd5f2dc32559/AndroidManifest.xml:32:5-42:19
 MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:26:5-221:19
 MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:26:5-221:19
-MERGED from [com.android.support:support-v4:23.2.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/ce22544b89c62e8efb1c83feb3098ce6/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/ce22544b89c62e8efb1c83feb3098ce6/AndroidManifest.xml:22:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:9:5-20
 	android:supportsRtl
@@ -300,38 +289,20 @@ MERGED from [cn.jiguang.sdk:janalytics:1.2.0] /Users/dzc/.gradle/caches/transfor
 MERGED from [cn.jiguang.sdk:janalytics:1.2.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/janalytics-1.2.0.aar/451d1c69fe40971771e5dd5f2dc32559/AndroidManifest.xml:7:5-9:41
 MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:22:5-24:41
 MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/07b1db146ce6cccbcc95586bb22019af/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/07b1db146ce6cccbcc95586bb22019af/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cd7e02f8650ee4e4bcaa0ce819400230/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cd7e02f8650ee4e4bcaa0ce819400230/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a7ebdcf2c58fb236c11bd6edf2e2612/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a7ebdcf2c58fb236c11bd6edf2e2612/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b7595d12a9aeb8dbd1f4d2861ab90c7b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b7595d12a9aeb8dbd1f4d2861ab90c7b/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ce62e0cb0972e9796ccdda76da284459/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ce62e0cb0972e9796ccdda76da284459/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe63890c4dbca52f1db010c400ba13ad/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe63890c4dbca52f1db010c400ba13ad/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:drawee:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/drawee-0.12.0.aar/33cadd7086812381e02089d2c6885155/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/drawee-0.12.0.aar/33cadd7086812381e02089d2c6885155/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.12.0.aar/beccca614834386a5e421dde0b18e1c7/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.12.0.aar/beccca614834386a5e421dde0b18e1c7/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.12.0.aar/7f01a31f19e7b34e490f89b09c6d17ed/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-0.12.0.aar/7f01a31f19e7b34e490f89b09c6d17ed/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-v4:23.2.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/ce22544b89c62e8efb1c83feb3098ce6/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/ce22544b89c62e8efb1c83feb3098ce6/AndroidManifest.xml:20:5-43
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/fbcore-0.12.0.aar/5f2edf65d6f2e4506538c6e94917c04d/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:0.12.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/fbcore-0.12.0.aar/5f2edf65d6f2e4506538c6e94917c04d/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9e8bf222279338f80a46d9bdc52a3f7b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9e8bf222279338f80a46d9bdc52a3f7b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/340b95433c9a1cad5f63827ad3e6e485/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/340b95433c9a1cad5f63827ad3e6e485/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03311b1abfc4f7b94eb4419434c0d2f8/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03311b1abfc4f7b94eb4419434c0d2f8/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3c24376fe847b86769f1ef1cc7ff5e12/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3c24376fe847b86769f1ef1cc7ff5e12/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/dzc/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/8285ddbb7fb1e29e77e1f8b6034d63fc/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 INJECTED from /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
@@ -842,7 +813,7 @@ uses-permission#getui.permission.GetuiService.${applicationId}
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:27:5-86
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:27:22-83
-uses-permission#getui.permission.GetuiService.com.xiaoyong.gjp
+uses-permission#getui.permission.GetuiService.com.xiaoyong.gjp1
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:27:5-86
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:27:22-83
@@ -852,7 +823,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:31:9-41
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:30:9-70
-permission#getui.permission.GetuiService.com.xiaoyong.gjp
+permission#getui.permission.GetuiService.com.xiaoyong.gjp1
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:29:5-32:18
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:31:9-41
@@ -890,7 +861,7 @@ uses-permission#${applicationId}.permission.MIPUSH_RECEIVE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:40:5-82
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:40:22-79
-uses-permission#com.xiaoyong.gjp.permission.MIPUSH_RECEIVE
+uses-permission#com.xiaoyong.gjp1.permission.MIPUSH_RECEIVE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:40:5-82
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:40:22-79
@@ -900,7 +871,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:44:9-52
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:43:9-66
-permission#com.xiaoyong.gjp.permission.MIPUSH_RECEIVE
+permission#com.xiaoyong.gjp1.permission.MIPUSH_RECEIVE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:42:5-44:55
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:44:9-52
@@ -928,7 +899,7 @@ uses-permission#${applicationId}.push.permission.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:50:5-80
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:50:22-77
-uses-permission#com.xiaoyong.gjp.push.permission.MESSAGE
+uses-permission#com.xiaoyong.gjp1.push.permission.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:50:5-80
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:50:22-77
@@ -936,7 +907,7 @@ uses-permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:51:5-79
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:51:22-76
-uses-permission#com.xiaoyong.gjp.permission.C2D_MESSAGE
+uses-permission#com.xiaoyong.gjp1.permission.C2D_MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:51:5-79
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:51:22-76
@@ -946,7 +917,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:55:9-44
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:54:9-64
-permission#com.xiaoyong.gjp.push.permission.MESSAGE
+permission#com.xiaoyong.gjp1.push.permission.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:53:5-55:47
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:55:9-44
@@ -958,7 +929,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:58:9-44
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:57:9-63
-permission#com.xiaoyong.gjp.permission.C2D_MESSAGE
+permission#com.xiaoyong.gjp1.permission.C2D_MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:56:5-58:47
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:58:9-44
@@ -1128,7 +1099,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:143:13-60
 intent-filter#${applicationId}+com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:145:13-158:29
-intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.xiaoyong.gjp
+intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.xiaoyong.gjp1
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:145:13-158:29
 action#com.meizu.flyme.push.intent.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:148:17-78
@@ -1154,7 +1125,7 @@ category#${applicationId}
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:157:17-61
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:157:27-58
-category#com.xiaoyong.gjp
+category#com.xiaoyong.gjp1
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:157:17-61
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/d4dfb74d7c18825227a39ab365ab758d/AndroidManifest.xml:157:27-58
@@ -1380,7 +1351,7 @@ MERGED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/
 		ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/8f0309af9ad52646ca26385c253affe8/AndroidManifest.xml:34:13-66
 intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.DaemonService
 ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/8f0309af9ad52646ca26385c253affe8/AndroidManifest.xml:37:13-41:29
-intent-filter#cn.jpush.android.intent.DaemonService+com.xiaoyong.gjp
+intent-filter#cn.jpush.android.intent.DaemonService+com.xiaoyong.gjp1
 ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/8f0309af9ad52646ca26385c253affe8/AndroidManifest.xml:37:13-41:29
 action#cn.jpush.android.intent.DaemonService
 ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/8f0309af9ad52646ca26385c253affe8/AndroidManifest.xml:38:17-80
@@ -1485,7 +1456,7 @@ ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/f
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:13:9-44
 	android:name
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:12:9-65
-permission#com.xiaoyong.gjp.permission.JPUSH_MESSAGE
+permission#com.xiaoyong.gjp1.permission.JPUSH_MESSAGE
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:11:5-13:47
 	android:protectionLevel
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:13:9-44
@@ -1495,7 +1466,7 @@ uses-permission#${JPUSH_PKGNAME}.permission.JPUSH_MESSAGE
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:16:5-81
 	android:name
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:16:22-78
-uses-permission#com.xiaoyong.gjp.permission.JPUSH_MESSAGE
+uses-permission#com.xiaoyong.gjp1.permission.JPUSH_MESSAGE
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:16:5-81
 	android:name
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:16:22-78
@@ -1531,7 +1502,7 @@ ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/f
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:47:13-60
 intent-filter#${JPUSH_PKGNAME}+android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:51:13-56:29
-intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.xiaoyong.gjp
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.xiaoyong.gjp1
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:51:13-56:29
 action#cn.jpush.android.ui.PushActivity
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:52:17-75
@@ -1549,7 +1520,7 @@ intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PRO
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:91:13-94:29
 	android:priority
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:91:28-51
-intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.xiaoyong.gjp
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.xiaoyong.gjp1
 ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:91:13-94:29
 	android:priority
 		ADDED from [cn.jiguang.sdk:jpush:3.1.1] /Users/dzc/.gradle/caches/transforms-1/files-1.1/jpush-3.1.1.aar/3f08b2849c3c87ab25beaec24bf98d3a/AndroidManifest.xml:91:28-51
@@ -1619,7 +1590,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:44:13-37
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:42:13-64
-provider#com.xiaoyong.gjp.loader.p.ProviderN1
+provider#com.xiaoyong.gjp1.loader.p.ProviderN1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:41:9-44:40
 	android:authorities
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:43:13-65
@@ -1633,7 +1604,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:48:13-37
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:47:13-63
-service#com.xiaoyong.gjp.loader.s.ServiceN1
+service#com.xiaoyong.gjp1.loader.s.ServiceN1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:46:9-48:40
 	android:exported
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:48:13-37
@@ -1659,7 +1630,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:58:13-37
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:56:13-63
-provider#com.xiaoyong.gjp.loader.p.Provider0
+provider#com.xiaoyong.gjp1.loader.p.Provider0
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:55:9-59:42
 	android:process
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:59:13-39
@@ -1677,7 +1648,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:63:13-37
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:62:13-62
-service#com.xiaoyong.gjp.loader.s.Service0
+service#com.xiaoyong.gjp1.loader.s.Service0
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:61:9-64:42
 	android:process
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:64:13-39
@@ -1703,7 +1674,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:73:13-44
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:67:13-75
-activity#com.xiaoyong.gjp.loader.a.Activity0_singleTask1
+activity#com.xiaoyong.gjp1.loader.a.Activity0_singleTask1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:66:9-74:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:72:13-49
@@ -1737,7 +1708,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:82:13-60
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:76:13-79
-activity#com.xiaoyong.gjp.loader.a.Activity0_singleInstance1
+activity#com.xiaoyong.gjp1.loader.a.Activity0_singleInstance1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:75:9-82:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:81:13-49
@@ -1767,7 +1738,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:89:13-60
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:84:13-68
-activity#com.xiaoyong.gjp.loader.a.Activity0_task
+activity#com.xiaoyong.gjp1.loader.a.Activity0_task
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:83:9-89:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:88:13-49
@@ -1795,7 +1766,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:96:13-71
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:91:13-74
-activity#com.xiaoyong.gjp.loader.a.Activity0_fullscreen
+activity#com.xiaoyong.gjp1.loader.a.Activity0_fullscreen
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:90:9-96:74
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:95:13-49
@@ -1823,7 +1794,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:103:13-72
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:98:13-75
-activity#com.xiaoyong.gjp.loader.a.Activity0_translucent
+activity#com.xiaoyong.gjp1.loader.a.Activity0_translucent
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:97:9-103:75
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:102:13-49
@@ -1851,7 +1822,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:110:13-83
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:105:13-86
-activity#com.xiaoyong.gjp.loader.a.Activity0_translucent_fullscreen
+activity#com.xiaoyong.gjp1.loader.a.Activity0_translucent_fullscreen
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:104:9-110:86
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:109:13-49
@@ -1879,7 +1850,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:117:13-56
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:112:13-70
-activity#com.xiaoyong.gjp.loader.a.Activity0_dialog
+activity#com.xiaoyong.gjp1.loader.a.Activity0_dialog
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:111:9-117:59
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:116:13-49
@@ -1909,7 +1880,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:124:13-44
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:119:13-63
-activity#com.xiaoyong.gjp.loader.a.Activity0
+activity#com.xiaoyong.gjp1.loader.a.Activity0
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:118:9-125:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:123:13-49
@@ -1945,7 +1916,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:135:13-37
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:133:13-63
-provider#com.xiaoyong.gjp.loader.p.Provider1
+provider#com.xiaoyong.gjp1.loader.p.Provider1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:132:9-136:42
 	android:process
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:136:13-39
@@ -1963,7 +1934,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:140:13-37
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:139:13-62
-service#com.xiaoyong.gjp.loader.s.Service1
+service#com.xiaoyong.gjp1.loader.s.Service1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:138:9-141:42
 	android:process
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:141:13-39
@@ -1989,7 +1960,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:150:13-44
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:144:13-75
-activity#com.xiaoyong.gjp.loader.a.Activity1_singleTask1
+activity#com.xiaoyong.gjp1.loader.a.Activity1_singleTask1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:143:9-151:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:149:13-49
@@ -2023,7 +1994,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:159:13-60
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:153:13-79
-activity#com.xiaoyong.gjp.loader.a.Activity1_singleInstance1
+activity#com.xiaoyong.gjp1.loader.a.Activity1_singleInstance1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:152:9-159:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:158:13-49
@@ -2053,7 +2024,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:166:13-60
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:161:13-68
-activity#com.xiaoyong.gjp.loader.a.Activity1_task
+activity#com.xiaoyong.gjp1.loader.a.Activity1_task
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:160:9-166:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:165:13-49
@@ -2081,7 +2052,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:173:13-71
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:168:13-74
-activity#com.xiaoyong.gjp.loader.a.Activity1_fullscreen
+activity#com.xiaoyong.gjp1.loader.a.Activity1_fullscreen
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:167:9-173:74
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:172:13-49
@@ -2109,7 +2080,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:180:13-72
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:175:13-75
-activity#com.xiaoyong.gjp.loader.a.Activity1_translucent
+activity#com.xiaoyong.gjp1.loader.a.Activity1_translucent
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:174:9-180:75
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:179:13-49
@@ -2137,7 +2108,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:187:13-83
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:182:13-86
-activity#com.xiaoyong.gjp.loader.a.Activity1_translucent_fullscreen
+activity#com.xiaoyong.gjp1.loader.a.Activity1_translucent_fullscreen
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:181:9-187:86
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:186:13-49
@@ -2165,7 +2136,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:194:13-56
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:189:13-70
-activity#com.xiaoyong.gjp.loader.a.Activity1_dialog
+activity#com.xiaoyong.gjp1.loader.a.Activity1_dialog
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:188:9-194:59
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:193:13-49
@@ -2195,7 +2166,7 @@ ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/ca
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:201:13-44
 	android:name
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:196:13-63
-activity#com.xiaoyong.gjp.loader.a.Activity1
+activity#com.xiaoyong.gjp1.loader.a.Activity1
 ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:195:9-202:63
 	android:screenOrientation
 		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] /Users/dzc/.gradle/caches/transforms-1/files-1.1/replugin-host-lib-2.2.4.aar/c83b3d24b95dd0d9044b97c0c1d4afcd/AndroidManifest.xml:200:13-49

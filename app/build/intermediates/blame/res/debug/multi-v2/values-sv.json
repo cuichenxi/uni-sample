@@ -12,23 +12,6 @@
                         "endColumns": "105,102,110,84,101,112,75,75,79,105,99,95,104,101,101,153,101,78",
                         "endOffsets": "206,309,420,505,607,720,796,872,952,1058,1158,1254,1359,1461,1563,1717,1819,1898"
                     }
-                },
-                {
-                    "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fe63890c4dbca52f1db010c400ba13ad/res/values-sv/values-sv.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1903",
-                        "endColumns": "100",
-                        "endOffsets": "1999"
-                    }
                 }
             ]
         }

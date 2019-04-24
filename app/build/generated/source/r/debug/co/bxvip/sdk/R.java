@@ -14,27 +14,27 @@ public final class R {
         public static final int jpush_richpush_progressbar = 0x7f060094;
     }
     public static final class id {
-        public static final int actionbarLayoutId = 0x7f070017;
-        public static final int fullWebView = 0x7f070075;
-        public static final int help_ll = 0x7f0700ae;
-        public static final int icon = 0x7f0700b1;
-        public static final int imgRichpushBtnBack = 0x7f0700b8;
-        public static final int imgView = 0x7f0700b9;
-        public static final int iv_help = 0x7f0700bd;
-        public static final int iv_refresh = 0x7f0700be;
-        public static final int iv_service = 0x7f0700bf;
-        public static final int iv_speed = 0x7f0700c0;
-        public static final int loading = 0x7f0700c8;
-        public static final int mImgStartBg = 0x7f0700ca;
-        public static final int mTvState = 0x7f0700cb;
-        public static final int popLayoutId = 0x7f0700df;
-        public static final int pushPrograssBar = 0x7f0700e4;
-        public static final int rlRichpushTitleBar = 0x7f0700ed;
-        public static final int text = 0x7f07011f;
-        public static final int title = 0x7f070127;
-        public static final int tvRichpushTitle = 0x7f07012d;
-        public static final int tv_version = 0x7f07012f;
-        public static final int wvPopwin = 0x7f070138;
+        public static final int actionbarLayoutId = 0x7f070013;
+        public static final int fullWebView = 0x7f070064;
+        public static final int help_ll = 0x7f07009d;
+        public static final int icon = 0x7f0700a0;
+        public static final int imgRichpushBtnBack = 0x7f0700a6;
+        public static final int imgView = 0x7f0700a7;
+        public static final int iv_help = 0x7f0700a9;
+        public static final int iv_refresh = 0x7f0700aa;
+        public static final int iv_service = 0x7f0700ab;
+        public static final int iv_speed = 0x7f0700ac;
+        public static final int loading = 0x7f0700b1;
+        public static final int mImgStartBg = 0x7f0700b3;
+        public static final int mTvState = 0x7f0700b4;
+        public static final int popLayoutId = 0x7f0700c5;
+        public static final int pushPrograssBar = 0x7f0700ca;
+        public static final int rlRichpushTitleBar = 0x7f0700d0;
+        public static final int text = 0x7f070100;
+        public static final int title = 0x7f070107;
+        public static final int tvRichpushTitle = 0x7f07010d;
+        public static final int tv_version = 0x7f07010f;
+        public static final int wvPopwin = 0x7f070118;
     }
     public static final class layout {
         public static final int activity_start = 0x7f09001b;

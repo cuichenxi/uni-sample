@@ -847,19 +847,12 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int coordinatorLayoutStyle=0x7f020069;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int customNavigationLayout=0x7f02006a;
+    public static final int customNavigationLayout=0x7f020069;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int defaultQueryHint=0x7f02006b;
+    public static final int defaultQueryHint=0x7f02006a;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -869,7 +862,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int destructiveButtonTextColor=0x7f02006c;
+    public static final int destructiveButtonTextColor=0x7f02006b;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -877,14 +870,14 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int dialogPreferredPadding=0x7f02006d;
+    public static final int dialogPreferredPadding=0x7f02006c;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int dialogTheme=0x7f02006e;
+    public static final int dialogTheme=0x7f02006d;
     /**
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -901,21 +894,21 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      */
-    public static final int displayOptions=0x7f02006f;
+    public static final int displayOptions=0x7f02006e;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int divider=0x7f020070;
+    public static final int divider=0x7f02006f;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int dividerHorizontal=0x7f020071;
+    public static final int dividerHorizontal=0x7f020070;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -923,14 +916,14 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int dividerPadding=0x7f020072;
+    public static final int dividerPadding=0x7f020071;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int dividerVertical=0x7f020073;
+    public static final int dividerVertical=0x7f020072;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -938,21 +931,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int drawableSize=0x7f020074;
+    public static final int drawableSize=0x7f020073;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int drawerArrowStyle=0x7f020075;
+    public static final int drawerArrowStyle=0x7f020074;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int dropDownListViewStyle=0x7f020076;
+    public static final int dropDownListViewStyle=0x7f020075;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -960,14 +953,14 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int dropdownListPreferredItemHeight=0x7f020077;
+    public static final int dropdownListPreferredItemHeight=0x7f020076;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int editTextBackground=0x7f020078;
+    public static final int editTextBackground=0x7f020077;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -977,14 +970,14 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int editTextColor=0x7f020079;
+    public static final int editTextColor=0x7f020078;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int editTextStyle=0x7f02007a;
+    public static final int editTextStyle=0x7f020079;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -992,25 +985,25 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int elevation=0x7f02007b;
+    public static final int elevation=0x7f02007a;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int expandActivityOverflowButtonDrawable=0x7f02007c;
+    public static final int expandActivityOverflowButtonDrawable=0x7f02007b;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int fadeDuration=0x7f02007d;
+    public static final int fadeDuration=0x7f02007c;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int failureImage=0x7f02007e;
+    public static final int failureImage=0x7f02007d;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -1029,81 +1022,12 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      */
-    public static final int failureImageScaleType=0x7f02007f;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int font=0x7f020080;
+    public static final int failureImageScaleType=0x7f02007e;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int fontFamily=0x7f020081;
-    /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int fontProviderAuthority=0x7f020082;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int fontProviderCerts=0x7f020083;
-    /**
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>async</td><td>1</td><td></td></tr>
-     * <tr><td>blocking</td><td>0</td><td></td></tr>
-     * </table>
-     */
-    public static final int fontProviderFetchStrategy=0x7f020084;
-    /**
-     * <p>May be an integer value, such as "<code>100</code>".
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
-     * </table>
-     */
-    public static final int fontProviderFetchTimeout=0x7f020085;
-    /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int fontProviderPackage=0x7f020086;
-    /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int fontProviderQuery=0x7f020087;
-    /**
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>italic</td><td>1</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * </table>
-     */
-    public static final int fontStyle=0x7f020088;
-    /**
-     * <p>May be an integer value, such as "<code>100</code>".
-     */
-    public static final int fontWeight=0x7f020089;
+    public static final int fontFamily=0x7f02007f;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1111,21 +1035,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int gapBetweenBars=0x7f02008a;
+    public static final int gapBetweenBars=0x7f020080;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int gifSrc=0x7f02008b;
+    public static final int gifSrc=0x7f020081;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int goIcon=0x7f02008c;
+    public static final int goIcon=0x7f020082;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1133,39 +1057,39 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int height=0x7f02008d;
+    public static final int height=0x7f020083;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int hideOnContentScroll=0x7f02008e;
+    public static final int hideOnContentScroll=0x7f020084;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int homeAsUpIndicator=0x7f02008f;
+    public static final int homeAsUpIndicator=0x7f020085;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int homeLayout=0x7f020090;
+    public static final int homeLayout=0x7f020086;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int icon=0x7f020091;
+    public static final int icon=0x7f020087;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int iconTint=0x7f020092;
+    public static final int iconTint=0x7f020088;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -1181,36 +1105,36 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      */
-    public static final int iconTintMode=0x7f020093;
+    public static final int iconTintMode=0x7f020089;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int iconifiedByDefault=0x7f020094;
+    public static final int iconifiedByDefault=0x7f02008a;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int imageButtonStyle=0x7f020095;
+    public static final int imageButtonStyle=0x7f02008b;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int indeterminateProgressStyle=0x7f020096;
+    public static final int indeterminateProgressStyle=0x7f02008c;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int initialActivityCount=0x7f020097;
+    public static final int initialActivityCount=0x7f02008d;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int isLightTheme=0x7f020098;
+    public static final int isLightTheme=0x7f02008e;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1218,138 +1142,108 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int itemPadding=0x7f020099;
+    public static final int itemPadding=0x7f02008f;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int keylines=0x7f02009a;
+    public static final int layout=0x7f020090;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int layout=0x7f02009b;
+    public static final int listChoiceBackgroundIndicator=0x7f020091;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int layout_anchor=0x7f02009c;
+    public static final int listDividerAlertDialog=0x7f020092;
     /**
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>center</td><td>11</td><td></td></tr>
-     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
-     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
-     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
-     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>fill</td><td>77</td><td></td></tr>
-     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
-     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int layout_anchorGravity=0x7f02009d;
+    public static final int listItemLayout=0x7f020093;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int listLayout=0x7f020094;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int listMenuViewStyle=0x7f020095;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int listPopupWindowStyle=0x7f020096;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int listPreferredItemHeight=0x7f020097;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int listPreferredItemHeightLarge=0x7f020098;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int listPreferredItemHeightSmall=0x7f020099;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int listPreferredItemPaddingLeft=0x7f02009a;
+    /**
+     * <p>May be a dimension value, which is a floating point number appended with a
+     * unit such as "<code>14.5sp</code>".
+     * Available units are: px (pixels), dp (density-independent pixels),
+     * sp (scaled pixels based on preferred font size), in (inches), and
+     * mm (millimeters).
+     */
+    public static final int listPreferredItemPaddingRight=0x7f02009b;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     */
+    public static final int logo=0x7f02009c;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int layout_behavior=0x7f02009e;
-    /**
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>all</td><td>77</td><td></td></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
-     */
-    public static final int layout_dodgeInsetEdges=0x7f02009f;
-    /**
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
-     */
-    public static final int layout_insetEdge=0x7f0200a0;
-    /**
-     * <p>May be an integer value, such as "<code>100</code>".
-     */
-    public static final int layout_keyline=0x7f0200a1;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int listChoiceBackgroundIndicator=0x7f0200a2;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int listDividerAlertDialog=0x7f0200a3;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int listItemLayout=0x7f0200a4;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int listLayout=0x7f0200a5;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int listMenuViewStyle=0x7f0200a6;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int listPopupWindowStyle=0x7f0200a7;
+    public static final int logoDescription=0x7f02009d;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1357,83 +1251,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int listPreferredItemHeight=0x7f0200a8;
-    /**
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     */
-    public static final int listPreferredItemHeightLarge=0x7f0200a9;
-    /**
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     */
-    public static final int listPreferredItemHeightSmall=0x7f0200aa;
-    /**
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     */
-    public static final int listPreferredItemPaddingLeft=0x7f0200ab;
-    /**
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     */
-    public static final int listPreferredItemPaddingRight=0x7f0200ac;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     */
-    public static final int logo=0x7f0200ad;
-    /**
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     */
-    public static final int logoDescription=0x7f0200ae;
-    /**
-     * <p>May be a dimension value, which is a floating point number appended with a
-     * unit such as "<code>14.5sp</code>".
-     * Available units are: px (pixels), dp (density-independent pixels),
-     * sp (scaled pixels based on preferred font size), in (inches), and
-     * mm (millimeters).
-     */
-    public static final int maxButtonHeight=0x7f0200af;
+    public static final int maxButtonHeight=0x7f02009e;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int measureWithLargestChild=0x7f0200b0;
+    public static final int measureWithLargestChild=0x7f02009f;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int multiChoiceItemLayout=0x7f0200b1;
+    public static final int multiChoiceItemLayout=0x7f0200a0;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int navigationContentDescription=0x7f0200b2;
+    public static final int navigationContentDescription=0x7f0200a1;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int navigationIcon=0x7f0200b3;
+    public static final int navigationIcon=0x7f0200a2;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -1446,7 +1288,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      */
-    public static final int navigationMode=0x7f0200b4;
+    public static final int navigationMode=0x7f0200a3;
     /**
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -1462,7 +1304,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      */
-    public static final int numericModifiers=0x7f0200b5;
+    public static final int numericModifiers=0x7f0200a4;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -1472,7 +1314,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int otherButtonBottomBackground=0x7f0200b6;
+    public static final int otherButtonBottomBackground=0x7f0200a5;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -1482,7 +1324,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int otherButtonMiddleBackground=0x7f0200b7;
+    public static final int otherButtonMiddleBackground=0x7f0200a6;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -1492,7 +1334,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int otherButtonSingleBackground=0x7f0200b8;
+    public static final int otherButtonSingleBackground=0x7f0200a7;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -1504,7 +1346,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int otherButtonSpacing=0x7f0200b9;
+    public static final int otherButtonSpacing=0x7f0200a8;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -1514,7 +1356,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int otherButtonTextColor=0x7f0200ba;
+    public static final int otherButtonTextColor=0x7f0200a9;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -1524,7 +1366,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int otherButtonTitleBackground=0x7f0200bb;
+    public static final int otherButtonTitleBackground=0x7f0200aa;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -1534,19 +1376,19 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int otherButtonTopBackground=0x7f0200bc;
+    public static final int otherButtonTopBackground=0x7f0200ab;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int overlapAnchor=0x7f0200bd;
+    public static final int overlapAnchor=0x7f0200ac;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int overlayImage=0x7f0200be;
+    public static final int overlayImage=0x7f0200ad;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1554,7 +1396,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int paddingBottomNoButtons=0x7f0200bf;
+    public static final int paddingBottomNoButtons=0x7f0200ae;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1562,7 +1404,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int paddingEnd=0x7f0200c0;
+    public static final int paddingEnd=0x7f0200af;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1570,7 +1412,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int paddingStart=0x7f0200c1;
+    public static final int paddingStart=0x7f0200b0;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1578,21 +1420,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int paddingTopNoTitle=0x7f0200c2;
+    public static final int paddingTopNoTitle=0x7f0200b1;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int panelBackground=0x7f0200c3;
+    public static final int panelBackground=0x7f0200b2;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int panelMenuListTheme=0x7f0200c4;
+    public static final int panelMenuListTheme=0x7f0200b3;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1600,14 +1442,14 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int panelMenuListWidth=0x7f0200c5;
+    public static final int panelMenuListWidth=0x7f0200b4;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int placeholderImage=0x7f0200c6;
+    public static final int placeholderImage=0x7f0200b5;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -1626,55 +1468,55 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      */
-    public static final int placeholderImageScaleType=0x7f0200c7;
+    public static final int placeholderImageScaleType=0x7f0200b6;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int playCount=0x7f0200c8;
+    public static final int playCount=0x7f0200b7;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int popupMenuStyle=0x7f0200c9;
+    public static final int popupMenuStyle=0x7f0200b8;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int popupTheme=0x7f0200ca;
+    public static final int popupTheme=0x7f0200b9;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int popupWindowStyle=0x7f0200cb;
+    public static final int popupWindowStyle=0x7f0200ba;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int preserveIconSpacing=0x7f0200cc;
+    public static final int preserveIconSpacing=0x7f0200bb;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int pressedStateOverlayImage=0x7f0200cd;
+    public static final int pressedStateOverlayImage=0x7f0200bc;
     /**
      * <p>May be an integer value, such as "<code>100</code>".
      */
-    public static final int progressBarAutoRotateInterval=0x7f0200ce;
+    public static final int progressBarAutoRotateInterval=0x7f0200bd;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int progressBarImage=0x7f0200cf;
+    public static final int progressBarImage=0x7f0200be;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -1693,7 +1535,7 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      */
-    public static final int progressBarImageScaleType=0x7f0200d0;
+    public static final int progressBarImageScaleType=0x7f0200bf;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1701,61 +1543,61 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int progressBarPadding=0x7f0200d1;
+    public static final int progressBarPadding=0x7f0200c0;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int progressBarStyle=0x7f0200d2;
+    public static final int progressBarStyle=0x7f0200c1;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int queryBackground=0x7f0200d3;
+    public static final int queryBackground=0x7f0200c2;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int queryHint=0x7f0200d4;
+    public static final int queryHint=0x7f0200c3;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int radioButtonStyle=0x7f0200d5;
+    public static final int radioButtonStyle=0x7f0200c4;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int ratingBarStyle=0x7f0200d6;
+    public static final int ratingBarStyle=0x7f0200c5;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int ratingBarStyleIndicator=0x7f0200d7;
+    public static final int ratingBarStyleIndicator=0x7f0200c6;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int ratingBarStyleSmall=0x7f0200d8;
+    public static final int ratingBarStyleSmall=0x7f0200c7;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int retryImage=0x7f0200d9;
+    public static final int retryImage=0x7f0200c8;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -1774,38 +1616,38 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      */
-    public static final int retryImageScaleType=0x7f0200da;
+    public static final int retryImageScaleType=0x7f0200c9;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int roundAsCircle=0x7f0200db;
+    public static final int roundAsCircle=0x7f0200ca;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int roundBottomLeft=0x7f0200dc;
+    public static final int roundBottomLeft=0x7f0200cb;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int roundBottomRight=0x7f0200dd;
+    public static final int roundBottomRight=0x7f0200cc;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int roundTopLeft=0x7f0200de;
+    public static final int roundTopLeft=0x7f0200cd;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int roundTopRight=0x7f0200df;
+    public static final int roundTopRight=0x7f0200ce;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int roundWithOverlayColor=0x7f0200e0;
+    public static final int roundWithOverlayColor=0x7f0200cf;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1813,13 +1655,13 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int roundedCornerRadius=0x7f0200e1;
+    public static final int roundedCornerRadius=0x7f0200d0;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int roundingBorderColor=0x7f0200e2;
+    public static final int roundingBorderColor=0x7f0200d1;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1827,7 +1669,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int roundingBorderPadding=0x7f0200e3;
+    public static final int roundingBorderPadding=0x7f0200d2;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -1835,49 +1677,49 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int roundingBorderWidth=0x7f0200e4;
+    public static final int roundingBorderWidth=0x7f0200d3;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int searchHintIcon=0x7f0200e5;
+    public static final int searchHintIcon=0x7f0200d4;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int searchIcon=0x7f0200e6;
+    public static final int searchIcon=0x7f0200d5;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int searchViewStyle=0x7f0200e7;
+    public static final int searchViewStyle=0x7f0200d6;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int seekBarStyle=0x7f0200e8;
+    public static final int seekBarStyle=0x7f0200d7;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int selectableItemBackground=0x7f0200e9;
+    public static final int selectableItemBackground=0x7f0200d8;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int selectableItemBackgroundBorderless=0x7f0200ea;
+    public static final int selectableItemBackgroundBorderless=0x7f0200d9;
     /**
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -1892,7 +1734,7 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      */
-    public static final int showAsAction=0x7f0200eb;
+    public static final int showAsAction=0x7f0200da;
     /**
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
      * <table>
@@ -1906,116 +1748,106 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      */
-    public static final int showDividers=0x7f0200ec;
+    public static final int showDividers=0x7f0200db;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int showText=0x7f0200ed;
+    public static final int showText=0x7f0200dc;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int showTitle=0x7f0200ee;
+    public static final int showTitle=0x7f0200dd;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int singleChoiceItemLayout=0x7f0200ef;
+    public static final int singleChoiceItemLayout=0x7f0200de;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int spinBars=0x7f0200f0;
+    public static final int spinBars=0x7f0200df;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int spinnerDropDownItemStyle=0x7f0200f1;
+    public static final int spinnerDropDownItemStyle=0x7f0200e0;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int spinnerStyle=0x7f0200f2;
+    public static final int spinnerStyle=0x7f0200e1;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int splitTrack=0x7f0200f3;
+    public static final int splitTrack=0x7f0200e2;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int srcCompat=0x7f0200f4;
+    public static final int srcCompat=0x7f0200e3;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int state_above_anchor=0x7f0200f5;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     */
-    public static final int statusBarBackground=0x7f0200f6;
+    public static final int state_above_anchor=0x7f0200e4;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int subMenuArrow=0x7f0200f7;
+    public static final int subMenuArrow=0x7f0200e5;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int submitBackground=0x7f0200f8;
+    public static final int submitBackground=0x7f0200e6;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int subtitle=0x7f0200f9;
+    public static final int subtitle=0x7f0200e7;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int subtitleTextAppearance=0x7f0200fa;
+    public static final int subtitleTextAppearance=0x7f0200e8;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int subtitleTextColor=0x7f0200fb;
+    public static final int subtitleTextColor=0x7f0200e9;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int subtitleTextStyle=0x7f0200fc;
+    public static final int subtitleTextStyle=0x7f0200ea;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int suggestionRowLayout=0x7f0200fd;
+    public static final int suggestionRowLayout=0x7f0200eb;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2023,7 +1855,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int switchMinWidth=0x7f0200fe;
+    public static final int switchMinWidth=0x7f0200ec;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2031,21 +1863,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int switchPadding=0x7f0200ff;
+    public static final int switchPadding=0x7f0200ed;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int switchStyle=0x7f020100;
+    public static final int switchStyle=0x7f0200ee;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int switchTextAppearance=0x7f020101;
+    public static final int switchTextAppearance=0x7f0200ef;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -2054,73 +1886,63 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int textAllCaps=0x7f020102;
+    public static final int textAllCaps=0x7f0200f0;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearanceLargePopupMenu=0x7f020103;
+    public static final int textAppearanceLargePopupMenu=0x7f0200f1;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearanceListItem=0x7f020104;
+    public static final int textAppearanceListItem=0x7f0200f2;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearanceListItemSecondary=0x7f020105;
+    public static final int textAppearanceListItemSecondary=0x7f0200f3;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearanceListItemSmall=0x7f020106;
+    public static final int textAppearanceListItemSmall=0x7f0200f4;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearancePopupMenuHeader=0x7f020107;
+    public static final int textAppearancePopupMenuHeader=0x7f0200f5;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearanceSearchResultSubtitle=0x7f020108;
+    public static final int textAppearanceSearchResultSubtitle=0x7f0200f6;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearanceSearchResultTitle=0x7f020109;
+    public static final int textAppearanceSearchResultTitle=0x7f0200f7;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int textAppearanceSmallPopupMenu=0x7f02010a;
-    /**
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     */
-    public static final int textColorAlertDialogListItem=0x7f02010b;
+    public static final int textAppearanceSmallPopupMenu=0x7f0200f8;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -2130,14 +1952,24 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int textColorSearchUrl=0x7f02010c;
+    public static final int textColorAlertDialogListItem=0x7f0200f9;
+    /**
+     * <p>May be a reference to another resource, in the form
+     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
+     * attribute in the form
+     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
+     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
+     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
+     * "<code>#<i>aarrggbb</i></code>".
+     */
+    public static final int textColorSearchUrl=0x7f0200fa;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int theme=0x7f02010d;
+    public static final int theme=0x7f0200fb;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2145,7 +1977,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int thickness=0x7f02010e;
+    public static final int thickness=0x7f0200fc;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2153,13 +1985,13 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int thumbTextPadding=0x7f02010f;
+    public static final int thumbTextPadding=0x7f0200fd;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int thumbTint=0x7f020110;
+    public static final int thumbTint=0x7f0200fe;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -2175,20 +2007,20 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      */
-    public static final int thumbTintMode=0x7f020111;
+    public static final int thumbTintMode=0x7f0200ff;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int tickMark=0x7f020112;
+    public static final int tickMark=0x7f020100;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int tickMarkTint=0x7f020113;
+    public static final int tickMarkTint=0x7f020101;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -2204,13 +2036,13 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      */
-    public static final int tickMarkTintMode=0x7f020114;
+    public static final int tickMarkTintMode=0x7f020102;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int tint=0x7f020115;
+    public static final int tint=0x7f020103;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -2226,12 +2058,12 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      */
-    public static final int tintMode=0x7f020116;
+    public static final int tintMode=0x7f020104;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int title=0x7f020117;
+    public static final int title=0x7f020105;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -2241,7 +2073,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int titleButtonTextColor=0x7f020118;
+    public static final int titleButtonTextColor=0x7f020106;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2249,7 +2081,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int titleMargin=0x7f020119;
+    public static final int titleMargin=0x7f020107;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2257,7 +2089,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int titleMarginBottom=0x7f02011a;
+    public static final int titleMarginBottom=0x7f020108;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2265,7 +2097,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int titleMarginEnd=0x7f02011b;
+    public static final int titleMarginEnd=0x7f020109;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2273,7 +2105,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int titleMarginStart=0x7f02011c;
+    public static final int titleMarginStart=0x7f02010a;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2281,7 +2113,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int titleMarginTop=0x7f02011d;
+    public static final int titleMarginTop=0x7f02010b;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2289,41 +2121,41 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      */
-    public static final int titleMargins=0x7f02011e;
+    public static final int titleMargins=0x7f02010c;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int titleTextAppearance=0x7f02011f;
+    public static final int titleTextAppearance=0x7f02010d;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int titleTextColor=0x7f020120;
+    public static final int titleTextColor=0x7f02010e;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int titleTextStyle=0x7f020121;
+    public static final int titleTextStyle=0x7f02010f;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int toolbarNavigationButtonStyle=0x7f020122;
+    public static final int toolbarNavigationButtonStyle=0x7f020110;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int toolbarStyle=0x7f020123;
+    public static final int toolbarStyle=0x7f020111;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
@@ -2333,32 +2165,32 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int tooltipForegroundColor=0x7f020124;
+    public static final int tooltipForegroundColor=0x7f020112;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int tooltipFrameBackground=0x7f020125;
+    public static final int tooltipFrameBackground=0x7f020113;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int tooltipText=0x7f020126;
+    public static final int tooltipText=0x7f020114;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int track=0x7f020127;
+    public static final int track=0x7f020115;
     /**
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      */
-    public static final int trackTint=0x7f020128;
+    public static final int trackTint=0x7f020116;
     /**
      * <p>Must be one of the following constant values.</p>
      * <table>
@@ -2374,38 +2206,38 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      */
-    public static final int trackTintMode=0x7f020129;
+    public static final int trackTintMode=0x7f020117;
     /**
      * <p>May be a floating point value, such as "<code>1.2</code>".
      */
-    public static final int viewAspectRatio=0x7f02012a;
+    public static final int viewAspectRatio=0x7f020118;
     /**
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      */
-    public static final int viewInflaterClass=0x7f02012b;
+    public static final int viewInflaterClass=0x7f020119;
     /**
      * <p>May be a reference to another resource, in the form
      * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      */
-    public static final int voiceIcon=0x7f02012c;
+    public static final int voiceIcon=0x7f02011a;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int windowActionBar=0x7f02012d;
+    public static final int windowActionBar=0x7f02011b;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int windowActionBarOverlay=0x7f02012e;
+    public static final int windowActionBarOverlay=0x7f02011c;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int windowActionModeOverlay=0x7f02012f;
+    public static final int windowActionModeOverlay=0x7f02011d;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2417,7 +2249,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      */
-    public static final int windowFixedHeightMajor=0x7f020130;
+    public static final int windowFixedHeightMajor=0x7f02011e;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2429,7 +2261,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      */
-    public static final int windowFixedHeightMinor=0x7f020131;
+    public static final int windowFixedHeightMinor=0x7f02011f;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2441,7 +2273,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      */
-    public static final int windowFixedWidthMajor=0x7f020132;
+    public static final int windowFixedWidthMajor=0x7f020120;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2453,7 +2285,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      */
-    public static final int windowFixedWidthMinor=0x7f020133;
+    public static final int windowFixedWidthMinor=0x7f020121;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2465,7 +2297,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      */
-    public static final int windowMinWidthMajor=0x7f020134;
+    public static final int windowMinWidthMajor=0x7f020122;
     /**
      * <p>May be a dimension value, which is a floating point number appended with a
      * unit such as "<code>14.5sp</code>".
@@ -2477,12 +2309,12 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      */
-    public static final int windowMinWidthMinor=0x7f020135;
+    public static final int windowMinWidthMinor=0x7f020123;
     /**
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      */
-    public static final int windowNoTitle=0x7f020136;
+    public static final int windowNoTitle=0x7f020124;
   }
   public static final class bool {
     public static final int abc_action_bar_embed_tabs=0x7f030000;
@@ -2559,30 +2391,28 @@ public final class R {
     public static final int material_grey_800=0x7f040040;
     public static final int material_grey_850=0x7f040041;
     public static final int material_grey_900=0x7f040042;
-    public static final int notification_action_color_filter=0x7f040043;
-    public static final int notification_icon_bg_color=0x7f040044;
-    public static final int primary_dark_material_dark=0x7f040045;
-    public static final int primary_dark_material_light=0x7f040046;
-    public static final int primary_material_dark=0x7f040047;
-    public static final int primary_material_light=0x7f040048;
-    public static final int primary_text_default_material_dark=0x7f040049;
-    public static final int primary_text_default_material_light=0x7f04004a;
-    public static final int primary_text_disabled_material_dark=0x7f04004b;
-    public static final int primary_text_disabled_material_light=0x7f04004c;
-    public static final int ripple_material_dark=0x7f04004d;
-    public static final int ripple_material_light=0x7f04004e;
-    public static final int secondary_text_default_material_dark=0x7f04004f;
-    public static final int secondary_text_default_material_light=0x7f040050;
-    public static final int secondary_text_disabled_material_dark=0x7f040051;
-    public static final int secondary_text_disabled_material_light=0x7f040052;
-    public static final int switch_thumb_disabled_material_dark=0x7f040053;
-    public static final int switch_thumb_disabled_material_light=0x7f040054;
-    public static final int switch_thumb_material_dark=0x7f040055;
-    public static final int switch_thumb_material_light=0x7f040056;
-    public static final int switch_thumb_normal_material_dark=0x7f040057;
-    public static final int switch_thumb_normal_material_light=0x7f040058;
-    public static final int tooltip_background_dark=0x7f040059;
-    public static final int tooltip_background_light=0x7f04005a;
+    public static final int primary_dark_material_dark=0x7f040043;
+    public static final int primary_dark_material_light=0x7f040044;
+    public static final int primary_material_dark=0x7f040045;
+    public static final int primary_material_light=0x7f040046;
+    public static final int primary_text_default_material_dark=0x7f040047;
+    public static final int primary_text_default_material_light=0x7f040048;
+    public static final int primary_text_disabled_material_dark=0x7f040049;
+    public static final int primary_text_disabled_material_light=0x7f04004a;
+    public static final int ripple_material_dark=0x7f04004b;
+    public static final int ripple_material_light=0x7f04004c;
+    public static final int secondary_text_default_material_dark=0x7f04004d;
+    public static final int secondary_text_default_material_light=0x7f04004e;
+    public static final int secondary_text_disabled_material_dark=0x7f04004f;
+    public static final int secondary_text_disabled_material_light=0x7f040050;
+    public static final int switch_thumb_disabled_material_dark=0x7f040051;
+    public static final int switch_thumb_disabled_material_light=0x7f040052;
+    public static final int switch_thumb_material_dark=0x7f040053;
+    public static final int switch_thumb_material_light=0x7f040054;
+    public static final int switch_thumb_normal_material_dark=0x7f040055;
+    public static final int switch_thumb_normal_material_light=0x7f040056;
+    public static final int tooltip_background_dark=0x7f040057;
+    public static final int tooltip_background_light=0x7f040058;
   }
   public static final class dimen {
     public static final int abc_action_bar_content_inset_material=0x7f050000;
@@ -2660,46 +2490,26 @@ public final class R {
     public static final int abc_text_size_subtitle_material_toolbar=0x7f050048;
     public static final int abc_text_size_title_material=0x7f050049;
     public static final int abc_text_size_title_material_toolbar=0x7f05004a;
-    public static final int compat_button_inset_horizontal_material=0x7f05004b;
-    public static final int compat_button_inset_vertical_material=0x7f05004c;
-    public static final int compat_button_padding_horizontal_material=0x7f05004d;
-    public static final int compat_button_padding_vertical_material=0x7f05004e;
-    public static final int compat_control_corner_material=0x7f05004f;
-    public static final int dcloud_wel_base_content_space=0x7f050050;
-    public static final int dcloud_wel_base_content_space_2=0x7f050051;
-    public static final int dcloud_wel_base_content_text_min_size=0x7f050052;
-    public static final int disabled_alpha_material_dark=0x7f050053;
-    public static final int disabled_alpha_material_light=0x7f050054;
-    public static final int highlight_alpha_material_colored=0x7f050055;
-    public static final int highlight_alpha_material_dark=0x7f050056;
-    public static final int highlight_alpha_material_light=0x7f050057;
-    public static final int hint_alpha_material_dark=0x7f050058;
-    public static final int hint_alpha_material_light=0x7f050059;
-    public static final int hint_pressed_alpha_material_dark=0x7f05005a;
-    public static final int hint_pressed_alpha_material_light=0x7f05005b;
-    public static final int notification_action_icon_size=0x7f05005c;
-    public static final int notification_action_text_size=0x7f05005d;
-    public static final int notification_big_circle_margin=0x7f05005e;
-    public static final int notification_content_margin_start=0x7f05005f;
-    public static final int notification_large_icon_height=0x7f050060;
-    public static final int notification_large_icon_width=0x7f050061;
-    public static final int notification_main_column_padding_top=0x7f050062;
-    public static final int notification_media_narrow_margin=0x7f050063;
-    public static final int notification_right_icon_size=0x7f050064;
-    public static final int notification_right_side_padding_top=0x7f050065;
-    public static final int notification_small_icon_background_padding=0x7f050066;
-    public static final int notification_small_icon_size_as_large=0x7f050067;
-    public static final int notification_subtext_size=0x7f050068;
-    public static final int notification_top_pad=0x7f050069;
-    public static final int notification_top_pad_large_text=0x7f05006a;
-    public static final int tooltip_corner_radius=0x7f05006b;
-    public static final int tooltip_horizontal_padding=0x7f05006c;
-    public static final int tooltip_margin=0x7f05006d;
-    public static final int tooltip_precise_anchor_extra_offset=0x7f05006e;
-    public static final int tooltip_precise_anchor_threshold=0x7f05006f;
-    public static final int tooltip_vertical_padding=0x7f050070;
-    public static final int tooltip_y_offset_non_touch=0x7f050071;
-    public static final int tooltip_y_offset_touch=0x7f050072;
+    public static final int dcloud_wel_base_content_space=0x7f05004b;
+    public static final int dcloud_wel_base_content_space_2=0x7f05004c;
+    public static final int dcloud_wel_base_content_text_min_size=0x7f05004d;
+    public static final int disabled_alpha_material_dark=0x7f05004e;
+    public static final int disabled_alpha_material_light=0x7f05004f;
+    public static final int highlight_alpha_material_colored=0x7f050050;
+    public static final int highlight_alpha_material_dark=0x7f050051;
+    public static final int highlight_alpha_material_light=0x7f050052;
+    public static final int hint_alpha_material_dark=0x7f050053;
+    public static final int hint_alpha_material_light=0x7f050054;
+    public static final int hint_pressed_alpha_material_dark=0x7f050055;
+    public static final int hint_pressed_alpha_material_light=0x7f050056;
+    public static final int tooltip_corner_radius=0x7f050057;
+    public static final int tooltip_horizontal_padding=0x7f050058;
+    public static final int tooltip_margin=0x7f050059;
+    public static final int tooltip_precise_anchor_extra_offset=0x7f05005a;
+    public static final int tooltip_precise_anchor_threshold=0x7f05005b;
+    public static final int tooltip_vertical_padding=0x7f05005c;
+    public static final int tooltip_y_offset_non_touch=0x7f05005d;
+    public static final int tooltip_y_offset_touch=0x7f05005e;
   }
   public static final class drawable {
     public static final int abc_ab_share_pack_mtrl_alpha=0x7f060000;
@@ -2851,40 +2661,28 @@ public final class R {
     public static final int jpush_ic_richpush_actionbar_divider=0x7f060092;
     public static final int jpush_richpush_btn_selector=0x7f060093;
     public static final int jpush_richpush_progressbar=0x7f060094;
-    public static final int notification_action_background=0x7f060095;
-    public static final int notification_bg=0x7f060096;
-    public static final int notification_bg_low=0x7f060097;
-    public static final int notification_bg_low_normal=0x7f060098;
-    public static final int notification_bg_low_pressed=0x7f060099;
-    public static final int notification_bg_normal=0x7f06009a;
-    public static final int notification_bg_normal_pressed=0x7f06009b;
-    public static final int notification_icon_background=0x7f06009c;
-    public static final int notification_template_icon_bg=0x7f06009d;
-    public static final int notification_template_icon_low_bg=0x7f06009e;
-    public static final int notification_tile_bg=0x7f06009f;
-    public static final int notify_panel_notification_icon_bg=0x7f0600a0;
-    public static final int offline_pin=0x7f0600a1;
-    public static final int offline_pin_round=0x7f0600a2;
-    public static final int push=0x7f0600a3;
-    public static final int shortcut_permission_guide_bg=0x7f0600a4;
-    public static final int shortcut_permission_guide_close=0x7f0600a5;
-    public static final int shortcut_permission_guide_play=0x7f0600a6;
-    public static final int side_bar_bg=0x7f0600a7;
-    public static final int side_bar_close=0x7f0600a8;
-    public static final int side_bar_closebar=0x7f0600a9;
-    public static final int side_bar_custom_menu_item_bg=0x7f0600aa;
-    public static final int side_bar_custom_menu_item_line=0x7f0600ab;
-    public static final int side_bar_custom_menu_item_selected=0x7f0600ac;
-    public static final int side_bar_favorite=0x7f0600ad;
-    public static final int side_bar_home=0x7f0600ae;
-    public static final int side_bar_openbar=0x7f0600af;
-    public static final int side_bar_refresh=0x7f0600b0;
-    public static final int side_bar_share=0x7f0600b1;
-    public static final int sidebar_shortcut=0x7f0600b2;
-    public static final int splash=0x7f0600b3;
-    public static final int tooltip_frame_dark=0x7f0600b4;
-    public static final int tooltip_frame_light=0x7f0600b5;
-    public static final int weex_error=0x7f0600b6;
+    public static final int offline_pin=0x7f060095;
+    public static final int offline_pin_round=0x7f060096;
+    public static final int push=0x7f060097;
+    public static final int shortcut_permission_guide_bg=0x7f060098;
+    public static final int shortcut_permission_guide_close=0x7f060099;
+    public static final int shortcut_permission_guide_play=0x7f06009a;
+    public static final int side_bar_bg=0x7f06009b;
+    public static final int side_bar_close=0x7f06009c;
+    public static final int side_bar_closebar=0x7f06009d;
+    public static final int side_bar_custom_menu_item_bg=0x7f06009e;
+    public static final int side_bar_custom_menu_item_line=0x7f06009f;
+    public static final int side_bar_custom_menu_item_selected=0x7f0600a0;
+    public static final int side_bar_favorite=0x7f0600a1;
+    public static final int side_bar_home=0x7f0600a2;
+    public static final int side_bar_openbar=0x7f0600a3;
+    public static final int side_bar_refresh=0x7f0600a4;
+    public static final int side_bar_share=0x7f0600a5;
+    public static final int sidebar_shortcut=0x7f0600a6;
+    public static final int splash=0x7f0600a7;
+    public static final int tooltip_frame_dark=0x7f0600a8;
+    public static final int tooltip_frame_light=0x7f0600a9;
+    public static final int weex_error=0x7f0600aa;
   }
   public static final class id {
     public static final int ALT=0x7f070000;
@@ -2900,313 +2698,280 @@ public final class R {
     public static final int action_bar_spinner=0x7f07000a;
     public static final int action_bar_subtitle=0x7f07000b;
     public static final int action_bar_title=0x7f07000c;
-    public static final int action_container=0x7f07000d;
-    public static final int action_context_bar=0x7f07000e;
-    public static final int action_divider=0x7f07000f;
-    public static final int action_image=0x7f070010;
-    public static final int action_menu_divider=0x7f070011;
-    public static final int action_menu_presenter=0x7f070012;
-    public static final int action_mode_bar=0x7f070013;
-    public static final int action_mode_bar_stub=0x7f070014;
-    public static final int action_mode_close_button=0x7f070015;
-    public static final int action_text=0x7f070016;
-    public static final int actionbarLayoutId=0x7f070017;
-    public static final int actions=0x7f070018;
-    public static final int activity_chooser_view_content=0x7f070019;
-    public static final int ad_dcloud_icon=0x7f07001a;
-    public static final int ad_dcloud_icon_single=0x7f07001b;
-    public static final int ad_dcloud_main_img=0x7f07001c;
-    public static final int ad_dcloud_main_skip=0x7f07001d;
-    public static final int ad_dcloud_name=0x7f07001e;
-    public static final int ad_dcloud_root=0x7f07001f;
-    public static final int ad_dcloud_splash_bottom_bar=0x7f070020;
-    public static final int ad_dcloud_splash_container=0x7f070021;
-    public static final int add=0x7f070022;
-    public static final int alertTitle=0x7f070023;
-    public static final int all=0x7f070024;
-    public static final int always=0x7f070025;
-    public static final int async=0x7f070026;
-    public static final int back=0x7f070027;
-    public static final int bar_title=0x7f070028;
-    public static final int beginning=0x7f070029;
-    public static final int blocking=0x7f07002a;
-    public static final int bottom=0x7f07002b;
-    public static final int bottom_content_layout=0x7f07002c;
-    public static final int btn_back=0x7f07002d;
-    public static final int buttonPanel=0x7f07002e;
-    public static final int cancel=0x7f07002f;
-    public static final int category_btn=0x7f070030;
-    public static final int center=0x7f070031;
-    public static final int centerCrop=0x7f070032;
-    public static final int centerInside=0x7f070033;
-    public static final int center_horizontal=0x7f070034;
-    public static final int center_vertical=0x7f070035;
-    public static final int check_image=0x7f070036;
-    public static final int check_layout=0x7f070037;
-    public static final int checkbox=0x7f070038;
-    public static final int chronometer=0x7f070039;
-    public static final int clip_horizontal=0x7f07003a;
-    public static final int clip_vertical=0x7f07003b;
-    public static final int close=0x7f07003c;
-    public static final int collapseActionView=0x7f07003d;
-    public static final int content=0x7f07003e;
-    public static final int contentPanel=0x7f07003f;
-    public static final int cover=0x7f070040;
-    public static final int custom=0x7f070041;
-    public static final int customLayout=0x7f070042;
-    public static final int customPanel=0x7f070043;
-    public static final int dcloud_dialog_btn1=0x7f070044;
-    public static final int dcloud_dialog_btn2=0x7f070045;
-    public static final int dcloud_dialog_icon=0x7f070046;
-    public static final int dcloud_dialog_msg=0x7f070047;
-    public static final int dcloud_dialog_rootview=0x7f070048;
-    public static final int dcloud_dialog_title=0x7f070049;
-    public static final int dcloud_guide_close=0x7f07004a;
-    public static final int dcloud_guide_gifview=0x7f07004b;
-    public static final int dcloud_guide_play=0x7f07004c;
-    public static final int dcloud_guide_play_layout=0x7f07004d;
-    public static final int dcloud_guide_tip=0x7f07004e;
-    public static final int dcloud_iv_loading=0x7f07004f;
-    public static final int dcloud_pb_loading=0x7f070050;
-    public static final int dcloud_pd_root=0x7f070051;
-    public static final int dcloud_record_address_view_1=0x7f070052;
-    public static final int dcloud_record_address_view_2=0x7f070053;
-    public static final int dcloud_record_address_view_3=0x7f070054;
-    public static final int dcloud_record_arrow_left=0x7f070055;
-    public static final int dcloud_record_arrow_left_layout=0x7f070056;
-    public static final int dcloud_record_arrow_right=0x7f070057;
-    public static final int dcloud_record_arrow_right_layout=0x7f070058;
-    public static final int dcloud_record_arrows=0x7f070059;
-    public static final int dcloud_record_line_1=0x7f07005a;
-    public static final int dcloud_record_line_2=0x7f07005b;
-    public static final int dcloud_record_scroll_view=0x7f07005c;
-    public static final int dcloud_record_view_1=0x7f07005d;
-    public static final int dcloud_record_view_2=0x7f07005e;
-    public static final int dcloud_tv_loading=0x7f07005f;
-    public static final int dcloud_view_seaparator=0x7f070060;
-    public static final int decor_content_parent=0x7f070061;
-    public static final int default_activity_button=0x7f070062;
-    public static final int delete=0x7f070063;
-    public static final int disableHome=0x7f070064;
-    public static final int done=0x7f070065;
-    public static final int edit_query=0x7f070066;
-    public static final int end=0x7f070067;
-    public static final int expand_activities_button=0x7f070068;
-    public static final int expanded_menu=0x7f070069;
-    public static final int favoriteIcon=0x7f07006a;
-    public static final int fill=0x7f07006b;
-    public static final int fill_horizontal=0x7f07006c;
-    public static final int fill_vertical=0x7f07006d;
-    public static final int fitCenter=0x7f07006e;
-    public static final int fitEnd=0x7f07006f;
-    public static final int fitStart=0x7f070070;
-    public static final int fitXY=0x7f070071;
-    public static final int focusCrop=0x7f070072;
-    public static final int footer=0x7f070073;
-    public static final int forever=0x7f070074;
-    public static final int fullWebView=0x7f070075;
-    public static final int getui_big_bigtext_defaultView=0x7f070076;
-    public static final int getui_big_bigview_defaultView=0x7f070077;
-    public static final int getui_big_defaultView=0x7f070078;
-    public static final int getui_big_default_Content=0x7f070079;
-    public static final int getui_big_imageView_headsup=0x7f07007a;
-    public static final int getui_big_imageView_headsup2=0x7f07007b;
-    public static final int getui_big_notification=0x7f07007c;
-    public static final int getui_big_notification_content=0x7f07007d;
-    public static final int getui_big_notification_date=0x7f07007e;
-    public static final int getui_big_notification_icon=0x7f07007f;
-    public static final int getui_big_notification_icon2=0x7f070080;
-    public static final int getui_big_notification_title=0x7f070081;
-    public static final int getui_big_notification_title_center=0x7f070082;
-    public static final int getui_big_text_headsup=0x7f070083;
-    public static final int getui_bigview_banner=0x7f070084;
-    public static final int getui_bigview_expanded=0x7f070085;
-    public static final int getui_headsup_banner=0x7f070086;
-    public static final int getui_icon_headsup=0x7f070087;
-    public static final int getui_message_headsup=0x7f070088;
-    public static final int getui_notification_L=0x7f070089;
-    public static final int getui_notification_L_context=0x7f07008a;
-    public static final int getui_notification_L_icon=0x7f07008b;
-    public static final int getui_notification_L_line1=0x7f07008c;
-    public static final int getui_notification_L_line2=0x7f07008d;
-    public static final int getui_notification_L_line3=0x7f07008e;
-    public static final int getui_notification_L_right_icon=0x7f07008f;
-    public static final int getui_notification_L_time=0x7f070090;
-    public static final int getui_notification__style2_title=0x7f070091;
-    public static final int getui_notification_bg=0x7f070092;
-    public static final int getui_notification_date=0x7f070093;
-    public static final int getui_notification_download_L=0x7f070094;
-    public static final int getui_notification_download_content=0x7f070095;
-    public static final int getui_notification_download_content_L=0x7f070096;
-    public static final int getui_notification_download_info_L=0x7f070097;
-    public static final int getui_notification_download_progressBar_L=0x7f070098;
-    public static final int getui_notification_download_progressbar=0x7f070099;
-    public static final int getui_notification_download_title_L=0x7f07009a;
-    public static final int getui_notification_headsup=0x7f07009b;
-    public static final int getui_notification_icon=0x7f07009c;
-    public static final int getui_notification_icon2=0x7f07009d;
-    public static final int getui_notification_l_layout=0x7f07009e;
-    public static final int getui_notification_style1=0x7f07009f;
-    public static final int getui_notification_style1_content=0x7f0700a0;
-    public static final int getui_notification_style1_title=0x7f0700a1;
-    public static final int getui_notification_style2=0x7f0700a2;
-    public static final int getui_notification_style3=0x7f0700a3;
-    public static final int getui_notification_style3_content=0x7f0700a4;
-    public static final int getui_notification_style4=0x7f0700a5;
-    public static final int getui_notification_title_L=0x7f0700a6;
-    public static final int getui_root_view=0x7f0700a7;
-    public static final int getui_time_headsup=0x7f0700a8;
-    public static final int getui_title_headsup=0x7f0700a9;
-    public static final int gif_info=0x7f0700aa;
-    public static final int glide_custom_view_target_tag=0x7f0700ab;
-    public static final int gridGallery=0x7f0700ac;
-    public static final int guide_title=0x7f0700ad;
-    public static final int help_ll=0x7f0700ae;
-    public static final int home=0x7f0700af;
-    public static final int homeAsUp=0x7f0700b0;
-    public static final int icon=0x7f0700b1;
-    public static final int icon_group=0x7f0700b2;
-    public static final int ifRoom=0x7f0700b3;
-    public static final int image=0x7f0700b4;
-    public static final int imgNoMedia=0x7f0700b5;
-    public static final int imgQueue=0x7f0700b6;
-    public static final int imgQueueMask=0x7f0700b7;
-    public static final int imgRichpushBtnBack=0x7f0700b8;
-    public static final int imgView=0x7f0700b9;
-    public static final int indicator=0x7f0700ba;
-    public static final int info=0x7f0700bb;
-    public static final int italic=0x7f0700bc;
-    public static final int iv_help=0x7f0700bd;
-    public static final int iv_refresh=0x7f0700be;
-    public static final int iv_service=0x7f0700bf;
-    public static final int iv_speed=0x7f0700c0;
-    public static final int left=0x7f0700c1;
-    public static final int leftLayout=0x7f0700c2;
-    public static final int line1=0x7f0700c3;
-    public static final int line3=0x7f0700c4;
-    public static final int listMode=0x7f0700c5;
-    public static final int list_item=0x7f0700c6;
-    public static final int ll_title_bar=0x7f0700c7;
-    public static final int loading=0x7f0700c8;
-    public static final int logs=0x7f0700c9;
-    public static final int mImgStartBg=0x7f0700ca;
-    public static final int mTvState=0x7f0700cb;
-    public static final int mask_view=0x7f0700cc;
-    public static final int media_image=0x7f0700cd;
-    public static final int menu=0x7f0700ce;
-    public static final int message=0x7f0700cf;
-    public static final int middle=0x7f0700d0;
-    public static final int multiply=0x7f0700d1;
-    public static final int name=0x7f0700d2;
-    public static final int never=0x7f0700d3;
-    public static final int none=0x7f0700d4;
-    public static final int normal=0x7f0700d5;
-    public static final int notification_background=0x7f0700d6;
-    public static final int notification_main_column=0x7f0700d7;
-    public static final int notification_main_column_container=0x7f0700d8;
-    public static final int page=0x7f0700d9;
-    public static final int pager=0x7f0700da;
-    public static final int parentPanel=0x7f0700db;
-    public static final int path=0x7f0700dc;
-    public static final int photoview=0x7f0700dd;
-    public static final int play_view=0x7f0700de;
-    public static final int popLayoutId=0x7f0700df;
-    public static final int preview=0x7f0700e0;
-    public static final int progressBar=0x7f0700e1;
-    public static final int progress_circular=0x7f0700e2;
-    public static final int progress_horizontal=0x7f0700e3;
-    public static final int pushPrograssBar=0x7f0700e4;
-    public static final int query_page=0x7f0700e5;
-    public static final int radio=0x7f0700e6;
-    public static final int recycler_view=0x7f0700e7;
-    public static final int refresh=0x7f0700e8;
-    public static final int right=0x7f0700e9;
-    public static final int rightLayout=0x7f0700ea;
-    public static final int right_icon=0x7f0700eb;
-    public static final int right_side=0x7f0700ec;
-    public static final int rlRichpushTitleBar=0x7f0700ed;
-    public static final int rl_notification=0x7f0700ee;
-    public static final int root=0x7f0700ef;
-    public static final int screen=0x7f0700f0;
-    public static final int scrollIndicatorDown=0x7f0700f1;
-    public static final int scrollIndicatorUp=0x7f0700f2;
-    public static final int scrollView=0x7f0700f3;
-    public static final int search_badge=0x7f0700f4;
-    public static final int search_bar=0x7f0700f5;
-    public static final int search_button=0x7f0700f6;
-    public static final int search_close_btn=0x7f0700f7;
-    public static final int search_edit_frame=0x7f0700f8;
-    public static final int search_go_btn=0x7f0700f9;
-    public static final int search_mag_icon=0x7f0700fa;
-    public static final int search_plate=0x7f0700fb;
-    public static final int search_src_text=0x7f0700fc;
-    public static final int search_voice_btn=0x7f0700fd;
-    public static final int select_dialog_listview=0x7f0700fe;
-    public static final int select_text=0x7f0700ff;
-    public static final int set_priority=0x7f070100;
-    public static final int shortcut=0x7f070101;
-    public static final int showCustom=0x7f070102;
-    public static final int showHome=0x7f070103;
-    public static final int showTitle=0x7f070104;
-    public static final int sideBarButtonsLayout=0x7f070105;
-    public static final int sideBarCloseLayout=0x7f070106;
-    public static final int sideBarFavoriteLayout=0x7f070107;
-    public static final int sideBarHomeLayout=0x7f070108;
-    public static final int sideBarOpenOrCloseIV=0x7f070109;
-    public static final int sideBarOpenOrCloseLayout=0x7f07010a;
-    public static final int sideBarOpenOrCloseTipIV=0x7f07010b;
-    public static final int sideBarReFreshLayout=0x7f07010c;
-    public static final int sideBarShareLayout=0x7f07010d;
-    public static final int size=0x7f07010e;
-    public static final int spacer=0x7f07010f;
-    public static final int split_action_bar=0x7f070110;
-    public static final int src_atop=0x7f070111;
-    public static final int src_in=0x7f070112;
-    public static final int src_over=0x7f070113;
-    public static final int start=0x7f070114;
-    public static final int start_manage=0x7f070115;
-    public static final int submenuarrow=0x7f070116;
-    public static final int submit_area=0x7f070117;
-    public static final int sure=0x7f070118;
-    public static final int tab0=0x7f070119;
-    public static final int tab1=0x7f07011a;
-    public static final int tab2=0x7f07011b;
-    public static final int tab3=0x7f07011c;
-    public static final int tabMode=0x7f07011d;
-    public static final int tag_transition_group=0x7f07011e;
-    public static final int text=0x7f07011f;
-    public static final int text2=0x7f070120;
-    public static final int textSpacerNoButtons=0x7f070121;
-    public static final int textSpacerNoTitle=0x7f070122;
-    public static final int textView_gif=0x7f070123;
-    public static final int textView_size=0x7f070124;
-    public static final int text_bar=0x7f070125;
-    public static final int time=0x7f070126;
-    public static final int title=0x7f070127;
-    public static final int titleBtn=0x7f070128;
-    public static final int titleDividerNoCustom=0x7f070129;
-    public static final int title_template=0x7f07012a;
-    public static final int top=0x7f07012b;
-    public static final int topPanel=0x7f07012c;
-    public static final int tvRichpushTitle=0x7f07012d;
-    public static final int tvTitleText=0x7f07012e;
-    public static final int tv_version=0x7f07012f;
-    public static final int uniform=0x7f070130;
-    public static final int up=0x7f070131;
-    public static final int useLogo=0x7f070132;
-    public static final int video_info=0x7f070133;
-    public static final int viewpager=0x7f070134;
-    public static final int webview=0x7f070135;
-    public static final int withText=0x7f070136;
-    public static final int wrap_content=0x7f070137;
-    public static final int wvPopwin=0x7f070138;
+    public static final int action_context_bar=0x7f07000d;
+    public static final int action_menu_divider=0x7f07000e;
+    public static final int action_menu_presenter=0x7f07000f;
+    public static final int action_mode_bar=0x7f070010;
+    public static final int action_mode_bar_stub=0x7f070011;
+    public static final int action_mode_close_button=0x7f070012;
+    public static final int actionbarLayoutId=0x7f070013;
+    public static final int activity_chooser_view_content=0x7f070014;
+    public static final int ad_dcloud_icon=0x7f070015;
+    public static final int ad_dcloud_icon_single=0x7f070016;
+    public static final int ad_dcloud_main_img=0x7f070017;
+    public static final int ad_dcloud_main_skip=0x7f070018;
+    public static final int ad_dcloud_name=0x7f070019;
+    public static final int ad_dcloud_root=0x7f07001a;
+    public static final int ad_dcloud_splash_bottom_bar=0x7f07001b;
+    public static final int ad_dcloud_splash_container=0x7f07001c;
+    public static final int add=0x7f07001d;
+    public static final int alertTitle=0x7f07001e;
+    public static final int always=0x7f07001f;
+    public static final int back=0x7f070020;
+    public static final int bar_title=0x7f070021;
+    public static final int beginning=0x7f070022;
+    public static final int bottom=0x7f070023;
+    public static final int bottom_content_layout=0x7f070024;
+    public static final int btn_back=0x7f070025;
+    public static final int buttonPanel=0x7f070026;
+    public static final int cancel=0x7f070027;
+    public static final int category_btn=0x7f070028;
+    public static final int center=0x7f070029;
+    public static final int centerCrop=0x7f07002a;
+    public static final int centerInside=0x7f07002b;
+    public static final int check_image=0x7f07002c;
+    public static final int check_layout=0x7f07002d;
+    public static final int checkbox=0x7f07002e;
+    public static final int close=0x7f07002f;
+    public static final int collapseActionView=0x7f070030;
+    public static final int content=0x7f070031;
+    public static final int contentPanel=0x7f070032;
+    public static final int cover=0x7f070033;
+    public static final int custom=0x7f070034;
+    public static final int customLayout=0x7f070035;
+    public static final int customPanel=0x7f070036;
+    public static final int dcloud_dialog_btn1=0x7f070037;
+    public static final int dcloud_dialog_btn2=0x7f070038;
+    public static final int dcloud_dialog_icon=0x7f070039;
+    public static final int dcloud_dialog_msg=0x7f07003a;
+    public static final int dcloud_dialog_rootview=0x7f07003b;
+    public static final int dcloud_dialog_title=0x7f07003c;
+    public static final int dcloud_guide_close=0x7f07003d;
+    public static final int dcloud_guide_gifview=0x7f07003e;
+    public static final int dcloud_guide_play=0x7f07003f;
+    public static final int dcloud_guide_play_layout=0x7f070040;
+    public static final int dcloud_guide_tip=0x7f070041;
+    public static final int dcloud_iv_loading=0x7f070042;
+    public static final int dcloud_pb_loading=0x7f070043;
+    public static final int dcloud_pd_root=0x7f070044;
+    public static final int dcloud_record_address_view_1=0x7f070045;
+    public static final int dcloud_record_address_view_2=0x7f070046;
+    public static final int dcloud_record_address_view_3=0x7f070047;
+    public static final int dcloud_record_arrow_left=0x7f070048;
+    public static final int dcloud_record_arrow_left_layout=0x7f070049;
+    public static final int dcloud_record_arrow_right=0x7f07004a;
+    public static final int dcloud_record_arrow_right_layout=0x7f07004b;
+    public static final int dcloud_record_arrows=0x7f07004c;
+    public static final int dcloud_record_line_1=0x7f07004d;
+    public static final int dcloud_record_line_2=0x7f07004e;
+    public static final int dcloud_record_scroll_view=0x7f07004f;
+    public static final int dcloud_record_view_1=0x7f070050;
+    public static final int dcloud_record_view_2=0x7f070051;
+    public static final int dcloud_tv_loading=0x7f070052;
+    public static final int dcloud_view_seaparator=0x7f070053;
+    public static final int decor_content_parent=0x7f070054;
+    public static final int default_activity_button=0x7f070055;
+    public static final int delete=0x7f070056;
+    public static final int disableHome=0x7f070057;
+    public static final int done=0x7f070058;
+    public static final int edit_query=0x7f070059;
+    public static final int end=0x7f07005a;
+    public static final int expand_activities_button=0x7f07005b;
+    public static final int expanded_menu=0x7f07005c;
+    public static final int favoriteIcon=0x7f07005d;
+    public static final int fitCenter=0x7f07005e;
+    public static final int fitEnd=0x7f07005f;
+    public static final int fitStart=0x7f070060;
+    public static final int fitXY=0x7f070061;
+    public static final int focusCrop=0x7f070062;
+    public static final int footer=0x7f070063;
+    public static final int fullWebView=0x7f070064;
+    public static final int getui_big_bigtext_defaultView=0x7f070065;
+    public static final int getui_big_bigview_defaultView=0x7f070066;
+    public static final int getui_big_defaultView=0x7f070067;
+    public static final int getui_big_default_Content=0x7f070068;
+    public static final int getui_big_imageView_headsup=0x7f070069;
+    public static final int getui_big_imageView_headsup2=0x7f07006a;
+    public static final int getui_big_notification=0x7f07006b;
+    public static final int getui_big_notification_content=0x7f07006c;
+    public static final int getui_big_notification_date=0x7f07006d;
+    public static final int getui_big_notification_icon=0x7f07006e;
+    public static final int getui_big_notification_icon2=0x7f07006f;
+    public static final int getui_big_notification_title=0x7f070070;
+    public static final int getui_big_notification_title_center=0x7f070071;
+    public static final int getui_big_text_headsup=0x7f070072;
+    public static final int getui_bigview_banner=0x7f070073;
+    public static final int getui_bigview_expanded=0x7f070074;
+    public static final int getui_headsup_banner=0x7f070075;
+    public static final int getui_icon_headsup=0x7f070076;
+    public static final int getui_message_headsup=0x7f070077;
+    public static final int getui_notification_L=0x7f070078;
+    public static final int getui_notification_L_context=0x7f070079;
+    public static final int getui_notification_L_icon=0x7f07007a;
+    public static final int getui_notification_L_line1=0x7f07007b;
+    public static final int getui_notification_L_line2=0x7f07007c;
+    public static final int getui_notification_L_line3=0x7f07007d;
+    public static final int getui_notification_L_right_icon=0x7f07007e;
+    public static final int getui_notification_L_time=0x7f07007f;
+    public static final int getui_notification__style2_title=0x7f070080;
+    public static final int getui_notification_bg=0x7f070081;
+    public static final int getui_notification_date=0x7f070082;
+    public static final int getui_notification_download_L=0x7f070083;
+    public static final int getui_notification_download_content=0x7f070084;
+    public static final int getui_notification_download_content_L=0x7f070085;
+    public static final int getui_notification_download_info_L=0x7f070086;
+    public static final int getui_notification_download_progressBar_L=0x7f070087;
+    public static final int getui_notification_download_progressbar=0x7f070088;
+    public static final int getui_notification_download_title_L=0x7f070089;
+    public static final int getui_notification_headsup=0x7f07008a;
+    public static final int getui_notification_icon=0x7f07008b;
+    public static final int getui_notification_icon2=0x7f07008c;
+    public static final int getui_notification_l_layout=0x7f07008d;
+    public static final int getui_notification_style1=0x7f07008e;
+    public static final int getui_notification_style1_content=0x7f07008f;
+    public static final int getui_notification_style1_title=0x7f070090;
+    public static final int getui_notification_style2=0x7f070091;
+    public static final int getui_notification_style3=0x7f070092;
+    public static final int getui_notification_style3_content=0x7f070093;
+    public static final int getui_notification_style4=0x7f070094;
+    public static final int getui_notification_title_L=0x7f070095;
+    public static final int getui_root_view=0x7f070096;
+    public static final int getui_time_headsup=0x7f070097;
+    public static final int getui_title_headsup=0x7f070098;
+    public static final int gif_info=0x7f070099;
+    public static final int glide_custom_view_target_tag=0x7f07009a;
+    public static final int gridGallery=0x7f07009b;
+    public static final int guide_title=0x7f07009c;
+    public static final int help_ll=0x7f07009d;
+    public static final int home=0x7f07009e;
+    public static final int homeAsUp=0x7f07009f;
+    public static final int icon=0x7f0700a0;
+    public static final int ifRoom=0x7f0700a1;
+    public static final int image=0x7f0700a2;
+    public static final int imgNoMedia=0x7f0700a3;
+    public static final int imgQueue=0x7f0700a4;
+    public static final int imgQueueMask=0x7f0700a5;
+    public static final int imgRichpushBtnBack=0x7f0700a6;
+    public static final int imgView=0x7f0700a7;
+    public static final int indicator=0x7f0700a8;
+    public static final int iv_help=0x7f0700a9;
+    public static final int iv_refresh=0x7f0700aa;
+    public static final int iv_service=0x7f0700ab;
+    public static final int iv_speed=0x7f0700ac;
+    public static final int leftLayout=0x7f0700ad;
+    public static final int listMode=0x7f0700ae;
+    public static final int list_item=0x7f0700af;
+    public static final int ll_title_bar=0x7f0700b0;
+    public static final int loading=0x7f0700b1;
+    public static final int logs=0x7f0700b2;
+    public static final int mImgStartBg=0x7f0700b3;
+    public static final int mTvState=0x7f0700b4;
+    public static final int mask_view=0x7f0700b5;
+    public static final int media_image=0x7f0700b6;
+    public static final int menu=0x7f0700b7;
+    public static final int message=0x7f0700b8;
+    public static final int middle=0x7f0700b9;
+    public static final int multiply=0x7f0700ba;
+    public static final int name=0x7f0700bb;
+    public static final int never=0x7f0700bc;
+    public static final int none=0x7f0700bd;
+    public static final int normal=0x7f0700be;
+    public static final int page=0x7f0700bf;
+    public static final int pager=0x7f0700c0;
+    public static final int parentPanel=0x7f0700c1;
+    public static final int path=0x7f0700c2;
+    public static final int photoview=0x7f0700c3;
+    public static final int play_view=0x7f0700c4;
+    public static final int popLayoutId=0x7f0700c5;
+    public static final int preview=0x7f0700c6;
+    public static final int progressBar=0x7f0700c7;
+    public static final int progress_circular=0x7f0700c8;
+    public static final int progress_horizontal=0x7f0700c9;
+    public static final int pushPrograssBar=0x7f0700ca;
+    public static final int query_page=0x7f0700cb;
+    public static final int radio=0x7f0700cc;
+    public static final int recycler_view=0x7f0700cd;
+    public static final int refresh=0x7f0700ce;
+    public static final int rightLayout=0x7f0700cf;
+    public static final int rlRichpushTitleBar=0x7f0700d0;
+    public static final int rl_notification=0x7f0700d1;
+    public static final int root=0x7f0700d2;
+    public static final int screen=0x7f0700d3;
+    public static final int scrollIndicatorDown=0x7f0700d4;
+    public static final int scrollIndicatorUp=0x7f0700d5;
+    public static final int scrollView=0x7f0700d6;
+    public static final int search_badge=0x7f0700d7;
+    public static final int search_bar=0x7f0700d8;
+    public static final int search_button=0x7f0700d9;
+    public static final int search_close_btn=0x7f0700da;
+    public static final int search_edit_frame=0x7f0700db;
+    public static final int search_go_btn=0x7f0700dc;
+    public static final int search_mag_icon=0x7f0700dd;
+    public static final int search_plate=0x7f0700de;
+    public static final int search_src_text=0x7f0700df;
+    public static final int search_voice_btn=0x7f0700e0;
+    public static final int select_dialog_listview=0x7f0700e1;
+    public static final int select_text=0x7f0700e2;
+    public static final int set_priority=0x7f0700e3;
+    public static final int shortcut=0x7f0700e4;
+    public static final int showCustom=0x7f0700e5;
+    public static final int showHome=0x7f0700e6;
+    public static final int showTitle=0x7f0700e7;
+    public static final int sideBarButtonsLayout=0x7f0700e8;
+    public static final int sideBarCloseLayout=0x7f0700e9;
+    public static final int sideBarFavoriteLayout=0x7f0700ea;
+    public static final int sideBarHomeLayout=0x7f0700eb;
+    public static final int sideBarOpenOrCloseIV=0x7f0700ec;
+    public static final int sideBarOpenOrCloseLayout=0x7f0700ed;
+    public static final int sideBarOpenOrCloseTipIV=0x7f0700ee;
+    public static final int sideBarReFreshLayout=0x7f0700ef;
+    public static final int sideBarShareLayout=0x7f0700f0;
+    public static final int size=0x7f0700f1;
+    public static final int spacer=0x7f0700f2;
+    public static final int split_action_bar=0x7f0700f3;
+    public static final int src_atop=0x7f0700f4;
+    public static final int src_in=0x7f0700f5;
+    public static final int src_over=0x7f0700f6;
+    public static final int start_manage=0x7f0700f7;
+    public static final int submenuarrow=0x7f0700f8;
+    public static final int submit_area=0x7f0700f9;
+    public static final int sure=0x7f0700fa;
+    public static final int tab0=0x7f0700fb;
+    public static final int tab1=0x7f0700fc;
+    public static final int tab2=0x7f0700fd;
+    public static final int tab3=0x7f0700fe;
+    public static final int tabMode=0x7f0700ff;
+    public static final int text=0x7f070100;
+    public static final int textSpacerNoButtons=0x7f070101;
+    public static final int textSpacerNoTitle=0x7f070102;
+    public static final int textView_gif=0x7f070103;
+    public static final int textView_size=0x7f070104;
+    public static final int text_bar=0x7f070105;
+    public static final int time=0x7f070106;
+    public static final int title=0x7f070107;
+    public static final int titleBtn=0x7f070108;
+    public static final int titleDividerNoCustom=0x7f070109;
+    public static final int title_template=0x7f07010a;
+    public static final int top=0x7f07010b;
+    public static final int topPanel=0x7f07010c;
+    public static final int tvRichpushTitle=0x7f07010d;
+    public static final int tvTitleText=0x7f07010e;
+    public static final int tv_version=0x7f07010f;
+    public static final int uniform=0x7f070110;
+    public static final int up=0x7f070111;
+    public static final int useLogo=0x7f070112;
+    public static final int video_info=0x7f070113;
+    public static final int viewpager=0x7f070114;
+    public static final int webview=0x7f070115;
+    public static final int withText=0x7f070116;
+    public static final int wrap_content=0x7f070117;
+    public static final int wvPopwin=0x7f070118;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f080000;
     public static final int abc_config_activityShortDur=0x7f080001;
     public static final int cancel_button_image_alpha=0x7f080002;
     public static final int config_tooltipAnimTime=0x7f080003;
-    public static final int status_bar_notification_info_maxnum=0x7f080004;
   }
   public static final class layout {
     public static final int abc_action_bar_title_item=0x7f090000;
@@ -3270,19 +3035,13 @@ public final class R {
     public static final int getui_notification=0x7f09003a;
     public static final int jpush_popwin_layout=0x7f09003b;
     public static final int jpush_webview_layout=0x7f09003c;
-    public static final int notification_action=0x7f09003d;
-    public static final int notification_action_tombstone=0x7f09003e;
-    public static final int notification_template_custom_big=0x7f09003f;
-    public static final int notification_template_icon_group=0x7f090040;
-    public static final int notification_template_part_chronometer=0x7f090041;
-    public static final int notification_template_part_time=0x7f090042;
-    public static final int select_dialog_item_material=0x7f090043;
-    public static final int select_dialog_multichoice_material=0x7f090044;
-    public static final int select_dialog_singlechoice_material=0x7f090045;
-    public static final int side_bar_layout=0x7f090046;
-    public static final int support_simple_spinner_dropdown_item=0x7f090047;
-    public static final int webview_layout=0x7f090048;
-    public static final int weex_recycler_layout=0x7f090049;
+    public static final int select_dialog_item_material=0x7f09003d;
+    public static final int select_dialog_multichoice_material=0x7f09003e;
+    public static final int select_dialog_singlechoice_material=0x7f09003f;
+    public static final int side_bar_layout=0x7f090040;
+    public static final int support_simple_spinner_dropdown_item=0x7f090041;
+    public static final int webview_layout=0x7f090042;
+    public static final int weex_recycler_layout=0x7f090043;
   }
   public static final class mipmap {
     public static final int download=0x7f0a0000;
@@ -3349,8 +3108,7 @@ public final class R {
     public static final int dcloud_package_name_base_application=0x7f0c0031;
     public static final int dcloud_sync_debug_message=0x7f0c0032;
     public static final int search_menu_title=0x7f0c0033;
-    public static final int status_bar_notification_info_overflow=0x7f0c0034;
-    public static final int stream_my=0x7f0c0035;
+    public static final int stream_my=0x7f0c0034;
   }
   public static final class style {
     public static final int ActionSheetStyleIOS6=0x7f0d0000;
@@ -3596,123 +3354,115 @@ public final class R {
     public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0d00f0;
     public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0d00f1;
     public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0d00f2;
-    public static final int TextAppearance_Compat_Notification=0x7f0d00f3;
-    public static final int TextAppearance_Compat_Notification_Info=0x7f0d00f4;
-    public static final int TextAppearance_Compat_Notification_Line2=0x7f0d00f5;
-    public static final int TextAppearance_Compat_Notification_Time=0x7f0d00f6;
-    public static final int TextAppearance_Compat_Notification_Title=0x7f0d00f7;
-    public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0d00f8;
-    public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0d00f9;
-    public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0d00fa;
-    public static final int Theme_AppCompat=0x7f0d00fb;
-    public static final int Theme_AppCompat_CompactMenu=0x7f0d00fc;
-    public static final int Theme_AppCompat_DayNight=0x7f0d00fd;
-    public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f0d00fe;
-    public static final int Theme_AppCompat_DayNight_Dialog=0x7f0d00ff;
-    public static final int Theme_AppCompat_DayNight_Dialog_Alert=0x7f0d0100;
-    public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f0d0101;
-    public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f0d0102;
-    public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f0d0103;
-    public static final int Theme_AppCompat_Dialog=0x7f0d0104;
-    public static final int Theme_AppCompat_Dialog_Alert=0x7f0d0105;
-    public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0d0106;
-    public static final int Theme_AppCompat_DialogWhenLarge=0x7f0d0107;
-    public static final int Theme_AppCompat_Light=0x7f0d0108;
-    public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0d0109;
-    public static final int Theme_AppCompat_Light_Dialog=0x7f0d010a;
-    public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0d010b;
-    public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0d010c;
-    public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0d010d;
-    public static final int Theme_AppCompat_Light_NoActionBar=0x7f0d010e;
-    public static final int Theme_AppCompat_NoActionBar=0x7f0d010f;
-    public static final int ThemeNoTitleBar=0x7f0d0110;
-    public static final int ThemeOverlay_AppCompat=0x7f0d0111;
-    public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0d0112;
-    public static final int ThemeOverlay_AppCompat_Dark=0x7f0d0113;
-    public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0d0114;
-    public static final int ThemeOverlay_AppCompat_Dialog=0x7f0d0115;
-    public static final int ThemeOverlay_AppCompat_Dialog_Alert=0x7f0d0116;
-    public static final int ThemeOverlay_AppCompat_Light=0x7f0d0117;
-    public static final int TranslucentTheme=0x7f0d0118;
-    public static final int Widget_AppCompat_ActionBar=0x7f0d0119;
-    public static final int Widget_AppCompat_ActionBar_Solid=0x7f0d011a;
-    public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0d011b;
-    public static final int Widget_AppCompat_ActionBar_TabText=0x7f0d011c;
-    public static final int Widget_AppCompat_ActionBar_TabView=0x7f0d011d;
-    public static final int Widget_AppCompat_ActionButton=0x7f0d011e;
-    public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f0d011f;
-    public static final int Widget_AppCompat_ActionButton_Overflow=0x7f0d0120;
-    public static final int Widget_AppCompat_ActionMode=0x7f0d0121;
-    public static final int Widget_AppCompat_ActivityChooserView=0x7f0d0122;
-    public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0d0123;
-    public static final int Widget_AppCompat_Button=0x7f0d0124;
-    public static final int Widget_AppCompat_Button_Borderless=0x7f0d0125;
-    public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f0d0126;
-    public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0d0127;
-    public static final int Widget_AppCompat_Button_Colored=0x7f0d0128;
-    public static final int Widget_AppCompat_Button_Small=0x7f0d0129;
-    public static final int Widget_AppCompat_ButtonBar=0x7f0d012a;
-    public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f0d012b;
-    public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f0d012c;
-    public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f0d012d;
-    public static final int Widget_AppCompat_CompoundButton_Switch=0x7f0d012e;
-    public static final int Widget_AppCompat_DrawerArrowToggle=0x7f0d012f;
-    public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f0d0130;
-    public static final int Widget_AppCompat_EditText=0x7f0d0131;
-    public static final int Widget_AppCompat_ImageButton=0x7f0d0132;
-    public static final int Widget_AppCompat_Light_ActionBar=0x7f0d0133;
-    public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f0d0134;
-    public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f0d0135;
-    public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f0d0136;
-    public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f0d0137;
-    public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f0d0138;
-    public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f0d0139;
-    public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f0d013a;
-    public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f0d013b;
-    public static final int Widget_AppCompat_Light_ActionButton=0x7f0d013c;
-    public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f0d013d;
-    public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f0d013e;
-    public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f0d013f;
-    public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f0d0140;
-    public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f0d0141;
-    public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f0d0142;
-    public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f0d0143;
-    public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f0d0144;
-    public static final int Widget_AppCompat_Light_PopupMenu=0x7f0d0145;
-    public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f0d0146;
-    public static final int Widget_AppCompat_Light_SearchView=0x7f0d0147;
-    public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f0d0148;
-    public static final int Widget_AppCompat_ListMenuView=0x7f0d0149;
-    public static final int Widget_AppCompat_ListPopupWindow=0x7f0d014a;
-    public static final int Widget_AppCompat_ListView=0x7f0d014b;
-    public static final int Widget_AppCompat_ListView_DropDown=0x7f0d014c;
-    public static final int Widget_AppCompat_ListView_Menu=0x7f0d014d;
-    public static final int Widget_AppCompat_PopupMenu=0x7f0d014e;
-    public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f0d014f;
-    public static final int Widget_AppCompat_PopupWindow=0x7f0d0150;
-    public static final int Widget_AppCompat_ProgressBar=0x7f0d0151;
-    public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f0d0152;
-    public static final int Widget_AppCompat_RatingBar=0x7f0d0153;
-    public static final int Widget_AppCompat_RatingBar_Indicator=0x7f0d0154;
-    public static final int Widget_AppCompat_RatingBar_Small=0x7f0d0155;
-    public static final int Widget_AppCompat_SearchView=0x7f0d0156;
-    public static final int Widget_AppCompat_SearchView_ActionBar=0x7f0d0157;
-    public static final int Widget_AppCompat_SeekBar=0x7f0d0158;
-    public static final int Widget_AppCompat_SeekBar_Discrete=0x7f0d0159;
-    public static final int Widget_AppCompat_Spinner=0x7f0d015a;
-    public static final int Widget_AppCompat_Spinner_DropDown=0x7f0d015b;
-    public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0d015c;
-    public static final int Widget_AppCompat_Spinner_Underlined=0x7f0d015d;
-    public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f0d015e;
-    public static final int Widget_AppCompat_Toolbar=0x7f0d015f;
-    public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f0d0160;
-    public static final int Widget_Compat_NotificationActionContainer=0x7f0d0161;
-    public static final int Widget_Compat_NotificationActionText=0x7f0d0162;
-    public static final int Widget_Support_CoordinatorLayout=0x7f0d0163;
-    public static final int dcloud_anim_dialog_window_in_out=0x7f0d0164;
-    public static final int dcloud_defalut_dialog=0x7f0d0165;
-    public static final int featureLossDialog=0x7f0d0166;
-    public static final int streamDelete19Dialog=0x7f0d0167;
+    public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0d00f3;
+    public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0d00f4;
+    public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0d00f5;
+    public static final int Theme_AppCompat=0x7f0d00f6;
+    public static final int Theme_AppCompat_CompactMenu=0x7f0d00f7;
+    public static final int Theme_AppCompat_DayNight=0x7f0d00f8;
+    public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f0d00f9;
+    public static final int Theme_AppCompat_DayNight_Dialog=0x7f0d00fa;
+    public static final int Theme_AppCompat_DayNight_Dialog_Alert=0x7f0d00fb;
+    public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f0d00fc;
+    public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f0d00fd;
+    public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f0d00fe;
+    public static final int Theme_AppCompat_Dialog=0x7f0d00ff;
+    public static final int Theme_AppCompat_Dialog_Alert=0x7f0d0100;
+    public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0d0101;
+    public static final int Theme_AppCompat_DialogWhenLarge=0x7f0d0102;
+    public static final int Theme_AppCompat_Light=0x7f0d0103;
+    public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0d0104;
+    public static final int Theme_AppCompat_Light_Dialog=0x7f0d0105;
+    public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0d0106;
+    public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0d0107;
+    public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0d0108;
+    public static final int Theme_AppCompat_Light_NoActionBar=0x7f0d0109;
+    public static final int Theme_AppCompat_NoActionBar=0x7f0d010a;
+    public static final int ThemeNoTitleBar=0x7f0d010b;
+    public static final int ThemeOverlay_AppCompat=0x7f0d010c;
+    public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0d010d;
+    public static final int ThemeOverlay_AppCompat_Dark=0x7f0d010e;
+    public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0d010f;
+    public static final int ThemeOverlay_AppCompat_Dialog=0x7f0d0110;
+    public static final int ThemeOverlay_AppCompat_Dialog_Alert=0x7f0d0111;
+    public static final int ThemeOverlay_AppCompat_Light=0x7f0d0112;
+    public static final int TranslucentTheme=0x7f0d0113;
+    public static final int Widget_AppCompat_ActionBar=0x7f0d0114;
+    public static final int Widget_AppCompat_ActionBar_Solid=0x7f0d0115;
+    public static final int Widget_AppCompat_ActionBar_TabBar=0x7f0d0116;
+    public static final int Widget_AppCompat_ActionBar_TabText=0x7f0d0117;
+    public static final int Widget_AppCompat_ActionBar_TabView=0x7f0d0118;
+    public static final int Widget_AppCompat_ActionButton=0x7f0d0119;
+    public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f0d011a;
+    public static final int Widget_AppCompat_ActionButton_Overflow=0x7f0d011b;
+    public static final int Widget_AppCompat_ActionMode=0x7f0d011c;
+    public static final int Widget_AppCompat_ActivityChooserView=0x7f0d011d;
+    public static final int Widget_AppCompat_AutoCompleteTextView=0x7f0d011e;
+    public static final int Widget_AppCompat_Button=0x7f0d011f;
+    public static final int Widget_AppCompat_Button_Borderless=0x7f0d0120;
+    public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f0d0121;
+    public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f0d0122;
+    public static final int Widget_AppCompat_Button_Colored=0x7f0d0123;
+    public static final int Widget_AppCompat_Button_Small=0x7f0d0124;
+    public static final int Widget_AppCompat_ButtonBar=0x7f0d0125;
+    public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f0d0126;
+    public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f0d0127;
+    public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f0d0128;
+    public static final int Widget_AppCompat_CompoundButton_Switch=0x7f0d0129;
+    public static final int Widget_AppCompat_DrawerArrowToggle=0x7f0d012a;
+    public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f0d012b;
+    public static final int Widget_AppCompat_EditText=0x7f0d012c;
+    public static final int Widget_AppCompat_ImageButton=0x7f0d012d;
+    public static final int Widget_AppCompat_Light_ActionBar=0x7f0d012e;
+    public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f0d012f;
+    public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f0d0130;
+    public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f0d0131;
+    public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f0d0132;
+    public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f0d0133;
+    public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f0d0134;
+    public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f0d0135;
+    public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f0d0136;
+    public static final int Widget_AppCompat_Light_ActionButton=0x7f0d0137;
+    public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f0d0138;
+    public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f0d0139;
+    public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f0d013a;
+    public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f0d013b;
+    public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f0d013c;
+    public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f0d013d;
+    public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f0d013e;
+    public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f0d013f;
+    public static final int Widget_AppCompat_Light_PopupMenu=0x7f0d0140;
+    public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f0d0141;
+    public static final int Widget_AppCompat_Light_SearchView=0x7f0d0142;
+    public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f0d0143;
+    public static final int Widget_AppCompat_ListMenuView=0x7f0d0144;
+    public static final int Widget_AppCompat_ListPopupWindow=0x7f0d0145;
+    public static final int Widget_AppCompat_ListView=0x7f0d0146;
+    public static final int Widget_AppCompat_ListView_DropDown=0x7f0d0147;
+    public static final int Widget_AppCompat_ListView_Menu=0x7f0d0148;
+    public static final int Widget_AppCompat_PopupMenu=0x7f0d0149;
+    public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f0d014a;
+    public static final int Widget_AppCompat_PopupWindow=0x7f0d014b;
+    public static final int Widget_AppCompat_ProgressBar=0x7f0d014c;
+    public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f0d014d;
+    public static final int Widget_AppCompat_RatingBar=0x7f0d014e;
+    public static final int Widget_AppCompat_RatingBar_Indicator=0x7f0d014f;
+    public static final int Widget_AppCompat_RatingBar_Small=0x7f0d0150;
+    public static final int Widget_AppCompat_SearchView=0x7f0d0151;
+    public static final int Widget_AppCompat_SearchView_ActionBar=0x7f0d0152;
+    public static final int Widget_AppCompat_SeekBar=0x7f0d0153;
+    public static final int Widget_AppCompat_SeekBar_Discrete=0x7f0d0154;
+    public static final int Widget_AppCompat_Spinner=0x7f0d0155;
+    public static final int Widget_AppCompat_Spinner_DropDown=0x7f0d0156;
+    public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f0d0157;
+    public static final int Widget_AppCompat_Spinner_Underlined=0x7f0d0158;
+    public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f0d0159;
+    public static final int Widget_AppCompat_Toolbar=0x7f0d015a;
+    public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f0d015b;
+    public static final int dcloud_anim_dialog_window_in_out=0x7f0d015c;
+    public static final int dcloud_defalut_dialog=0x7f0d015d;
+    public static final int featureLossDialog=0x7f0d015e;
+    public static final int streamDelete19Dialog=0x7f0d015f;
   }
   public static final class styleable {
     /**
@@ -3722,35 +3472,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.xiaoyong.gjp:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.xiaoyong.gjp:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.xiaoyong.gjp:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.xiaoyong.gjp:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.xiaoyong.gjp:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.xiaoyong.gjp:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.xiaoyong.gjp:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.xiaoyong.gjp:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.xiaoyong.gjp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.xiaoyong.gjp:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.xiaoyong.gjp:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.xiaoyong.gjp:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.xiaoyong.gjp:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.xiaoyong.gjp:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.xiaoyong.gjp:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.xiaoyong.gjp:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.xiaoyong.gjp:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.xiaoyong.gjp:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.xiaoyong.gjp:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.xiaoyong.gjp:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.xiaoyong.gjp:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.xiaoyong.gjp:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.xiaoyong.gjp:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.xiaoyong.gjp:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.xiaoyong.gjp:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.xiaoyong.gjp:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.xiaoyong.gjp:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.xiaoyong.gjp:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.xiaoyong.gjp:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.xiaoyong.gjp1:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.xiaoyong.gjp1:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.xiaoyong.gjp1:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.xiaoyong.gjp1:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.xiaoyong.gjp1:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.xiaoyong.gjp1:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.xiaoyong.gjp1:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.xiaoyong.gjp1:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.xiaoyong.gjp1:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.xiaoyong.gjp1:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.xiaoyong.gjp1:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.xiaoyong.gjp1:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.xiaoyong.gjp1:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.xiaoyong.gjp1:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.xiaoyong.gjp1:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.xiaoyong.gjp1:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.xiaoyong.gjp1:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.xiaoyong.gjp1:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.xiaoyong.gjp1:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.xiaoyong.gjp1:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.xiaoyong.gjp1:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.xiaoyong.gjp1:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.xiaoyong.gjp1:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.xiaoyong.gjp1:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.xiaoyong.gjp1:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.xiaoyong.gjp1:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.xiaoyong.gjp1:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.xiaoyong.gjp1:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.xiaoyong.gjp1:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3785,15 +3535,15 @@ public final class R {
     public static final int[] ActionBar={
         0x7f020038, 0x7f02003a, 0x7f02003b, 0x7f020062, 
         0x7f020063, 0x7f020064, 0x7f020065, 0x7f020066, 
-        0x7f020067, 0x7f02006a, 0x7f02006f, 0x7f020070, 
-        0x7f02007b, 0x7f02008d, 0x7f02008e, 0x7f02008f, 
-        0x7f020090, 0x7f020091, 0x7f020096, 0x7f020099, 
-        0x7f0200ad, 0x7f0200b4, 0x7f0200ca, 0x7f0200d1, 
-        0x7f0200d2, 0x7f0200f9, 0x7f0200fc, 0x7f020117, 
-        0x7f020121
+        0x7f020067, 0x7f020069, 0x7f02006e, 0x7f02006f, 
+        0x7f02007a, 0x7f020083, 0x7f020084, 0x7f020085, 
+        0x7f020086, 0x7f020087, 0x7f02008c, 0x7f02008f, 
+        0x7f02009c, 0x7f0200a3, 0x7f0200b9, 0x7f0200c0, 
+        0x7f0200c1, 0x7f0200e7, 0x7f0200ea, 0x7f020105, 
+        0x7f02010f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3801,11 +3551,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:background
+     * @attr name com.xiaoyong.gjp1:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3816,11 +3566,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:backgroundSplit
+     * @attr name com.xiaoyong.gjp1:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3831,11 +3581,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:backgroundStacked
+     * @attr name com.xiaoyong.gjp1:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3844,11 +3594,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetEnd
+     * @attr name com.xiaoyong.gjp1:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3857,11 +3607,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetEndWithActions
+     * @attr name com.xiaoyong.gjp1:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3870,11 +3620,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetLeft
+     * @attr name com.xiaoyong.gjp1:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3883,11 +3633,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetRight
+     * @attr name com.xiaoyong.gjp1:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3896,11 +3646,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetStart
+     * @attr name com.xiaoyong.gjp1:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3909,11 +3659,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetStartWithNavigation
+     * @attr name com.xiaoyong.gjp1:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3921,11 +3671,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:customNavigationLayout
+     * @attr name com.xiaoyong.gjp1:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3943,11 +3693,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:displayOptions
+     * @attr name com.xiaoyong.gjp1:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3955,11 +3705,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:divider
+     * @attr name com.xiaoyong.gjp1:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3968,11 +3718,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:elevation
+     * @attr name com.xiaoyong.gjp1:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3981,21 +3731,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:height
+     * @attr name com.xiaoyong.gjp1:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:hideOnContentScroll
+     * @attr name com.xiaoyong.gjp1:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4003,11 +3753,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:homeAsUpIndicator
+     * @attr name com.xiaoyong.gjp1:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4015,11 +3765,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:homeLayout
+     * @attr name com.xiaoyong.gjp1:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4027,11 +3777,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:icon
+     * @attr name com.xiaoyong.gjp1:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4039,11 +3789,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:indeterminateProgressStyle
+     * @attr name com.xiaoyong.gjp1:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4052,11 +3802,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:itemPadding
+     * @attr name com.xiaoyong.gjp1:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4064,11 +3814,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:logo
+     * @attr name com.xiaoyong.gjp1:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4082,11 +3832,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:navigationMode
+     * @attr name com.xiaoyong.gjp1:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4094,11 +3844,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:popupTheme
+     * @attr name com.xiaoyong.gjp1:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4107,11 +3857,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:progressBarPadding
+     * @attr name com.xiaoyong.gjp1:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4119,21 +3869,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:progressBarStyle
+     * @attr name com.xiaoyong.gjp1:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:subtitle
+     * @attr name com.xiaoyong.gjp1:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4141,21 +3891,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:subtitleTextStyle
+     * @attr name com.xiaoyong.gjp1:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:title
+     * @attr name com.xiaoyong.gjp1:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4163,7 +3913,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:titleTextStyle
+     * @attr name com.xiaoyong.gjp1:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -4245,12 +3995,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.xiaoyong.gjp:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.xiaoyong.gjp:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.xiaoyong.gjp:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.xiaoyong.gjp:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.xiaoyong.gjp:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.xiaoyong.gjp:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.xiaoyong.gjp1:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.xiaoyong.gjp1:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.xiaoyong.gjp1:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.xiaoyong.gjp1:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.xiaoyong.gjp1:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.xiaoyong.gjp1:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4260,11 +4010,11 @@ public final class R {
      * @see #ActionMode_titleTextStyle
      */
     public static final int[] ActionMode={
-        0x7f020038, 0x7f02003a, 0x7f020052, 0x7f02008d, 
-        0x7f0200fc, 0x7f020121
+        0x7f020038, 0x7f02003a, 0x7f020052, 0x7f020083, 
+        0x7f0200ea, 0x7f02010f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4272,11 +4022,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:background
+     * @attr name com.xiaoyong.gjp1:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4287,11 +4037,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:backgroundSplit
+     * @attr name com.xiaoyong.gjp1:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4299,11 +4049,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:closeItemLayout
+     * @attr name com.xiaoyong.gjp1:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4312,11 +4062,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:height
+     * @attr name com.xiaoyong.gjp1:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4324,11 +4074,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:subtitleTextStyle
+     * @attr name com.xiaoyong.gjp1:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4336,7 +4086,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:titleTextStyle
+     * @attr name com.xiaoyong.gjp1:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -4346,21 +4096,21 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionSheet_actionSheetBackground com.xiaoyong.gjp:actionSheetBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_actionSheetPadding com.xiaoyong.gjp:actionSheetPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_actionSheetTextSize com.xiaoyong.gjp:actionSheetTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_cancelButtonBackground com.xiaoyong.gjp:cancelButtonBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_cancelButtonMarginTop com.xiaoyong.gjp:cancelButtonMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_cancelButtonTextColor com.xiaoyong.gjp:cancelButtonTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_destructiveButtonTextColor com.xiaoyong.gjp:destructiveButtonTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonBottomBackground com.xiaoyong.gjp:otherButtonBottomBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonMiddleBackground com.xiaoyong.gjp:otherButtonMiddleBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonSingleBackground com.xiaoyong.gjp:otherButtonSingleBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonSpacing com.xiaoyong.gjp:otherButtonSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonTextColor com.xiaoyong.gjp:otherButtonTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonTitleBackground com.xiaoyong.gjp:otherButtonTitleBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_otherButtonTopBackground com.xiaoyong.gjp:otherButtonTopBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionSheet_titleButtonTextColor com.xiaoyong.gjp:titleButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_actionSheetBackground com.xiaoyong.gjp1:actionSheetBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_actionSheetPadding com.xiaoyong.gjp1:actionSheetPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_actionSheetTextSize com.xiaoyong.gjp1:actionSheetTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_cancelButtonBackground com.xiaoyong.gjp1:cancelButtonBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_cancelButtonMarginTop com.xiaoyong.gjp1:cancelButtonMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_cancelButtonTextColor com.xiaoyong.gjp1:cancelButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_destructiveButtonTextColor com.xiaoyong.gjp1:destructiveButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonBottomBackground com.xiaoyong.gjp1:otherButtonBottomBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonMiddleBackground com.xiaoyong.gjp1:otherButtonMiddleBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonSingleBackground com.xiaoyong.gjp1:otherButtonSingleBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonSpacing com.xiaoyong.gjp1:otherButtonSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonTextColor com.xiaoyong.gjp1:otherButtonTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonTitleBackground com.xiaoyong.gjp1:otherButtonTitleBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_otherButtonTopBackground com.xiaoyong.gjp1:otherButtonTopBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheet_titleButtonTextColor com.xiaoyong.gjp1:titleButtonTextColor}</code></td><td></td></tr>
      * </table>
      * @see #ActionSheet_actionSheetBackground
      * @see #ActionSheet_actionSheetPadding
@@ -4380,12 +4130,12 @@ public final class R {
      */
     public static final int[] ActionSheet={
         0x7f020020, 0x7f020021, 0x7f020023, 0x7f02004c, 
-        0x7f02004d, 0x7f02004e, 0x7f02006c, 0x7f0200b6, 
-        0x7f0200b7, 0x7f0200b8, 0x7f0200b9, 0x7f0200ba, 
-        0x7f0200bb, 0x7f0200bc, 0x7f020118
+        0x7f02004d, 0x7f02004e, 0x7f02006b, 0x7f0200a5, 
+        0x7f0200a6, 0x7f0200a7, 0x7f0200a8, 0x7f0200a9, 
+        0x7f0200aa, 0x7f0200ab, 0x7f020106
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionSheetBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionSheetBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4396,11 +4146,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionSheetBackground
+     * @attr name com.xiaoyong.gjp1:actionSheetBackground
      */
     public static final int ActionSheet_actionSheetBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionSheetPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionSheetPadding}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4413,11 +4163,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:actionSheetPadding
+     * @attr name com.xiaoyong.gjp1:actionSheetPadding
      */
     public static final int ActionSheet_actionSheetPadding=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionSheetTextSize}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionSheetTextSize}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4430,11 +4180,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:actionSheetTextSize
+     * @attr name com.xiaoyong.gjp1:actionSheetTextSize
      */
     public static final int ActionSheet_actionSheetTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#cancelButtonBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#cancelButtonBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4445,11 +4195,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:cancelButtonBackground
+     * @attr name com.xiaoyong.gjp1:cancelButtonBackground
      */
     public static final int ActionSheet_cancelButtonBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#cancelButtonMarginTop}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#cancelButtonMarginTop}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4462,11 +4212,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:cancelButtonMarginTop
+     * @attr name com.xiaoyong.gjp1:cancelButtonMarginTop
      */
     public static final int ActionSheet_cancelButtonMarginTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#cancelButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#cancelButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4477,11 +4227,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:cancelButtonTextColor
+     * @attr name com.xiaoyong.gjp1:cancelButtonTextColor
      */
     public static final int ActionSheet_cancelButtonTextColor=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#destructiveButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#destructiveButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4492,11 +4242,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:destructiveButtonTextColor
+     * @attr name com.xiaoyong.gjp1:destructiveButtonTextColor
      */
     public static final int ActionSheet_destructiveButtonTextColor=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#otherButtonBottomBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#otherButtonBottomBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4507,11 +4257,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:otherButtonBottomBackground
+     * @attr name com.xiaoyong.gjp1:otherButtonBottomBackground
      */
     public static final int ActionSheet_otherButtonBottomBackground=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#otherButtonMiddleBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#otherButtonMiddleBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4522,11 +4272,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:otherButtonMiddleBackground
+     * @attr name com.xiaoyong.gjp1:otherButtonMiddleBackground
      */
     public static final int ActionSheet_otherButtonMiddleBackground=8;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#otherButtonSingleBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#otherButtonSingleBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4537,11 +4287,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:otherButtonSingleBackground
+     * @attr name com.xiaoyong.gjp1:otherButtonSingleBackground
      */
     public static final int ActionSheet_otherButtonSingleBackground=9;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#otherButtonSpacing}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#otherButtonSpacing}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4554,11 +4304,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:otherButtonSpacing
+     * @attr name com.xiaoyong.gjp1:otherButtonSpacing
      */
     public static final int ActionSheet_otherButtonSpacing=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#otherButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#otherButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4569,11 +4319,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:otherButtonTextColor
+     * @attr name com.xiaoyong.gjp1:otherButtonTextColor
      */
     public static final int ActionSheet_otherButtonTextColor=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#otherButtonTitleBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#otherButtonTitleBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4584,11 +4334,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:otherButtonTitleBackground
+     * @attr name com.xiaoyong.gjp1:otherButtonTitleBackground
      */
     public static final int ActionSheet_otherButtonTitleBackground=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#otherButtonTopBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#otherButtonTopBackground}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4599,11 +4349,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:otherButtonTopBackground
+     * @attr name com.xiaoyong.gjp1:otherButtonTopBackground
      */
     public static final int ActionSheet_otherButtonTopBackground=13;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleButtonTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleButtonTextColor}
      * attribute's value can be found in the {@link #ActionSheet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4614,7 +4364,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:titleButtonTextColor
+     * @attr name com.xiaoyong.gjp1:titleButtonTextColor
      */
     public static final int ActionSheet_titleButtonTextColor=14;
     /**
@@ -4624,7 +4374,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionSheets_actionSheetStyle com.xiaoyong.gjp:actionSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionSheets_actionSheetStyle com.xiaoyong.gjp1:actionSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionSheets_actionSheetStyle
      */
@@ -4632,7 +4382,7 @@ public final class R {
         0x7f020022
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionSheetStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionSheetStyle}
      * attribute's value can be found in the {@link #ActionSheets} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4640,7 +4390,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionSheetStyle
+     * @attr name com.xiaoyong.gjp1:actionSheetStyle
      */
     public static final int ActionSheets_actionSheetStyle=0;
     /**
@@ -4650,17 +4400,17 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.xiaoyong.gjp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.xiaoyong.gjp:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.xiaoyong.gjp1:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.xiaoyong.gjp1:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
      */
     public static final int[] ActivityChooserView={
-        0x7f02007c, 0x7f020097
+        0x7f02007b, 0x7f02008d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4668,17 +4418,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:expandActivityOverflowButtonDrawable
+     * @attr name com.xiaoyong.gjp1:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:initialActivityCount
+     * @attr name com.xiaoyong.gjp1:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -4689,13 +4439,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.xiaoyong.gjp:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.xiaoyong.gjp:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.xiaoyong.gjp:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.xiaoyong.gjp:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.xiaoyong.gjp:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.xiaoyong.gjp:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.xiaoyong.gjp:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.xiaoyong.gjp1:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.xiaoyong.gjp1:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.xiaoyong.gjp1:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.xiaoyong.gjp1:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.xiaoyong.gjp1:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.xiaoyong.gjp1:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.xiaoyong.gjp1:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -4707,8 +4457,8 @@ public final class R {
      * @see #AlertDialog_singleChoiceItemLayout
      */
     public static final int[] AlertDialog={
-        0x010100f2, 0x7f020046, 0x7f020047, 0x7f0200a4, 
-        0x7f0200a5, 0x7f0200b1, 0x7f0200ee, 0x7f0200ef
+        0x010100f2, 0x7f020046, 0x7f020047, 0x7f020093, 
+        0x7f020094, 0x7f0200a0, 0x7f0200dd, 0x7f0200de
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#layout}
@@ -4723,7 +4473,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4732,11 +4482,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:buttonIconDimen
+     * @attr name com.xiaoyong.gjp1:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4744,11 +4494,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonPanelSideLayout
+     * @attr name com.xiaoyong.gjp1:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4756,11 +4506,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:listItemLayout
+     * @attr name com.xiaoyong.gjp1:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4768,11 +4518,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:listLayout
+     * @attr name com.xiaoyong.gjp1:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4780,21 +4530,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:multiChoiceItemLayout
+     * @attr name com.xiaoyong.gjp1:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:showTitle
+     * @attr name com.xiaoyong.gjp1:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4802,7 +4552,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:singleChoiceItemLayout
+     * @attr name com.xiaoyong.gjp1:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -4813,9 +4563,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.xiaoyong.gjp:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.xiaoyong.gjp:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.xiaoyong.gjp:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.xiaoyong.gjp1:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.xiaoyong.gjp1:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.xiaoyong.gjp1:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -4823,7 +4573,7 @@ public final class R {
      * @see #AppCompatImageView_tintMode
      */
     public static final int[] AppCompatImageView={
-        0x01010119, 0x7f0200f4, 0x7f020115, 0x7f020116
+        0x01010119, 0x7f0200e3, 0x7f020103, 0x7f020104
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#src}
@@ -4841,7 +4591,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4849,22 +4599,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:srcCompat
+     * @attr name com.xiaoyong.gjp1:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:tint
+     * @attr name com.xiaoyong.gjp1:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4881,7 +4631,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:tintMode
+     * @attr name com.xiaoyong.gjp1:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -4892,9 +4642,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.xiaoyong.gjp:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.xiaoyong.gjp:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.xiaoyong.gjp:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.xiaoyong.gjp1:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.xiaoyong.gjp1:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.xiaoyong.gjp1:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -4902,7 +4652,7 @@ public final class R {
      * @see #AppCompatSeekBar_tickMarkTintMode
      */
     public static final int[] AppCompatSeekBar={
-        0x01010142, 0x7f020112, 0x7f020113, 0x7f020114
+        0x01010142, 0x7f020100, 0x7f020101, 0x7f020102
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#thumb}
@@ -4917,7 +4667,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4925,22 +4675,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:tickMark
+     * @attr name com.xiaoyong.gjp1:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:tickMarkTint
+     * @attr name com.xiaoyong.gjp1:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4957,7 +4707,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:tickMarkTintMode
+     * @attr name com.xiaoyong.gjp1:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5097,13 +4847,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.xiaoyong.gjp:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.xiaoyong.gjp:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.xiaoyong.gjp:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.xiaoyong.gjp:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.xiaoyong.gjp:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.xiaoyong.gjp:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.xiaoyong.gjp:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.xiaoyong.gjp1:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.xiaoyong.gjp1:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.xiaoyong.gjp1:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.xiaoyong.gjp1:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.xiaoyong.gjp1:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.xiaoyong.gjp1:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.xiaoyong.gjp1:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -5116,7 +4866,7 @@ public final class R {
      */
     public static final int[] AppCompatTextView={
         0x01010034, 0x7f020033, 0x7f020034, 0x7f020035, 
-        0x7f020036, 0x7f020037, 0x7f020081, 0x7f020102
+        0x7f020036, 0x7f020037, 0x7f02007f, 0x7f0200f0
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
@@ -5131,7 +4881,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5140,11 +4890,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:autoSizeMaxTextSize
+     * @attr name com.xiaoyong.gjp1:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5153,11 +4903,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:autoSizeMinTextSize
+     * @attr name com.xiaoyong.gjp1:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5165,11 +4915,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:autoSizePresetSizes
+     * @attr name com.xiaoyong.gjp1:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5178,11 +4928,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:autoSizeStepGranularity
+     * @attr name com.xiaoyong.gjp1:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5195,21 +4945,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:autoSizeTextType
+     * @attr name com.xiaoyong.gjp1:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:fontFamily
+     * @attr name com.xiaoyong.gjp1:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5219,7 +4969,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:textAllCaps
+     * @attr name com.xiaoyong.gjp1:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -5231,124 +4981,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.xiaoyong.gjp:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.xiaoyong.gjp:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.xiaoyong.gjp:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.xiaoyong.gjp:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.xiaoyong.gjp:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.xiaoyong.gjp:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.xiaoyong.gjp:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.xiaoyong.gjp:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.xiaoyong.gjp:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.xiaoyong.gjp:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.xiaoyong.gjp:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.xiaoyong.gjp:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.xiaoyong.gjp:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.xiaoyong.gjp:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.xiaoyong.gjp:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.xiaoyong.gjp:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.xiaoyong.gjp:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.xiaoyong.gjp:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.xiaoyong.gjp:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.xiaoyong.gjp:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.xiaoyong.gjp:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.xiaoyong.gjp:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.xiaoyong.gjp:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.xiaoyong.gjp:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.xiaoyong.gjp:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.xiaoyong.gjp:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.xiaoyong.gjp:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.xiaoyong.gjp:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.xiaoyong.gjp:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.xiaoyong.gjp:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.xiaoyong.gjp:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.xiaoyong.gjp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.xiaoyong.gjp:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.xiaoyong.gjp:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.xiaoyong.gjp:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.xiaoyong.gjp:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.xiaoyong.gjp:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.xiaoyong.gjp:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.xiaoyong.gjp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.xiaoyong.gjp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.xiaoyong.gjp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.xiaoyong.gjp:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.xiaoyong.gjp:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.xiaoyong.gjp:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.xiaoyong.gjp:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.xiaoyong.gjp:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.xiaoyong.gjp:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.xiaoyong.gjp:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.xiaoyong.gjp:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.xiaoyong.gjp:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.xiaoyong.gjp:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.xiaoyong.gjp:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.xiaoyong.gjp:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.xiaoyong.gjp:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.xiaoyong.gjp:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.xiaoyong.gjp:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.xiaoyong.gjp:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.xiaoyong.gjp:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.xiaoyong.gjp:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.xiaoyong.gjp:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.xiaoyong.gjp:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.xiaoyong.gjp:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.xiaoyong.gjp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.xiaoyong.gjp:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.xiaoyong.gjp:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.xiaoyong.gjp:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.xiaoyong.gjp:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.xiaoyong.gjp:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.xiaoyong.gjp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.xiaoyong.gjp:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.xiaoyong.gjp:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.xiaoyong.gjp:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.xiaoyong.gjp:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.xiaoyong.gjp:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.xiaoyong.gjp:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.xiaoyong.gjp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.xiaoyong.gjp:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.xiaoyong.gjp:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.xiaoyong.gjp:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.xiaoyong.gjp:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.xiaoyong.gjp:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.xiaoyong.gjp:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.xiaoyong.gjp:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.xiaoyong.gjp:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.xiaoyong.gjp:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.xiaoyong.gjp:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.xiaoyong.gjp:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.xiaoyong.gjp:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.xiaoyong.gjp:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.xiaoyong.gjp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.xiaoyong.gjp:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.xiaoyong.gjp:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.xiaoyong.gjp:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.xiaoyong.gjp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.xiaoyong.gjp:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.xiaoyong.gjp:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.xiaoyong.gjp:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.xiaoyong.gjp:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.xiaoyong.gjp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.xiaoyong.gjp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.xiaoyong.gjp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.xiaoyong.gjp:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.xiaoyong.gjp:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.xiaoyong.gjp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.xiaoyong.gjp:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.xiaoyong.gjp:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.xiaoyong.gjp:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.xiaoyong.gjp:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.xiaoyong.gjp:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.xiaoyong.gjp:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.xiaoyong.gjp:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.xiaoyong.gjp:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.xiaoyong.gjp:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.xiaoyong.gjp:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.xiaoyong.gjp:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.xiaoyong.gjp:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.xiaoyong.gjp:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.xiaoyong.gjp:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.xiaoyong.gjp1:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.xiaoyong.gjp1:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.xiaoyong.gjp1:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.xiaoyong.gjp1:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.xiaoyong.gjp1:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.xiaoyong.gjp1:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.xiaoyong.gjp1:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.xiaoyong.gjp1:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.xiaoyong.gjp1:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.xiaoyong.gjp1:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.xiaoyong.gjp1:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.xiaoyong.gjp1:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.xiaoyong.gjp1:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.xiaoyong.gjp1:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.xiaoyong.gjp1:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.xiaoyong.gjp1:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.xiaoyong.gjp1:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.xiaoyong.gjp1:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.xiaoyong.gjp1:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.xiaoyong.gjp1:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.xiaoyong.gjp1:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.xiaoyong.gjp1:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.xiaoyong.gjp1:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.xiaoyong.gjp1:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.xiaoyong.gjp1:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.xiaoyong.gjp1:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.xiaoyong.gjp1:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.xiaoyong.gjp1:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.xiaoyong.gjp1:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.xiaoyong.gjp1:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.xiaoyong.gjp1:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.xiaoyong.gjp1:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.xiaoyong.gjp1:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.xiaoyong.gjp1:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.xiaoyong.gjp1:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.xiaoyong.gjp1:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.xiaoyong.gjp1:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.xiaoyong.gjp1:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.xiaoyong.gjp1:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.xiaoyong.gjp1:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.xiaoyong.gjp1:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.xiaoyong.gjp1:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.xiaoyong.gjp1:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.xiaoyong.gjp1:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.xiaoyong.gjp1:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.xiaoyong.gjp1:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.xiaoyong.gjp1:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.xiaoyong.gjp1:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.xiaoyong.gjp1:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.xiaoyong.gjp1:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.xiaoyong.gjp1:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.xiaoyong.gjp1:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.xiaoyong.gjp1:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.xiaoyong.gjp1:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.xiaoyong.gjp1:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.xiaoyong.gjp1:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.xiaoyong.gjp1:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.xiaoyong.gjp1:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.xiaoyong.gjp1:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.xiaoyong.gjp1:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.xiaoyong.gjp1:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.xiaoyong.gjp1:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.xiaoyong.gjp1:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.xiaoyong.gjp1:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.xiaoyong.gjp1:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.xiaoyong.gjp1:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.xiaoyong.gjp1:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.xiaoyong.gjp1:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.xiaoyong.gjp1:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.xiaoyong.gjp1:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.xiaoyong.gjp1:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.xiaoyong.gjp1:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.xiaoyong.gjp1:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.xiaoyong.gjp1:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.xiaoyong.gjp1:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.xiaoyong.gjp1:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.xiaoyong.gjp1:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.xiaoyong.gjp1:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.xiaoyong.gjp1:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.xiaoyong.gjp1:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.xiaoyong.gjp1:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.xiaoyong.gjp1:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.xiaoyong.gjp1:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.xiaoyong.gjp1:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.xiaoyong.gjp1:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.xiaoyong.gjp1:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.xiaoyong.gjp1:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.xiaoyong.gjp1:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.xiaoyong.gjp1:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.xiaoyong.gjp1:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.xiaoyong.gjp1:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.xiaoyong.gjp1:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.xiaoyong.gjp1:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.xiaoyong.gjp1:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.xiaoyong.gjp1:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.xiaoyong.gjp1:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.xiaoyong.gjp1:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.xiaoyong.gjp1:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.xiaoyong.gjp1:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.xiaoyong.gjp1:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.xiaoyong.gjp1:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.xiaoyong.gjp1:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.xiaoyong.gjp1:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.xiaoyong.gjp1:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.xiaoyong.gjp1:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.xiaoyong.gjp1:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.xiaoyong.gjp1:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.xiaoyong.gjp1:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.xiaoyong.gjp1:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.xiaoyong.gjp1:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.xiaoyong.gjp1:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.xiaoyong.gjp1:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.xiaoyong.gjp1:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.xiaoyong.gjp1:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.xiaoyong.gjp1:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.xiaoyong.gjp1:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.xiaoyong.gjp1:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.xiaoyong.gjp1:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -5486,22 +5236,22 @@ public final class R {
         0x7f020048, 0x7f020049, 0x7f02004f, 0x7f020050, 
         0x7f020056, 0x7f020057, 0x7f020058, 0x7f020059, 
         0x7f02005a, 0x7f02005b, 0x7f02005c, 0x7f02005d, 
-        0x7f02005e, 0x7f02005f, 0x7f020068, 0x7f02006d, 
-        0x7f02006e, 0x7f020071, 0x7f020073, 0x7f020076, 
-        0x7f020077, 0x7f020078, 0x7f020079, 0x7f02007a, 
-        0x7f02008f, 0x7f020095, 0x7f0200a2, 0x7f0200a3, 
-        0x7f0200a6, 0x7f0200a7, 0x7f0200a8, 0x7f0200a9, 
-        0x7f0200aa, 0x7f0200ab, 0x7f0200ac, 0x7f0200c3, 
-        0x7f0200c4, 0x7f0200c5, 0x7f0200c9, 0x7f0200cb, 
-        0x7f0200d5, 0x7f0200d6, 0x7f0200d7, 0x7f0200d8, 
-        0x7f0200e7, 0x7f0200e8, 0x7f0200e9, 0x7f0200ea, 
-        0x7f0200f1, 0x7f0200f2, 0x7f020100, 0x7f020103, 
-        0x7f020104, 0x7f020105, 0x7f020106, 0x7f020107, 
-        0x7f020108, 0x7f020109, 0x7f02010a, 0x7f02010b, 
-        0x7f02010c, 0x7f020122, 0x7f020123, 0x7f020124, 
-        0x7f020125, 0x7f02012b, 0x7f02012d, 0x7f02012e, 
-        0x7f02012f, 0x7f020130, 0x7f020131, 0x7f020132, 
-        0x7f020133, 0x7f020134, 0x7f020135, 0x7f020136
+        0x7f02005e, 0x7f02005f, 0x7f020068, 0x7f02006c, 
+        0x7f02006d, 0x7f020070, 0x7f020072, 0x7f020075, 
+        0x7f020076, 0x7f020077, 0x7f020078, 0x7f020079, 
+        0x7f020085, 0x7f02008b, 0x7f020091, 0x7f020092, 
+        0x7f020095, 0x7f020096, 0x7f020097, 0x7f020098, 
+        0x7f020099, 0x7f02009a, 0x7f02009b, 0x7f0200b2, 
+        0x7f0200b3, 0x7f0200b4, 0x7f0200b8, 0x7f0200ba, 
+        0x7f0200c4, 0x7f0200c5, 0x7f0200c6, 0x7f0200c7, 
+        0x7f0200d6, 0x7f0200d7, 0x7f0200d8, 0x7f0200d9, 
+        0x7f0200e0, 0x7f0200e1, 0x7f0200ee, 0x7f0200f1, 
+        0x7f0200f2, 0x7f0200f3, 0x7f0200f4, 0x7f0200f5, 
+        0x7f0200f6, 0x7f0200f7, 0x7f0200f8, 0x7f0200f9, 
+        0x7f0200fa, 0x7f020110, 0x7f020111, 0x7f020112, 
+        0x7f020113, 0x7f020119, 0x7f02011b, 0x7f02011c, 
+        0x7f02011d, 0x7f02011e, 0x7f02011f, 0x7f020120, 
+        0x7f020121, 0x7f020122, 0x7f020123, 0x7f020124
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#windowIsFloating}
@@ -5526,7 +5276,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5534,11 +5284,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarDivider
+     * @attr name com.xiaoyong.gjp1:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5546,11 +5296,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarItemBackground
+     * @attr name com.xiaoyong.gjp1:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5558,11 +5308,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarPopupTheme
+     * @attr name com.xiaoyong.gjp1:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5579,11 +5329,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:actionBarSize
+     * @attr name com.xiaoyong.gjp1:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5591,11 +5341,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarSplitStyle
+     * @attr name com.xiaoyong.gjp1:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5603,11 +5353,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarStyle
+     * @attr name com.xiaoyong.gjp1:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5615,11 +5365,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarTabBarStyle
+     * @attr name com.xiaoyong.gjp1:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5627,11 +5377,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarTabStyle
+     * @attr name com.xiaoyong.gjp1:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5639,11 +5389,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarTabTextStyle
+     * @attr name com.xiaoyong.gjp1:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5651,11 +5401,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarTheme
+     * @attr name com.xiaoyong.gjp1:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5663,11 +5413,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionBarWidgetTheme
+     * @attr name com.xiaoyong.gjp1:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5675,11 +5425,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionButtonStyle
+     * @attr name com.xiaoyong.gjp1:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5687,11 +5437,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionDropDownStyle
+     * @attr name com.xiaoyong.gjp1:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5699,11 +5449,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionMenuTextAppearance
+     * @attr name com.xiaoyong.gjp1:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5714,11 +5464,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionMenuTextColor
+     * @attr name com.xiaoyong.gjp1:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5726,11 +5476,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeBackground
+     * @attr name com.xiaoyong.gjp1:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5738,11 +5488,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeCloseButtonStyle
+     * @attr name com.xiaoyong.gjp1:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5750,11 +5500,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeCloseDrawable
+     * @attr name com.xiaoyong.gjp1:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5762,11 +5512,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeCopyDrawable
+     * @attr name com.xiaoyong.gjp1:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5774,11 +5524,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeCutDrawable
+     * @attr name com.xiaoyong.gjp1:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5786,11 +5536,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeFindDrawable
+     * @attr name com.xiaoyong.gjp1:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5798,11 +5548,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModePasteDrawable
+     * @attr name com.xiaoyong.gjp1:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5810,11 +5560,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModePopupWindowStyle
+     * @attr name com.xiaoyong.gjp1:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5822,11 +5572,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeSelectAllDrawable
+     * @attr name com.xiaoyong.gjp1:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5834,11 +5584,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeShareDrawable
+     * @attr name com.xiaoyong.gjp1:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5846,11 +5596,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeSplitBackground
+     * @attr name com.xiaoyong.gjp1:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5858,11 +5608,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeStyle
+     * @attr name com.xiaoyong.gjp1:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5870,11 +5620,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionModeWebSearchDrawable
+     * @attr name com.xiaoyong.gjp1:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5882,11 +5632,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionOverflowButtonStyle
+     * @attr name com.xiaoyong.gjp1:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5894,11 +5644,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionOverflowMenuStyle
+     * @attr name com.xiaoyong.gjp1:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5906,11 +5656,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:activityChooserViewStyle
+     * @attr name com.xiaoyong.gjp1:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5918,21 +5668,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:alertDialogButtonGroupStyle
+     * @attr name com.xiaoyong.gjp1:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:alertDialogCenterButtons
+     * @attr name com.xiaoyong.gjp1:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5940,11 +5690,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:alertDialogStyle
+     * @attr name com.xiaoyong.gjp1:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5952,11 +5702,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:alertDialogTheme
+     * @attr name com.xiaoyong.gjp1:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5964,11 +5714,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:autoCompleteTextViewStyle
+     * @attr name com.xiaoyong.gjp1:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5976,11 +5726,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:borderlessButtonStyle
+     * @attr name com.xiaoyong.gjp1:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5988,11 +5738,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonBarButtonStyle
+     * @attr name com.xiaoyong.gjp1:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6000,11 +5750,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonBarNegativeButtonStyle
+     * @attr name com.xiaoyong.gjp1:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6012,11 +5762,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonBarNeutralButtonStyle
+     * @attr name com.xiaoyong.gjp1:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6024,11 +5774,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonBarPositiveButtonStyle
+     * @attr name com.xiaoyong.gjp1:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6036,11 +5786,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonBarStyle
+     * @attr name com.xiaoyong.gjp1:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6048,11 +5798,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonStyle
+     * @attr name com.xiaoyong.gjp1:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6060,11 +5810,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonStyleSmall
+     * @attr name com.xiaoyong.gjp1:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6072,11 +5822,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:checkboxStyle
+     * @attr name com.xiaoyong.gjp1:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6084,77 +5834,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:checkedTextViewStyle
+     * @attr name com.xiaoyong.gjp1:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorAccent
+     * @attr name com.xiaoyong.gjp1:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorBackgroundFloating
+     * @attr name com.xiaoyong.gjp1:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorButtonNormal
+     * @attr name com.xiaoyong.gjp1:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorControlActivated
+     * @attr name com.xiaoyong.gjp1:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorControlHighlight
+     * @attr name com.xiaoyong.gjp1:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorControlNormal
+     * @attr name com.xiaoyong.gjp1:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6165,44 +5915,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorError
+     * @attr name com.xiaoyong.gjp1:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorPrimary
+     * @attr name com.xiaoyong.gjp1:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorPrimaryDark
+     * @attr name com.xiaoyong.gjp1:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:colorSwitchThumbNormal
+     * @attr name com.xiaoyong.gjp1:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6210,11 +5960,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:controlBackground
+     * @attr name com.xiaoyong.gjp1:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6223,11 +5973,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:dialogPreferredPadding
+     * @attr name com.xiaoyong.gjp1:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6235,11 +5985,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:dialogTheme
+     * @attr name com.xiaoyong.gjp1:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6247,11 +5997,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:dividerHorizontal
+     * @attr name com.xiaoyong.gjp1:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6259,11 +6009,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:dividerVertical
+     * @attr name com.xiaoyong.gjp1:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6271,11 +6021,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:dropDownListViewStyle
+     * @attr name com.xiaoyong.gjp1:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6284,11 +6034,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:dropdownListPreferredItemHeight
+     * @attr name com.xiaoyong.gjp1:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6296,11 +6046,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:editTextBackground
+     * @attr name com.xiaoyong.gjp1:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6311,11 +6061,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:editTextColor
+     * @attr name com.xiaoyong.gjp1:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6323,11 +6073,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:editTextStyle
+     * @attr name com.xiaoyong.gjp1:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6335,11 +6085,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:homeAsUpIndicator
+     * @attr name com.xiaoyong.gjp1:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6347,11 +6097,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:imageButtonStyle
+     * @attr name com.xiaoyong.gjp1:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6359,11 +6109,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:listChoiceBackgroundIndicator
+     * @attr name com.xiaoyong.gjp1:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6371,11 +6121,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:listDividerAlertDialog
+     * @attr name com.xiaoyong.gjp1:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6383,11 +6133,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:listMenuViewStyle
+     * @attr name com.xiaoyong.gjp1:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6395,11 +6145,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:listPopupWindowStyle
+     * @attr name com.xiaoyong.gjp1:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6408,11 +6158,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:listPreferredItemHeight
+     * @attr name com.xiaoyong.gjp1:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6421,11 +6171,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:listPreferredItemHeightLarge
+     * @attr name com.xiaoyong.gjp1:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6434,11 +6184,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:listPreferredItemHeightSmall
+     * @attr name com.xiaoyong.gjp1:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6447,11 +6197,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:listPreferredItemPaddingLeft
+     * @attr name com.xiaoyong.gjp1:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6460,11 +6210,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:listPreferredItemPaddingRight
+     * @attr name com.xiaoyong.gjp1:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6472,11 +6222,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:panelBackground
+     * @attr name com.xiaoyong.gjp1:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6484,11 +6234,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:panelMenuListTheme
+     * @attr name com.xiaoyong.gjp1:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6497,11 +6247,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:panelMenuListWidth
+     * @attr name com.xiaoyong.gjp1:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6509,11 +6259,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:popupMenuStyle
+     * @attr name com.xiaoyong.gjp1:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6521,11 +6271,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:popupWindowStyle
+     * @attr name com.xiaoyong.gjp1:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6533,11 +6283,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:radioButtonStyle
+     * @attr name com.xiaoyong.gjp1:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6545,11 +6295,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:ratingBarStyle
+     * @attr name com.xiaoyong.gjp1:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6557,11 +6307,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:ratingBarStyleIndicator
+     * @attr name com.xiaoyong.gjp1:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6569,11 +6319,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:ratingBarStyleSmall
+     * @attr name com.xiaoyong.gjp1:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6581,11 +6331,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:searchViewStyle
+     * @attr name com.xiaoyong.gjp1:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6593,11 +6343,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:seekBarStyle
+     * @attr name com.xiaoyong.gjp1:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6605,11 +6355,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:selectableItemBackground
+     * @attr name com.xiaoyong.gjp1:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6617,11 +6367,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:selectableItemBackgroundBorderless
+     * @attr name com.xiaoyong.gjp1:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6629,11 +6379,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:spinnerDropDownItemStyle
+     * @attr name com.xiaoyong.gjp1:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6641,11 +6391,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:spinnerStyle
+     * @attr name com.xiaoyong.gjp1:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6653,11 +6403,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:switchStyle
+     * @attr name com.xiaoyong.gjp1:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6665,11 +6415,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearanceLargePopupMenu
+     * @attr name com.xiaoyong.gjp1:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6677,11 +6427,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearanceListItem
+     * @attr name com.xiaoyong.gjp1:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6689,11 +6439,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearanceListItemSecondary
+     * @attr name com.xiaoyong.gjp1:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6701,11 +6451,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearanceListItemSmall
+     * @attr name com.xiaoyong.gjp1:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6713,11 +6463,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearancePopupMenuHeader
+     * @attr name com.xiaoyong.gjp1:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6725,11 +6475,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearanceSearchResultSubtitle
+     * @attr name com.xiaoyong.gjp1:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6737,11 +6487,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearanceSearchResultTitle
+     * @attr name com.xiaoyong.gjp1:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6749,11 +6499,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textAppearanceSmallPopupMenu
+     * @attr name com.xiaoyong.gjp1:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6764,11 +6514,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textColorAlertDialogListItem
+     * @attr name com.xiaoyong.gjp1:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6779,11 +6529,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:textColorSearchUrl
+     * @attr name com.xiaoyong.gjp1:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6791,11 +6541,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:toolbarNavigationButtonStyle
+     * @attr name com.xiaoyong.gjp1:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6803,11 +6553,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:toolbarStyle
+     * @attr name com.xiaoyong.gjp1:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6818,11 +6568,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:tooltipForegroundColor
+     * @attr name com.xiaoyong.gjp1:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6830,51 +6580,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:tooltipFrameBackground
+     * @attr name com.xiaoyong.gjp1:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:viewInflaterClass
+     * @attr name com.xiaoyong.gjp1:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:windowActionBar
+     * @attr name com.xiaoyong.gjp1:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:windowActionBarOverlay
+     * @attr name com.xiaoyong.gjp1:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:windowActionModeOverlay
+     * @attr name com.xiaoyong.gjp1:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6887,11 +6637,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.xiaoyong.gjp:windowFixedHeightMajor
+     * @attr name com.xiaoyong.gjp1:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6904,11 +6654,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.xiaoyong.gjp:windowFixedHeightMinor
+     * @attr name com.xiaoyong.gjp1:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6921,11 +6671,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.xiaoyong.gjp:windowFixedWidthMajor
+     * @attr name com.xiaoyong.gjp1:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6938,11 +6688,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.xiaoyong.gjp:windowFixedWidthMinor
+     * @attr name com.xiaoyong.gjp1:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6955,11 +6705,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.xiaoyong.gjp:windowMinWidthMajor
+     * @attr name com.xiaoyong.gjp1:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6972,17 +6722,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.xiaoyong.gjp:windowMinWidthMinor
+     * @attr name com.xiaoyong.gjp1:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:windowNoTitle
+     * @attr name com.xiaoyong.gjp1:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -6992,7 +6742,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.xiaoyong.gjp:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.xiaoyong.gjp1:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7000,13 +6750,13 @@ public final class R {
         0x7f02002c
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:allowStacking
+     * @attr name com.xiaoyong.gjp1:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -7018,7 +6768,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.xiaoyong.gjp:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.xiaoyong.gjp1:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -7048,12 +6798,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.xiaoyong.gjp:alpha
+     * @attr name com.xiaoyong.gjp1:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -7064,8 +6814,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.xiaoyong.gjp:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.xiaoyong.gjp:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.xiaoyong.gjp1:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.xiaoyong.gjp1:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -7087,18 +6837,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:buttonTint
+     * @attr name com.xiaoyong.gjp1:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7115,213 +6865,9 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:buttonTintMode
+     * @attr name com.xiaoyong.gjp1:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
-    /**
-     * Attributes that can be used with a CoordinatorLayout.
-     * <p>Includes the following attributes:</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.xiaoyong.gjp:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.xiaoyong.gjp:statusBarBackground}</code></td><td></td></tr>
-     * </table>
-     * @see #CoordinatorLayout_keylines
-     * @see #CoordinatorLayout_statusBarBackground
-     */
-    public static final int[] CoordinatorLayout={
-        0x7f02009a, 0x7f0200f6
-      };
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#keylines}
-     * attribute's value can be found in the {@link #CoordinatorLayout} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name com.xiaoyong.gjp:keylines
-     */
-    public static final int CoordinatorLayout_keylines=0;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#statusBarBackground}
-     * attribute's value can be found in the {@link #CoordinatorLayout} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
-     * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
-     * "<code>#<i>aarrggbb</i></code>".
-     *
-     * @attr name com.xiaoyong.gjp:statusBarBackground
-     */
-    public static final int CoordinatorLayout_statusBarBackground=1;
-    /**
-     * Attributes that can be used with a CoordinatorLayout_Layout.
-     * <p>Includes the following attributes:</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.xiaoyong.gjp:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.xiaoyong.gjp:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.xiaoyong.gjp:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.xiaoyong.gjp:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.xiaoyong.gjp:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.xiaoyong.gjp:layout_keyline}</code></td><td></td></tr>
-     * </table>
-     * @see #CoordinatorLayout_Layout_android_layout_gravity
-     * @see #CoordinatorLayout_Layout_layout_anchor
-     * @see #CoordinatorLayout_Layout_layout_anchorGravity
-     * @see #CoordinatorLayout_Layout_layout_behavior
-     * @see #CoordinatorLayout_Layout_layout_dodgeInsetEdges
-     * @see #CoordinatorLayout_Layout_layout_insetEdge
-     * @see #CoordinatorLayout_Layout_layout_keyline
-     */
-    public static final int[] CoordinatorLayout_Layout={
-        0x010100b3, 0x7f02009c, 0x7f02009d, 0x7f02009e, 
-        0x7f02009f, 0x7f0200a0, 0x7f0200a1
-      };
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#layout_gravity}
-     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
-     *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>center</td><td>11</td><td></td></tr>
-     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
-     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
-     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
-     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>fill</td><td>77</td><td></td></tr>
-     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
-     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:layout_gravity
-     */
-    public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#layout_anchor}
-     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name com.xiaoyong.gjp:layout_anchor
-     */
-    public static final int CoordinatorLayout_Layout_layout_anchor=1;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#layout_anchorGravity}
-     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
-     *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>center</td><td>11</td><td></td></tr>
-     * <tr><td>center_horizontal</td><td>1</td><td></td></tr>
-     * <tr><td>center_vertical</td><td>10</td><td></td></tr>
-     * <tr><td>clip_horizontal</td><td>8</td><td></td></tr>
-     * <tr><td>clip_vertical</td><td>80</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>fill</td><td>77</td><td></td></tr>
-     * <tr><td>fill_horizontal</td><td>7</td><td></td></tr>
-     * <tr><td>fill_vertical</td><td>70</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
-     *
-     * @attr name com.xiaoyong.gjp:layout_anchorGravity
-     */
-    public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#layout_behavior}
-     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name com.xiaoyong.gjp:layout_behavior
-     */
-    public static final int CoordinatorLayout_Layout_layout_behavior=3;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#layout_dodgeInsetEdges}
-     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
-     *
-     * <p>Must be one or more (separated by '|') of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>all</td><td>77</td><td></td></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
-     *
-     * @attr name com.xiaoyong.gjp:layout_dodgeInsetEdges
-     */
-    public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#layout_insetEdge}
-     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>bottom</td><td>50</td><td></td></tr>
-     * <tr><td>end</td><td>800005</td><td></td></tr>
-     * <tr><td>left</td><td>3</td><td></td></tr>
-     * <tr><td>none</td><td>0</td><td></td></tr>
-     * <tr><td>right</td><td>5</td><td></td></tr>
-     * <tr><td>start</td><td>800003</td><td></td></tr>
-     * <tr><td>top</td><td>30</td><td></td></tr>
-     * </table>
-     *
-     * @attr name com.xiaoyong.gjp:layout_insetEdge
-     */
-    public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#layout_keyline}
-     * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     *
-     * @attr name com.xiaoyong.gjp:layout_keyline
-     */
-    public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
      * Attributes that can be used with a DrawerArrowToggle.
      * <p>Includes the following attributes:</p>
@@ -7329,14 +6875,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.xiaoyong.gjp:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.xiaoyong.gjp:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.xiaoyong.gjp:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.xiaoyong.gjp:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.xiaoyong.gjp:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.xiaoyong.gjp:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.xiaoyong.gjp:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.xiaoyong.gjp:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.xiaoyong.gjp1:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.xiaoyong.gjp1:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.xiaoyong.gjp1:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.xiaoyong.gjp1:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.xiaoyong.gjp1:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.xiaoyong.gjp1:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.xiaoyong.gjp1:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.xiaoyong.gjp1:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -7349,10 +6895,10 @@ public final class R {
      */
     public static final int[] DrawerArrowToggle={
         0x7f02002f, 0x7f020030, 0x7f02003e, 0x7f020055, 
-        0x7f020074, 0x7f02008a, 0x7f0200f0, 0x7f02010e
+        0x7f020073, 0x7f020080, 0x7f0200df, 0x7f0200fc
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7361,11 +6907,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:arrowHeadLength
+     * @attr name com.xiaoyong.gjp1:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7374,11 +6920,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:arrowShaftLength
+     * @attr name com.xiaoyong.gjp1:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7387,22 +6933,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:barLength
+     * @attr name com.xiaoyong.gjp1:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:color
+     * @attr name com.xiaoyong.gjp1:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7411,11 +6957,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:drawableSize
+     * @attr name com.xiaoyong.gjp1:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7424,21 +6970,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:gapBetweenBars
+     * @attr name com.xiaoyong.gjp1:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:spinBars
+     * @attr name com.xiaoyong.gjp1:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7447,211 +6993,9 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:thickness
+     * @attr name com.xiaoyong.gjp1:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
-    /**
-     * Attributes that can be used with a FontFamily.
-     * <p>Includes the following attributes:</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.xiaoyong.gjp:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.xiaoyong.gjp:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.xiaoyong.gjp:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.xiaoyong.gjp:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.xiaoyong.gjp:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.xiaoyong.gjp:fontProviderQuery}</code></td><td></td></tr>
-     * </table>
-     * @see #FontFamily_fontProviderAuthority
-     * @see #FontFamily_fontProviderCerts
-     * @see #FontFamily_fontProviderFetchStrategy
-     * @see #FontFamily_fontProviderFetchTimeout
-     * @see #FontFamily_fontProviderPackage
-     * @see #FontFamily_fontProviderQuery
-     */
-    public static final int[] FontFamily={
-        0x7f020082, 0x7f020083, 0x7f020084, 0x7f020085, 
-        0x7f020086, 0x7f020087
-      };
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontProviderAuthority}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name com.xiaoyong.gjp:fontProviderAuthority
-     */
-    public static final int FontFamily_fontProviderAuthority=0;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontProviderCerts}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name com.xiaoyong.gjp:fontProviderCerts
-     */
-    public static final int FontFamily_fontProviderCerts=1;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontProviderFetchStrategy}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>async</td><td>1</td><td></td></tr>
-     * <tr><td>blocking</td><td>0</td><td></td></tr>
-     * </table>
-     *
-     * @attr name com.xiaoyong.gjp:fontProviderFetchStrategy
-     */
-    public static final int FontFamily_fontProviderFetchStrategy=2;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontProviderFetchTimeout}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
-     * </table>
-     *
-     * @attr name com.xiaoyong.gjp:fontProviderFetchTimeout
-     */
-    public static final int FontFamily_fontProviderFetchTimeout=3;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontProviderPackage}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name com.xiaoyong.gjp:fontProviderPackage
-     */
-    public static final int FontFamily_fontProviderPackage=4;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontProviderQuery}
-     * attribute's value can be found in the {@link #FontFamily} array.
-     *
-     * <p>May be a string value, using '\\;' to escape characters such as
-     * '\\n' or '\\uxxxx' for a unicode character;
-     *
-     * @attr name com.xiaoyong.gjp:fontProviderQuery
-     */
-    public static final int FontFamily_fontProviderQuery=5;
-    /**
-     * Attributes that can be used with a FontFamilyFont.
-     * <p>Includes the following attributes:</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.xiaoyong.gjp:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.xiaoyong.gjp:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.xiaoyong.gjp:fontWeight}</code></td><td></td></tr>
-     * </table>
-     * @see #FontFamilyFont_android_font
-     * @see #FontFamilyFont_android_fontWeight
-     * @see #FontFamilyFont_android_fontStyle
-     * @see #FontFamilyFont_font
-     * @see #FontFamilyFont_fontStyle
-     * @see #FontFamilyFont_fontWeight
-     */
-    public static final int[] FontFamilyFont={
-        0x01010532, 0x01010533, 0x0101053f, 0x7f020080, 
-        0x7f020088, 0x7f020089
-      };
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#font}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name android:font
-     */
-    public static final int FontFamilyFont_android_font=0;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#fontWeight}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     *
-     * @attr name android:fontWeight
-     */
-    public static final int FontFamilyFont_android_fontWeight=1;
-    /**
-     * <p>This symbol is the offset where the {@link android.R.attr#fontStyle}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>italic</td><td>1</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * </table>
-     *
-     * @attr name android:fontStyle
-     */
-    public static final int FontFamilyFont_android_fontStyle=2;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#font}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be a reference to another resource, in the form
-     * "<code>@[+][<i>package</i>:]<i>type</i>/<i>name</i></code>" or a theme
-     * attribute in the form
-     * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
-     *
-     * @attr name com.xiaoyong.gjp:font
-     */
-    public static final int FontFamilyFont_font=3;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontStyle}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>Must be one of the following constant values.</p>
-     * <table>
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <colgroup align="left" />
-     * <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-     * <tr><td>italic</td><td>1</td><td></td></tr>
-     * <tr><td>normal</td><td>0</td><td></td></tr>
-     * </table>
-     *
-     * @attr name com.xiaoyong.gjp:fontStyle
-     */
-    public static final int FontFamilyFont_fontStyle=4;
-    /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontWeight}
-     * attribute's value can be found in the {@link #FontFamilyFont} array.
-     *
-     * <p>May be an integer value, such as "<code>100</code>".
-     *
-     * @attr name com.xiaoyong.gjp:fontWeight
-     */
-    public static final int FontFamilyFont_fontWeight=5;
     /**
      * Attributes that can be used with a GIFVIEW.
      * <p>Includes the following attributes:</p>
@@ -7659,29 +7003,29 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GIFVIEW_authPlay com.xiaoyong.gjp:authPlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GIFVIEW_gifSrc com.xiaoyong.gjp:gifSrc}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GIFVIEW_playCount com.xiaoyong.gjp:playCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GIFVIEW_authPlay com.xiaoyong.gjp1:authPlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GIFVIEW_gifSrc com.xiaoyong.gjp1:gifSrc}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GIFVIEW_playCount com.xiaoyong.gjp1:playCount}</code></td><td></td></tr>
      * </table>
      * @see #GIFVIEW_authPlay
      * @see #GIFVIEW_gifSrc
      * @see #GIFVIEW_playCount
      */
     public static final int[] GIFVIEW={
-        0x7f020031, 0x7f02008b, 0x7f0200c8
+        0x7f020031, 0x7f020081, 0x7f0200b7
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#authPlay}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#authPlay}
      * attribute's value can be found in the {@link #GIFVIEW} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:authPlay
+     * @attr name com.xiaoyong.gjp1:authPlay
      */
     public static final int GIFVIEW_authPlay=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#gifSrc}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#gifSrc}
      * attribute's value can be found in the {@link #GIFVIEW} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7689,16 +7033,16 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:gifSrc
+     * @attr name com.xiaoyong.gjp1:gifSrc
      */
     public static final int GIFVIEW_gifSrc=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#playCount}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#playCount}
      * attribute's value can be found in the {@link #GIFVIEW} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.xiaoyong.gjp:playCount
+     * @attr name com.xiaoyong.gjp1:playCount
      */
     public static final int GIFVIEW_playCount=2;
     /**
@@ -7708,31 +7052,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.xiaoyong.gjp:actualImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.xiaoyong.gjp:backgroundImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.xiaoyong.gjp:fadeDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.xiaoyong.gjp:failureImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.xiaoyong.gjp:failureImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.xiaoyong.gjp:overlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.xiaoyong.gjp:placeholderImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.xiaoyong.gjp:placeholderImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.xiaoyong.gjp:pressedStateOverlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.xiaoyong.gjp:progressBarAutoRotateInterval}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.xiaoyong.gjp:progressBarImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.xiaoyong.gjp:progressBarImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.xiaoyong.gjp:retryImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.xiaoyong.gjp:retryImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.xiaoyong.gjp:roundAsCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.xiaoyong.gjp:roundBottomLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.xiaoyong.gjp:roundBottomRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.xiaoyong.gjp:roundTopLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.xiaoyong.gjp:roundTopRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.xiaoyong.gjp:roundWithOverlayColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.xiaoyong.gjp:roundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.xiaoyong.gjp:roundingBorderColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.xiaoyong.gjp:roundingBorderPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.xiaoyong.gjp:roundingBorderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.xiaoyong.gjp:viewAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.xiaoyong.gjp1:actualImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.xiaoyong.gjp1:backgroundImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.xiaoyong.gjp1:fadeDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.xiaoyong.gjp1:failureImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.xiaoyong.gjp1:failureImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.xiaoyong.gjp1:overlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.xiaoyong.gjp1:placeholderImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.xiaoyong.gjp1:placeholderImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.xiaoyong.gjp1:pressedStateOverlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.xiaoyong.gjp1:progressBarAutoRotateInterval}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.xiaoyong.gjp1:progressBarImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.xiaoyong.gjp1:progressBarImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.xiaoyong.gjp1:retryImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.xiaoyong.gjp1:retryImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.xiaoyong.gjp1:roundAsCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.xiaoyong.gjp1:roundBottomLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.xiaoyong.gjp1:roundBottomRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.xiaoyong.gjp1:roundTopLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.xiaoyong.gjp1:roundTopRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.xiaoyong.gjp1:roundWithOverlayColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.xiaoyong.gjp1:roundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.xiaoyong.gjp1:roundingBorderColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.xiaoyong.gjp1:roundingBorderPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.xiaoyong.gjp1:roundingBorderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.xiaoyong.gjp1:viewAspectRatio}</code></td><td></td></tr>
      * </table>
      * @see #GenericDraweeHierarchy_actualImageScaleType
      * @see #GenericDraweeHierarchy_backgroundImage
@@ -7761,16 +7105,16 @@ public final class R {
      * @see #GenericDraweeHierarchy_viewAspectRatio
      */
     public static final int[] GenericDraweeHierarchy={
-        0x7f020026, 0x7f020039, 0x7f02007d, 0x7f02007e, 
-        0x7f02007f, 0x7f0200be, 0x7f0200c6, 0x7f0200c7, 
-        0x7f0200cd, 0x7f0200ce, 0x7f0200cf, 0x7f0200d0, 
-        0x7f0200d9, 0x7f0200da, 0x7f0200db, 0x7f0200dc, 
-        0x7f0200dd, 0x7f0200de, 0x7f0200df, 0x7f0200e0, 
-        0x7f0200e1, 0x7f0200e2, 0x7f0200e3, 0x7f0200e4, 
-        0x7f02012a
+        0x7f020026, 0x7f020039, 0x7f02007c, 0x7f02007d, 
+        0x7f02007e, 0x7f0200ad, 0x7f0200b5, 0x7f0200b6, 
+        0x7f0200bc, 0x7f0200bd, 0x7f0200be, 0x7f0200bf, 
+        0x7f0200c8, 0x7f0200c9, 0x7f0200ca, 0x7f0200cb, 
+        0x7f0200cc, 0x7f0200cd, 0x7f0200ce, 0x7f0200cf, 
+        0x7f0200d0, 0x7f0200d1, 0x7f0200d2, 0x7f0200d3, 
+        0x7f020118
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actualImageScaleType}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actualImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7790,11 +7134,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:actualImageScaleType
+     * @attr name com.xiaoyong.gjp1:actualImageScaleType
      */
     public static final int GenericDraweeHierarchy_actualImageScaleType=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#backgroundImage}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#backgroundImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7802,20 +7146,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:backgroundImage
+     * @attr name com.xiaoyong.gjp1:backgroundImage
      */
     public static final int GenericDraweeHierarchy_backgroundImage=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fadeDuration}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#fadeDuration}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.xiaoyong.gjp:fadeDuration
+     * @attr name com.xiaoyong.gjp1:fadeDuration
      */
     public static final int GenericDraweeHierarchy_fadeDuration=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#failureImage}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#failureImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7823,11 +7167,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:failureImage
+     * @attr name com.xiaoyong.gjp1:failureImage
      */
     public static final int GenericDraweeHierarchy_failureImage=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#failureImageScaleType}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#failureImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7847,11 +7191,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:failureImageScaleType
+     * @attr name com.xiaoyong.gjp1:failureImageScaleType
      */
     public static final int GenericDraweeHierarchy_failureImageScaleType=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#overlayImage}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#overlayImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7859,11 +7203,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:overlayImage
+     * @attr name com.xiaoyong.gjp1:overlayImage
      */
     public static final int GenericDraweeHierarchy_overlayImage=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#placeholderImage}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#placeholderImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7871,11 +7215,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:placeholderImage
+     * @attr name com.xiaoyong.gjp1:placeholderImage
      */
     public static final int GenericDraweeHierarchy_placeholderImage=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#placeholderImageScaleType}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#placeholderImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7895,11 +7239,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:placeholderImageScaleType
+     * @attr name com.xiaoyong.gjp1:placeholderImageScaleType
      */
     public static final int GenericDraweeHierarchy_placeholderImageScaleType=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#pressedStateOverlayImage}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#pressedStateOverlayImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7907,20 +7251,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:pressedStateOverlayImage
+     * @attr name com.xiaoyong.gjp1:pressedStateOverlayImage
      */
     public static final int GenericDraweeHierarchy_pressedStateOverlayImage=8;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#progressBarAutoRotateInterval}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#progressBarAutoRotateInterval}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.xiaoyong.gjp:progressBarAutoRotateInterval
+     * @attr name com.xiaoyong.gjp1:progressBarAutoRotateInterval
      */
     public static final int GenericDraweeHierarchy_progressBarAutoRotateInterval=9;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#progressBarImage}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#progressBarImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7928,11 +7272,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:progressBarImage
+     * @attr name com.xiaoyong.gjp1:progressBarImage
      */
     public static final int GenericDraweeHierarchy_progressBarImage=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#progressBarImageScaleType}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#progressBarImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7952,11 +7296,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:progressBarImageScaleType
+     * @attr name com.xiaoyong.gjp1:progressBarImageScaleType
      */
     public static final int GenericDraweeHierarchy_progressBarImageScaleType=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#retryImage}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#retryImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7964,11 +7308,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:retryImage
+     * @attr name com.xiaoyong.gjp1:retryImage
      */
     public static final int GenericDraweeHierarchy_retryImage=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#retryImageScaleType}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#retryImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7988,72 +7332,72 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:retryImageScaleType
+     * @attr name com.xiaoyong.gjp1:retryImageScaleType
      */
     public static final int GenericDraweeHierarchy_retryImageScaleType=13;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundAsCircle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundAsCircle}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:roundAsCircle
+     * @attr name com.xiaoyong.gjp1:roundAsCircle
      */
     public static final int GenericDraweeHierarchy_roundAsCircle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundBottomLeft}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundBottomLeft}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:roundBottomLeft
+     * @attr name com.xiaoyong.gjp1:roundBottomLeft
      */
     public static final int GenericDraweeHierarchy_roundBottomLeft=15;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundBottomRight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundBottomRight}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:roundBottomRight
+     * @attr name com.xiaoyong.gjp1:roundBottomRight
      */
     public static final int GenericDraweeHierarchy_roundBottomRight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundTopLeft}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundTopLeft}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:roundTopLeft
+     * @attr name com.xiaoyong.gjp1:roundTopLeft
      */
     public static final int GenericDraweeHierarchy_roundTopLeft=17;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundTopRight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundTopRight}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:roundTopRight
+     * @attr name com.xiaoyong.gjp1:roundTopRight
      */
     public static final int GenericDraweeHierarchy_roundTopRight=18;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundWithOverlayColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundWithOverlayColor}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:roundWithOverlayColor
+     * @attr name com.xiaoyong.gjp1:roundWithOverlayColor
      */
     public static final int GenericDraweeHierarchy_roundWithOverlayColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundedCornerRadius}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8062,22 +7406,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:roundedCornerRadius
+     * @attr name com.xiaoyong.gjp1:roundedCornerRadius
      */
     public static final int GenericDraweeHierarchy_roundedCornerRadius=20;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundingBorderColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundingBorderColor}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:roundingBorderColor
+     * @attr name com.xiaoyong.gjp1:roundingBorderColor
      */
     public static final int GenericDraweeHierarchy_roundingBorderColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundingBorderPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundingBorderPadding}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8086,11 +7430,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:roundingBorderPadding
+     * @attr name com.xiaoyong.gjp1:roundingBorderPadding
      */
     public static final int GenericDraweeHierarchy_roundingBorderPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#roundingBorderWidth}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#roundingBorderWidth}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8099,16 +7443,16 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:roundingBorderWidth
+     * @attr name com.xiaoyong.gjp1:roundingBorderWidth
      */
     public static final int GenericDraweeHierarchy_roundingBorderWidth=23;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#viewAspectRatio}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#viewAspectRatio}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.xiaoyong.gjp:viewAspectRatio
+     * @attr name com.xiaoyong.gjp1:viewAspectRatio
      */
     public static final int GenericDraweeHierarchy_viewAspectRatio=24;
     /**
@@ -8123,10 +7467,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.xiaoyong.gjp:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.xiaoyong.gjp:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.xiaoyong.gjp:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.xiaoyong.gjp:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.xiaoyong.gjp1:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.xiaoyong.gjp1:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.xiaoyong.gjp1:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.xiaoyong.gjp1:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -8140,8 +7484,8 @@ public final class R {
      */
     public static final int[] LinearLayoutCompat={
         0x010100af, 0x010100c4, 0x01010126, 0x01010127, 
-        0x01010128, 0x7f020070, 0x7f020072, 0x7f0200b0, 
-        0x7f0200ec
+        0x01010128, 0x7f02006f, 0x7f020071, 0x7f02009f, 
+        0x7f0200db
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#gravity}
@@ -8218,7 +7562,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8226,11 +7570,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:divider
+     * @attr name com.xiaoyong.gjp1:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8239,21 +7583,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:dividerPadding
+     * @attr name com.xiaoyong.gjp1:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:measureWithLargestChild
+     * @attr name com.xiaoyong.gjp1:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8268,7 +7612,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:showDividers
+     * @attr name com.xiaoyong.gjp1:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -8540,16 +7884,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.xiaoyong.gjp:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.xiaoyong.gjp:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.xiaoyong.gjp:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.xiaoyong.gjp:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.xiaoyong.gjp:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.xiaoyong.gjp:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.xiaoyong.gjp:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.xiaoyong.gjp:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.xiaoyong.gjp:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.xiaoyong.gjp:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.xiaoyong.gjp1:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.xiaoyong.gjp1:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.xiaoyong.gjp1:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.xiaoyong.gjp1:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.xiaoyong.gjp1:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.xiaoyong.gjp1:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.xiaoyong.gjp1:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.xiaoyong.gjp1:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.xiaoyong.gjp1:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.xiaoyong.gjp1:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -8580,8 +7924,8 @@ public final class R {
         0x01010194, 0x010101de, 0x010101df, 0x010101e1, 
         0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5, 
         0x0101026f, 0x7f02000d, 0x7f02001f, 0x7f020024, 
-        0x7f02002e, 0x7f020061, 0x7f020092, 0x7f020093, 
-        0x7f0200b5, 0x7f0200eb, 0x7f020126
+        0x7f02002e, 0x7f020061, 0x7f020088, 0x7f020089, 
+        0x7f0200a4, 0x7f0200da, 0x7f020114
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#icon}
@@ -8726,7 +8070,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8734,31 +8078,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:actionLayout
+     * @attr name com.xiaoyong.gjp1:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:actionProviderClass
+     * @attr name com.xiaoyong.gjp1:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:actionViewClass
+     * @attr name com.xiaoyong.gjp1:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8775,32 +8119,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:alphabeticModifiers
+     * @attr name com.xiaoyong.gjp1:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:contentDescription
+     * @attr name com.xiaoyong.gjp1:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:iconTint
+     * @attr name com.xiaoyong.gjp1:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8817,11 +8161,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:iconTintMode
+     * @attr name com.xiaoyong.gjp1:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8838,11 +8182,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:numericModifiers
+     * @attr name com.xiaoyong.gjp1:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8858,17 +8202,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:showAsAction
+     * @attr name com.xiaoyong.gjp1:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:tooltipText
+     * @attr name com.xiaoyong.gjp1:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -8885,8 +8229,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.xiaoyong.gjp:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.xiaoyong.gjp:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.xiaoyong.gjp1:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.xiaoyong.gjp1:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -8900,8 +8244,8 @@ public final class R {
      */
     public static final int[] MenuView={
         0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e, 
-        0x0101012f, 0x01010130, 0x01010131, 0x7f0200cc, 
-        0x7f0200f7
+        0x0101012f, 0x01010130, 0x01010131, 0x7f0200bb, 
+        0x7f0200e5
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#windowAnimationStyle}
@@ -8991,17 +8335,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:preserveIconSpacing
+     * @attr name com.xiaoyong.gjp1:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9009,7 +8353,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:subMenuArrow
+     * @attr name com.xiaoyong.gjp1:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -9021,14 +8365,14 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.xiaoyong.gjp:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.xiaoyong.gjp1:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
      * @see #PopupWindow_overlapAnchor
      */
     public static final int[] PopupWindow={
-        0x01010176, 0x010102c9, 0x7f0200bd
+        0x01010176, 0x010102c9, 0x7f0200ac
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#popupBackground}
@@ -9058,13 +8402,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:overlapAnchor
+     * @attr name com.xiaoyong.gjp1:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -9074,21 +8418,21 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.xiaoyong.gjp:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.xiaoyong.gjp1:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
     public static final int[] PopupWindowBackgroundState={
-        0x7f0200f5
+        0x7f0200e4
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:state_above_anchor
+     * @attr name com.xiaoyong.gjp1:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -9098,17 +8442,17 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.xiaoyong.gjp:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.xiaoyong.gjp:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.xiaoyong.gjp1:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.xiaoyong.gjp1:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
      */
     public static final int[] RecycleListView={
-        0x7f0200bf, 0x7f0200c2
+        0x7f0200ae, 0x7f0200b1
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9117,11 +8461,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:paddingBottomNoButtons
+     * @attr name com.xiaoyong.gjp1:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9130,7 +8474,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:paddingTopNoTitle
+     * @attr name com.xiaoyong.gjp1:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -9144,19 +8488,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.xiaoyong.gjp:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.xiaoyong.gjp:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.xiaoyong.gjp:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.xiaoyong.gjp:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.xiaoyong.gjp:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.xiaoyong.gjp:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.xiaoyong.gjp:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.xiaoyong.gjp:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.xiaoyong.gjp:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.xiaoyong.gjp:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.xiaoyong.gjp:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.xiaoyong.gjp:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.xiaoyong.gjp:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.xiaoyong.gjp1:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.xiaoyong.gjp1:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.xiaoyong.gjp1:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.xiaoyong.gjp1:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.xiaoyong.gjp1:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.xiaoyong.gjp1:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.xiaoyong.gjp1:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.xiaoyong.gjp1:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.xiaoyong.gjp1:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.xiaoyong.gjp1:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.xiaoyong.gjp1:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.xiaoyong.gjp1:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.xiaoyong.gjp1:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -9178,10 +8522,10 @@ public final class R {
      */
     public static final int[] SearchView={
         0x010100da, 0x0101011f, 0x01010220, 0x01010264, 
-        0x7f020051, 0x7f020060, 0x7f02006b, 0x7f02008c, 
-        0x7f020094, 0x7f02009b, 0x7f0200d3, 0x7f0200d4, 
-        0x7f0200e5, 0x7f0200e6, 0x7f0200f8, 0x7f0200fd, 
-        0x7f02012c
+        0x7f020051, 0x7f020060, 0x7f02006a, 0x7f020082, 
+        0x7f02008a, 0x7f020090, 0x7f0200c2, 0x7f0200c3, 
+        0x7f0200d4, 0x7f0200d5, 0x7f0200e6, 0x7f0200eb, 
+        0x7f02011a
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#focusable}
@@ -9294,7 +8638,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9302,11 +8646,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:closeIcon
+     * @attr name com.xiaoyong.gjp1:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9314,21 +8658,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:commitIcon
+     * @attr name com.xiaoyong.gjp1:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:defaultQueryHint
+     * @attr name com.xiaoyong.gjp1:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9336,21 +8680,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:goIcon
+     * @attr name com.xiaoyong.gjp1:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:iconifiedByDefault
+     * @attr name com.xiaoyong.gjp1:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9358,11 +8702,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:layout
+     * @attr name com.xiaoyong.gjp1:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9370,21 +8714,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:queryBackground
+     * @attr name com.xiaoyong.gjp1:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:queryHint
+     * @attr name com.xiaoyong.gjp1:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9392,11 +8736,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:searchHintIcon
+     * @attr name com.xiaoyong.gjp1:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9404,11 +8748,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:searchIcon
+     * @attr name com.xiaoyong.gjp1:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9416,11 +8760,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:submitBackground
+     * @attr name com.xiaoyong.gjp1:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9428,11 +8772,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:suggestionRowLayout
+     * @attr name com.xiaoyong.gjp1:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9440,7 +8784,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:voiceIcon
+     * @attr name com.xiaoyong.gjp1:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -9450,7 +8794,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.xiaoyong.gjp:actualImageUri}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.xiaoyong.gjp1:actualImageUri}</code></td><td></td></tr>
      * </table>
      * @see #SimpleDraweeView_actualImageUri
      */
@@ -9458,13 +8802,13 @@ public final class R {
         0x7f020027
       };
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#actualImageUri}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#actualImageUri}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:actualImageUri
+     * @attr name com.xiaoyong.gjp1:actualImageUri
      */
     public static final int SimpleDraweeView_actualImageUri=0;
     /**
@@ -9478,7 +8822,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.xiaoyong.gjp:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.xiaoyong.gjp1:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -9488,7 +8832,7 @@ public final class R {
      */
     public static final int[] Spinner={
         0x010100b2, 0x01010176, 0x0101017b, 0x01010262, 
-        0x7f0200ca
+        0x7f0200b9
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#entries}
@@ -9553,7 +8897,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9561,7 +8905,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:popupTheme
+     * @attr name com.xiaoyong.gjp1:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -9574,17 +8918,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.xiaoyong.gjp:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.xiaoyong.gjp:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.xiaoyong.gjp:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.xiaoyong.gjp:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.xiaoyong.gjp:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.xiaoyong.gjp:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.xiaoyong.gjp:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.xiaoyong.gjp:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.xiaoyong.gjp:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.xiaoyong.gjp:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.xiaoyong.gjp:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.xiaoyong.gjp1:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.xiaoyong.gjp1:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.xiaoyong.gjp1:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.xiaoyong.gjp1:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.xiaoyong.gjp1:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.xiaoyong.gjp1:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.xiaoyong.gjp1:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.xiaoyong.gjp1:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.xiaoyong.gjp1:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.xiaoyong.gjp1:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.xiaoyong.gjp1:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -9602,10 +8946,10 @@ public final class R {
      * @see #SwitchCompat_trackTintMode
      */
     public static final int[] SwitchCompat={
-        0x01010124, 0x01010125, 0x01010142, 0x7f0200ed, 
-        0x7f0200f3, 0x7f0200fe, 0x7f0200ff, 0x7f020101, 
-        0x7f02010f, 0x7f020110, 0x7f020111, 0x7f020127, 
-        0x7f020128, 0x7f020129
+        0x01010124, 0x01010125, 0x01010142, 0x7f0200dc, 
+        0x7f0200e2, 0x7f0200ec, 0x7f0200ed, 0x7f0200ef, 
+        0x7f0200fd, 0x7f0200fe, 0x7f0200ff, 0x7f020115, 
+        0x7f020116, 0x7f020117
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#textOn}
@@ -9640,27 +8984,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:showText
+     * @attr name com.xiaoyong.gjp1:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:splitTrack
+     * @attr name com.xiaoyong.gjp1:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9669,11 +9013,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:switchMinWidth
+     * @attr name com.xiaoyong.gjp1:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9682,11 +9026,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:switchPadding
+     * @attr name com.xiaoyong.gjp1:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9694,11 +9038,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:switchTextAppearance
+     * @attr name com.xiaoyong.gjp1:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9707,22 +9051,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:thumbTextPadding
+     * @attr name com.xiaoyong.gjp1:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:thumbTint
+     * @attr name com.xiaoyong.gjp1:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9739,11 +9083,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:thumbTintMode
+     * @attr name com.xiaoyong.gjp1:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9751,22 +9095,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:track
+     * @attr name com.xiaoyong.gjp1:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:trackTint
+     * @attr name com.xiaoyong.gjp1:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9783,7 +9127,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:trackTintMode
+     * @attr name com.xiaoyong.gjp1:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -9804,8 +9148,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.xiaoyong.gjp:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.xiaoyong.gjp:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.xiaoyong.gjp1:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.xiaoyong.gjp1:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -9824,8 +9168,8 @@ public final class R {
     public static final int[] TextAppearance={
         0x01010095, 0x01010096, 0x01010097, 0x01010098, 
         0x0101009a, 0x0101009b, 0x01010161, 0x01010162, 
-        0x01010163, 0x01010164, 0x010103ac, 0x7f020081, 
-        0x7f020102
+        0x01010163, 0x01010164, 0x010103ac, 0x7f02007f, 
+        0x7f0200f0
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#textSize}
@@ -9971,17 +9315,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:fontFamily
+     * @attr name com.xiaoyong.gjp1:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9991,7 +9335,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.xiaoyong.gjp:textAllCaps
+     * @attr name com.xiaoyong.gjp1:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -10003,33 +9347,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.xiaoyong.gjp:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.xiaoyong.gjp:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.xiaoyong.gjp:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.xiaoyong.gjp:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.xiaoyong.gjp:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.xiaoyong.gjp:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.xiaoyong.gjp:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.xiaoyong.gjp:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.xiaoyong.gjp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.xiaoyong.gjp:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.xiaoyong.gjp:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.xiaoyong.gjp:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.xiaoyong.gjp:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.xiaoyong.gjp:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.xiaoyong.gjp:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.xiaoyong.gjp:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.xiaoyong.gjp:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.xiaoyong.gjp:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.xiaoyong.gjp:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.xiaoyong.gjp:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.xiaoyong.gjp:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.xiaoyong.gjp:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.xiaoyong.gjp:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.xiaoyong.gjp:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.xiaoyong.gjp:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.xiaoyong.gjp:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.xiaoyong.gjp:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.xiaoyong.gjp1:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.xiaoyong.gjp1:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.xiaoyong.gjp1:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.xiaoyong.gjp1:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.xiaoyong.gjp1:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.xiaoyong.gjp1:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.xiaoyong.gjp1:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.xiaoyong.gjp1:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.xiaoyong.gjp1:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.xiaoyong.gjp1:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.xiaoyong.gjp1:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.xiaoyong.gjp1:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.xiaoyong.gjp1:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.xiaoyong.gjp1:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.xiaoyong.gjp1:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.xiaoyong.gjp1:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.xiaoyong.gjp1:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.xiaoyong.gjp1:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.xiaoyong.gjp1:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.xiaoyong.gjp1:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.xiaoyong.gjp1:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.xiaoyong.gjp1:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.xiaoyong.gjp1:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.xiaoyong.gjp1:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.xiaoyong.gjp1:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.xiaoyong.gjp1:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.xiaoyong.gjp1:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -10064,12 +9408,12 @@ public final class R {
     public static final int[] Toolbar={
         0x010100af, 0x01010140, 0x7f020045, 0x7f020053, 
         0x7f020054, 0x7f020062, 0x7f020063, 0x7f020064, 
-        0x7f020065, 0x7f020066, 0x7f020067, 0x7f0200ad, 
-        0x7f0200ae, 0x7f0200af, 0x7f0200b2, 0x7f0200b3, 
-        0x7f0200ca, 0x7f0200f9, 0x7f0200fa, 0x7f0200fb, 
-        0x7f020117, 0x7f020119, 0x7f02011a, 0x7f02011b, 
-        0x7f02011c, 0x7f02011d, 0x7f02011e, 0x7f02011f, 
-        0x7f020120
+        0x7f020065, 0x7f020066, 0x7f020067, 0x7f02009c, 
+        0x7f02009d, 0x7f02009e, 0x7f0200a1, 0x7f0200a2, 
+        0x7f0200b9, 0x7f0200e7, 0x7f0200e8, 0x7f0200e9, 
+        0x7f020105, 0x7f020107, 0x7f020108, 0x7f020109, 
+        0x7f02010a, 0x7f02010b, 0x7f02010c, 0x7f02010d, 
+        0x7f02010e
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#gravity}
@@ -10114,7 +9458,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10127,21 +9471,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:buttonGravity
+     * @attr name com.xiaoyong.gjp1:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:collapseContentDescription
+     * @attr name com.xiaoyong.gjp1:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10149,11 +9493,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:collapseIcon
+     * @attr name com.xiaoyong.gjp1:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10162,11 +9506,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetEnd
+     * @attr name com.xiaoyong.gjp1:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10175,11 +9519,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetEndWithActions
+     * @attr name com.xiaoyong.gjp1:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10188,11 +9532,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetLeft
+     * @attr name com.xiaoyong.gjp1:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10201,11 +9545,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetRight
+     * @attr name com.xiaoyong.gjp1:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10214,11 +9558,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetStart
+     * @attr name com.xiaoyong.gjp1:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10227,11 +9571,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:contentInsetStartWithNavigation
+     * @attr name com.xiaoyong.gjp1:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10239,21 +9583,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:logo
+     * @attr name com.xiaoyong.gjp1:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:logoDescription
+     * @attr name com.xiaoyong.gjp1:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10262,21 +9606,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:maxButtonHeight
+     * @attr name com.xiaoyong.gjp1:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:navigationContentDescription
+     * @attr name com.xiaoyong.gjp1:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10284,11 +9628,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:navigationIcon
+     * @attr name com.xiaoyong.gjp1:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10296,21 +9640,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:popupTheme
+     * @attr name com.xiaoyong.gjp1:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:subtitle
+     * @attr name com.xiaoyong.gjp1:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10318,32 +9662,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:subtitleTextAppearance
+     * @attr name com.xiaoyong.gjp1:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:subtitleTextColor
+     * @attr name com.xiaoyong.gjp1:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.xiaoyong.gjp:title
+     * @attr name com.xiaoyong.gjp1:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10352,11 +9696,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:titleMargin
+     * @attr name com.xiaoyong.gjp1:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10365,11 +9709,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:titleMarginBottom
+     * @attr name com.xiaoyong.gjp1:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10378,11 +9722,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:titleMarginEnd
+     * @attr name com.xiaoyong.gjp1:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10391,11 +9735,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:titleMarginStart
+     * @attr name com.xiaoyong.gjp1:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10404,11 +9748,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:titleMarginTop
+     * @attr name com.xiaoyong.gjp1:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10417,11 +9761,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:titleMargins
+     * @attr name com.xiaoyong.gjp1:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10429,18 +9773,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:titleTextAppearance
+     * @attr name com.xiaoyong.gjp1:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:titleTextColor
+     * @attr name com.xiaoyong.gjp1:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -10452,9 +9796,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.xiaoyong.gjp:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.xiaoyong.gjp:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.xiaoyong.gjp:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.xiaoyong.gjp1:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.xiaoyong.gjp1:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.xiaoyong.gjp1:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -10463,8 +9807,8 @@ public final class R {
      * @see #View_theme
      */
     public static final int[] View={
-        0x01010000, 0x010100da, 0x7f0200c0, 0x7f0200c1, 
-        0x7f02010d
+        0x01010000, 0x010100da, 0x7f0200af, 0x7f0200b0, 
+        0x7f0200fb
       };
     /**
      * <p>This symbol is the offset where the {@link android.R.attr#theme}
@@ -10497,7 +9841,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10506,11 +9850,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:paddingEnd
+     * @attr name com.xiaoyong.gjp1:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10519,11 +9863,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.xiaoyong.gjp:paddingStart
+     * @attr name com.xiaoyong.gjp1:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10531,7 +9875,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:theme
+     * @attr name com.xiaoyong.gjp1:theme
      */
     public static final int View_theme=4;
     /**
@@ -10542,8 +9886,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.xiaoyong.gjp:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.xiaoyong.gjp:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.xiaoyong.gjp1:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.xiaoyong.gjp1:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -10568,18 +9912,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.xiaoyong.gjp:backgroundTint
+     * @attr name com.xiaoyong.gjp1:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.xiaoyong.gjp1.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10596,7 +9940,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.xiaoyong.gjp:backgroundTintMode
+     * @attr name com.xiaoyong.gjp1:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
