@@ -4,7 +4,7 @@
             "outputFile": "/Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/60a6c1ab8676e59e998a97e153ecb643/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "source": "/Users/dzc/.gradle/caches/transforms-1/files-1.1/uniapp-release.aar/589c1049caa1cdbf300bccbdcf7d42de/res/values-ldrtl-v17/values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

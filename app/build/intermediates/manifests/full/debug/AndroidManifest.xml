@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.xiaoyong.gjp1"
+    package="com.xiaoyong.gjps"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -74,10 +74,10 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- 浮动通知权限 -->
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 自定义权限 -->
-    <uses-permission android:name="getui.permission.GetuiService.com.xiaoyong.gjp1" />
+    <uses-permission android:name="getui.permission.GetuiService.com.xiaoyong.gjps" />
 
     <permission
-        android:name="getui.permission.GetuiService.com.xiaoyong.gjp1"
+        android:name="getui.permission.GetuiService.com.xiaoyong.gjps"
         android:protectionLevel="normal" >
     </permission> <!-- 小米 -->
     <uses-permission android:name="android.permission.BROADCAST_PACKAGE_ADDED" />
@@ -86,37 +86,29 @@
     <uses-permission android:name="android.permission.BROADCAST_PACKAGE_REPLACED" />
     <uses-permission android:name="android.permission.RESTART_PACKAGES" />
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
-    <uses-permission android:name="com.xiaoyong.gjp1.permission.MIPUSH_RECEIVE" />
+    <uses-permission android:name="com.xiaoyong.gjps.permission.MIPUSH_RECEIVE" />
 
     <permission
-        android:name="com.xiaoyong.gjp1.permission.MIPUSH_RECEIVE"
+        android:name="com.xiaoyong.gjps.permission.MIPUSH_RECEIVE"
         android:protectionLevel="signatureOrSystem" /> <!-- 魅族 -->
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
     <uses-permission android:name="com.meizu.flyme.push.permission.RECEIVE" />
     <uses-permission android:name="com.meizu.c2dm.permission.RECEIVE" />
-    <uses-permission android:name="com.xiaoyong.gjp1.push.permission.MESSAGE" />
-    <uses-permission android:name="com.xiaoyong.gjp1.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.xiaoyong.gjps.push.permission.MESSAGE" />
+    <uses-permission android:name="com.xiaoyong.gjps.permission.C2D_MESSAGE" />
 
     <permission
-        android:name="com.xiaoyong.gjp1.push.permission.MESSAGE"
+        android:name="com.xiaoyong.gjps.push.permission.MESSAGE"
         android:protectionLevel="signature" />
     <permission
-        android:name="com.xiaoyong.gjp1.permission.C2D_MESSAGE"
+        android:name="com.xiaoyong.gjps.permission.C2D_MESSAGE"
         android:protectionLevel="signature" /> <!-- 华为 -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- OPPO -->
     <uses-permission android:name="com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE" />
     <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" /> <!-- Needed only if your app targets Android 5.0 (API level 21) or higher. -->
-    <uses-feature android:name="android.hardware.location.gps" />
-
-    <permission
-        android:name="com.xiaoyong.gjp1.permission.JPUSH_MESSAGE"
-        android:protectionLevel="signature" /> <!-- Required  一些系统要求的权限，如访问网络等 -->
-    <uses-permission android:name="com.xiaoyong.gjp1.permission.JPUSH_MESSAGE" />
-    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
-    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- Barcode(二维码)  end -->
-    <!-- android:name="io.dcloud.application.DCloudApplication" -->
+    <uses-feature android:name="android.hardware.location.gps" /> <!-- Barcode(二维码)  end -->
     <application
-        android:name="cn.tt.client.BaseApp"
+        android:name="io.dcloud.application.DCloudApplication"
         android:allowBackup="true"
         android:allowClearUserData="true"
         android:debuggable="true"
@@ -129,29 +121,10 @@
 
         <!-- 应用入口 -->
         <activity
-            android:name="cn.tt.client.SplashActivity"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppBaseTheme.Launcher" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.BROWSABLE" />
-                <category android:name="android.intent.category.DEFAULT" />
-
-                <data
-                    android:host="co.bxvip"
-                    android:scheme="bxvip.open" />
-            </intent-filter>
-        </activity>
-        <activity
             android:name="io.dcloud.PandoraEntry"
             android:configChanges="orientation|keyboardHidden|screenSize|mcc|mnc|fontScale"
             android:hardwareAccelerated="true"
+            android:label="@string/app_name"
             android:theme="@style/TranslucentTheme"
             android:windowSoftInputMode="adjustResize" >
             <intent-filter>
@@ -169,11 +142,35 @@
 
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
-            <!-- <intent-filter> -->
-            <!-- <action android:name="android.intent.action.MAIN"/> -->
-            <!-- <category android:name="android.intent.category.LAUNCHER"/> -->
-            <!-- </intent-filter> -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
+        <!-- <activity -->
+        <!-- android:name="io.dcloud.PandoraEntryActivity" -->
+        <!-- android:label="@string/app_name" -->
+        <!-- &gt; -->
+        <!-- <intent-filter> -->
+
+
+        <!-- <category -->
+        <!-- android:name="android.intent.category.DEFAULT" /> -->
+
+
+        <!-- <category -->
+        <!-- android:name="android.intent.category.BROWSABLE" /> -->
+
+
+        <!-- <action -->
+        <!-- android:name="android.intent.action.VIEW" /> -->
+
+
+        <!-- <data -->
+        <!-- android:scheme="h56131bcf" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
 
         <meta-data
             android:name="dcloud_uninview_background"
@@ -428,7 +425,7 @@
                 <action android:name="com.meizu.c2dm.intent.REGISTRATION" />
                 <action android:name="com.meizu.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.xiaoyong.gjp1" />
+                <category android:name="com.xiaoyong.gjps" />
             </intent-filter>
         </receiver> <!-- mipush -->
         <service
@@ -489,7 +486,7 @@
 
         <provider
             android:name="com.huawei.hms.update.provider.UpdateProvider"
-            android:authorities="com.xiaoyong.gjp1.hms.update.provider"
+            android:authorities="com.xiaoyong.gjps.hms.update.provider"
             android:exported="false"
             android:grantUriPermissions="true"
             android:process=":pushservice" >
@@ -559,7 +556,7 @@
             <intent-filter>
                 <action android:name="cn.jpush.android.intent.DaemonService" />
 
-                <category android:name="com.xiaoyong.gjp1" />
+                <category android:name="com.xiaoyong.gjps" />
             </intent-filter>
         </service>
         <service
@@ -581,7 +578,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.xiaoyong.gjp1.fileProvider"
+            android:authorities="com.xiaoyong.gjps.fileProvider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -603,484 +600,7 @@
                 <action android:name="binding" />
                 <action android:name="expressionBinding" />
             </intent-filter>
-        </service> <!-- Rich push 核心功能 since 2.0.6 -->
-        <activity
-            android:name="cn.jpush.android.ui.PopWinActivity"
-            android:exported="false"
-            android:theme="@style/MyDialogStyle" /> <!-- Required SDK核心功能 -->
-        <activity
-            android:name="cn.jpush.android.ui.PushActivity"
-            android:configChanges="orientation|keyboardHidden"
-            android:exported="false"
-            android:theme="@android:style/Theme.NoTitleBar" >
-            <intent-filter>
-                <action android:name="cn.jpush.android.ui.PushActivity" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="com.xiaoyong.gjp1" />
-            </intent-filter>
-        </activity> <!-- Required SDK核心功能 -->
-        <receiver
-            android:name="cn.jpush.android.service.PushReceiver"
-            android:enabled="true"
-            android:exported="false" >
-            <intent-filter android:priority="1000" >
-                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY" /> <!-- Required  显示通知栏 -->
-                <category android:name="com.xiaoyong.gjp1" />
-            </intent-filter>
-            <intent-filter>
-                <action android:name="android.intent.action.USER_PRESENT" />
-                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
-            </intent-filter>
-            <!-- Optional -->
-            <intent-filter>
-                <action android:name="android.intent.action.PACKAGE_ADDED" />
-                <action android:name="android.intent.action.PACKAGE_REMOVED" />
-
-                <data android:scheme="package" />
-            </intent-filter>
-        </receiver> <!-- Required SDK核心功能 -->
-        <receiver
-            android:name="cn.jpush.android.service.AlarmReceiver"
-            android:exported="false" /> <!-- since 3.0.9 Required SDK 核心功能 -->
-        <provider
-            android:name="cn.jpush.android.service.DataProvider"
-            android:authorities="com.xiaoyong.gjp1.DataProvider"
-            android:exported="false" /> <!-- since 3.1.0 Required SDK 核心功能 -->
-        <provider
-            android:name="cn.jpush.android.service.DownloadProvider"
-            android:authorities="com.xiaoyong.gjp1.DownloadProvider"
-            android:exported="true" /> <!-- Required  . Enable it you can get statistics data with channel -->
-        <meta-data
-            android:name="JPUSH_CHANNEL"
-            android:value="developer-default" />
-        <meta-data
-            android:name="JPUSH_APPKEY"
-            android:value="ca733c0a9dbea30598af62d9" /> <!-- 注意：此文件不要写入与'坑位'配置相关的组件（Activity、Provider），它们由 gradle 插件自动生成） -->
-        <!-- 注意：此文件不要写入与'坑位'配置相关的组件（Activity、Provider），它们由 gradle 插件自动生成） -->
-        <!-- 注意：此文件不要写入与'坑位'配置相关的组件（Activity、Provider），它们由 gradle 插件自动生成） -->
-        <!-- ======================================================================== -->
-        <!-- 开始：插件stub -->
-        <!-- Activity坑中的screenSize属性 7.3.0以上才支持 -->
-        <provider
-            android:name="com.qihoo360.replugin.component.process.ProcessPitProviderUI"
-            android:authorities="com.xiaoyong.gjp1.loader.p.mainN1"
-            android:exported="false" />
-        <provider
-            android:name="com.xiaoyong.gjp1.loader.p.ProviderN1"
-            android:authorities="com.xiaoyong.gjp1.loader.p.prN1"
-            android:exported="false" />
-
-        <service
-            android:name="com.xiaoyong.gjp1.loader.s.ServiceN1"
-            android:exported="false" />
-
-        <provider
-            android:name="com.qihoo360.replugin.component.process.ProcessPitProviderLoader0"
-            android:authorities="com.xiaoyong.gjp1.loader.p.main0"
-            android:exported="false"
-            android:process=":loader0" />
-        <provider
-            android:name="com.xiaoyong.gjp1.loader.p.Provider0"
-            android:authorities="com.xiaoyong.gjp1.loader.p.pr0"
-            android:exported="false"
-            android:process=":loader0" />
-
-        <service
-            android:name="com.xiaoyong.gjp1.loader.s.Service0"
-            android:exported="false"
-            android:process=":loader0" />
-
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0_singleTask1"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:launchMode="singleTask"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:taskAffinity=":loader0"
-            android:theme="@android:style/Theme.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0_singleInstance1"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:launchMode="singleInstance"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0_task"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0_fullscreen"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0_translucent"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0_translucent_fullscreen"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0_dialog"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Dialog" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity0"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader0"
-            android:screenOrientation="portrait"
-            android:taskAffinity=":loader0"
-            android:theme="@android:style/Theme.NoTitleBar" />
-
-        <provider
-            android:name="com.qihoo360.replugin.component.process.ProcessPitProviderLoader1"
-            android:authorities="com.xiaoyong.gjp1.loader.p.main1"
-            android:exported="false"
-            android:process=":loader1" />
-        <provider
-            android:name="com.xiaoyong.gjp1.loader.p.Provider1"
-            android:authorities="com.xiaoyong.gjp1.loader.p.pr1"
-            android:exported="false"
-            android:process=":loader1" />
-
-        <service
-            android:name="com.xiaoyong.gjp1.loader.s.Service1"
-            android:exported="false"
-            android:process=":loader1" />
-
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1_singleTask1"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:launchMode="singleTask"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:taskAffinity=":loader1"
-            android:theme="@android:style/Theme.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1_singleInstance1"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:launchMode="singleInstance"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1_task"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1_fullscreen"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1_translucent"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1_translucent_fullscreen"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1_dialog"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Dialog" />
-        <activity
-            android:name="com.xiaoyong.gjp1.loader.a.Activity1"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-            android:exported="false"
-            android:process=":loader1"
-            android:screenOrientation="portrait"
-            android:taskAffinity=":loader1"
-            android:theme="@android:style/Theme.NoTitleBar" />
-
-        <provider
-            android:name="com.qihoo360.replugin.component.provider.PluginPitProviderUI"
-            android:authorities="com.xiaoyong.gjp1.Plugin.NP.UIP"
-            android:exported="false" />
-
-        <service android:name="com.qihoo360.replugin.component.service.server.PluginPitServiceUI" /> <!-- 结束：插件stub -->
-        <!-- ======================================================================== -->
-        <!-- 在UI进程中安装插件。请参见类的说明 -->
-        <provider
-            android:name="com.qihoo360.replugin.packages.PluginFastInstallProvider"
-            android:authorities="com.xiaoyong.gjp1.loader.p.pip"
-            android:exported="false" >
-        </provider>
-    
-  <provider android:name='com.qihoo360.replugin.component.process.ProcessPitProviderPersist' android:authorities='com.xiaoyong.gjp1.loader.p.main' android:exported='false' android:process=':GuardService' />
-  <provider android:name='com.qihoo360.replugin.component.provider.PluginPitProviderPersist' android:authorities='com.xiaoyong.gjp1.Plugin.NP.PSP' android:exported='false' android:process=':GuardService' />
-  <provider android:name='com.qihoo360.mobilesafe.svcmanager.ServiceProvider' android:authorities='com.xiaoyong.gjp1.svcmanager' android:exported='false' android:multiprocess='false' android:process=':GuardService' />
-  <service android:name='com.qihoo360.replugin.component.service.server.PluginPitServiceGuard' android:process=':GuardService' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1SITS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1SITS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1SITS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1SINTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1SINTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA0STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:taskAffinity=':t1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityN1TA1STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:taskAffinity=':t1' android:launchMode='singleTask' />
-
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0SITS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0SITS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0SITS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0SINTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0SINTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA0STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP0TA1STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p0' android:taskAffinity=':t1' />
-  <provider android:name='com.qihoo360.replugin.component.provider.PluginPitProviderP0' android:authorities='com.xiaoyong.gjp1.Plugin.NP.0' android:process=':p0' android:exported='false' />
-  <provider android:name='com.qihoo360.replugin.component.process.ProcessPitProviderP0' android:authorities='com.xiaoyong.gjp1.loader.p.mainN100' android:process=':p0' android:exported='false' />
-  <service android:name='com.qihoo360.replugin.component.service.server.PluginPitServiceP0' android:process=':p0' android:exported='false' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1SITS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1SITS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1SITS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1SINTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1SINTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA0STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP1TA1STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p1' android:taskAffinity=':t1' />
-  <provider android:name='com.qihoo360.replugin.component.provider.PluginPitProviderP1' android:authorities='com.xiaoyong.gjp1.Plugin.NP.1' android:process=':p1' android:exported='false' />
-  <provider android:name='com.qihoo360.replugin.component.process.ProcessPitProviderP1' android:authorities='com.xiaoyong.gjp1.loader.p.mainN99' android:process=':p1' android:exported='false' />
-  <service android:name='com.qihoo360.replugin.component.service.server.PluginPitServiceP1' android:process=':p1' android:exported='false' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2SITS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2SITS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2SITS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:launchMode='singleTop' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:launchMode='singleTask' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2SINTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2SINTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:launchMode='singleInstance' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA0STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t0' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STPTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STPTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@android:style/Theme.Translucent.NoTitleBar' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRNTS3' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRNTS4' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1NRNTS5' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STPNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STPNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTop' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STNTS0' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STNTS1' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t1' />
-  <activity android:name='com.xiaoyong.gjp1.loader.a.ActivityP2TA1STNTS2' android:configChanges='keyboard|keyboardHidden|orientation|screenSize' android:exported='false' android:screenOrientation='portrait' android:theme='@style/Theme.AppCompat' android:launchMode='singleTask' android:process=':p2' android:taskAffinity=':t1' />
-  <provider android:name='com.qihoo360.replugin.component.provider.PluginPitProviderP2' android:authorities='com.xiaoyong.gjp1.Plugin.NP.2' android:process=':p2' android:exported='false' />
-  <provider android:name='com.qihoo360.replugin.component.process.ProcessPitProviderP2' android:authorities='com.xiaoyong.gjp1.loader.p.mainN98' android:process=':p2' android:exported='false' />
-  <service android:name='com.qihoo360.replugin.component.service.server.PluginPitServiceP2' android:process=':p2' android:exported='false' />
-</application>
+        </service>
+    </application>
 
 </manifest>

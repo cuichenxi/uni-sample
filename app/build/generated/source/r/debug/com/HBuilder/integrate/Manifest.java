@@ -9,11 +9,10 @@ package com.HBuilder.integrate;
 
 public final class Manifest {
   public static final class permission {
-    public static final String gjp1="getui.permission.GetuiService.com.xiaoyong.gjp1";
-    public static final String MIPUSH_RECEIVE="com.xiaoyong.gjp1.permission.MIPUSH_RECEIVE";
-    public static final String MESSAGE="com.xiaoyong.gjp1.push.permission.MESSAGE";
-    public static final String C2D_MESSAGE="com.xiaoyong.gjp1.permission.C2D_MESSAGE";
-    public static final String JPUSH_MESSAGE="com.xiaoyong.gjp1.permission.JPUSH_MESSAGE";
+    public static final String gjps="getui.permission.GetuiService.com.xiaoyong.gjps";
+    public static final String MIPUSH_RECEIVE="com.xiaoyong.gjps.permission.MIPUSH_RECEIVE";
+    public static final String MESSAGE="com.xiaoyong.gjps.push.permission.MESSAGE";
+    public static final String C2D_MESSAGE="com.xiaoyong.gjps.permission.C2D_MESSAGE";
   }
 
 }

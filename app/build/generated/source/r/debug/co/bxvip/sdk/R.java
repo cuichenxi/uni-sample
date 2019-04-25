@@ -7,40 +7,23 @@
 package co.bxvip.sdk;
 
 public final class R {
-    public static final class drawable {
-        public static final int jpush_ic_richpush_actionbar_back = 0x7f060091;
-        public static final int jpush_ic_richpush_actionbar_divider = 0x7f060092;
-        public static final int jpush_richpush_btn_selector = 0x7f060093;
-        public static final int jpush_richpush_progressbar = 0x7f060094;
-    }
     public static final class id {
-        public static final int actionbarLayoutId = 0x7f070013;
-        public static final int fullWebView = 0x7f070064;
-        public static final int help_ll = 0x7f07009d;
-        public static final int icon = 0x7f0700a0;
-        public static final int imgRichpushBtnBack = 0x7f0700a6;
-        public static final int imgView = 0x7f0700a7;
-        public static final int iv_help = 0x7f0700a9;
-        public static final int iv_refresh = 0x7f0700aa;
-        public static final int iv_service = 0x7f0700ab;
-        public static final int iv_speed = 0x7f0700ac;
-        public static final int loading = 0x7f0700b1;
-        public static final int mImgStartBg = 0x7f0700b3;
-        public static final int mTvState = 0x7f0700b4;
-        public static final int popLayoutId = 0x7f0700c5;
-        public static final int pushPrograssBar = 0x7f0700ca;
-        public static final int rlRichpushTitleBar = 0x7f0700d0;
-        public static final int text = 0x7f070100;
-        public static final int title = 0x7f070107;
-        public static final int tvRichpushTitle = 0x7f07010d;
-        public static final int tv_version = 0x7f07010f;
-        public static final int wvPopwin = 0x7f070118;
+        public static final int help_ll = 0x7f0700af;
+        public static final int icon = 0x7f0700b2;
+        public static final int iv_help = 0x7f0700bd;
+        public static final int iv_refresh = 0x7f0700be;
+        public static final int iv_service = 0x7f0700bf;
+        public static final int iv_speed = 0x7f0700c0;
+        public static final int loading = 0x7f0700c8;
+        public static final int mImgStartBg = 0x7f0700ca;
+        public static final int mTvState = 0x7f0700cb;
+        public static final int text = 0x7f07011e;
+        public static final int title = 0x7f070126;
+        public static final int tv_version = 0x7f07012d;
     }
     public static final class layout {
         public static final int activity_start = 0x7f09001b;
         public static final int customer_notitfication_layout = 0x7f09001e;
-        public static final int jpush_popwin_layout = 0x7f09003b;
-        public static final int jpush_webview_layout = 0x7f09003c;
     }
     public static final class mipmap {
         public static final int download = 0x7f0a0000;
@@ -54,7 +37,6 @@ public final class R {
     public static final class style {
         public static final int AppBaseTheme = 0x7f0d0007;
         public static final int AppBaseTheme_Launcher = 0x7f0d0008;
-        public static final int MyDialogStyle = 0x7f0d00a5;
     }
     public static final class xml {
         public static final int file_paths = 0x7f0f0001;
