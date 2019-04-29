@@ -768,7 +768,7 @@ uses-permission#getui.permission.GetuiService.${applicationId}
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:27:5-86
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:27:22-83
-uses-permission#getui.permission.GetuiService.com.xiaoyong.gjps
+uses-permission#getui.permission.GetuiService.com.xiaoyong.gjp
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:27:5-86
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:27:22-83
@@ -778,7 +778,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:31:9-41
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:30:9-70
-permission#getui.permission.GetuiService.com.xiaoyong.gjps
+permission#getui.permission.GetuiService.com.xiaoyong.gjp
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:29:5-32:18
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:31:9-41
@@ -812,7 +812,7 @@ uses-permission#${applicationId}.permission.MIPUSH_RECEIVE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:40:5-82
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:40:22-79
-uses-permission#com.xiaoyong.gjps.permission.MIPUSH_RECEIVE
+uses-permission#com.xiaoyong.gjp.permission.MIPUSH_RECEIVE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:40:5-82
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:40:22-79
@@ -822,7 +822,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:44:9-52
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:43:9-66
-permission#com.xiaoyong.gjps.permission.MIPUSH_RECEIVE
+permission#com.xiaoyong.gjp.permission.MIPUSH_RECEIVE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:42:5-44:55
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:44:9-52
@@ -846,7 +846,7 @@ uses-permission#${applicationId}.push.permission.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:50:5-80
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:50:22-77
-uses-permission#com.xiaoyong.gjps.push.permission.MESSAGE
+uses-permission#com.xiaoyong.gjp.push.permission.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:50:5-80
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:50:22-77
@@ -854,7 +854,7 @@ uses-permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:51:5-79
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:51:22-76
-uses-permission#com.xiaoyong.gjps.permission.C2D_MESSAGE
+uses-permission#com.xiaoyong.gjp.permission.C2D_MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:51:5-79
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:51:22-76
@@ -864,7 +864,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:55:9-44
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:54:9-64
-permission#com.xiaoyong.gjps.push.permission.MESSAGE
+permission#com.xiaoyong.gjp.push.permission.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:53:5-55:47
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:55:9-44
@@ -876,7 +876,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:58:9-44
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:57:9-63
-permission#com.xiaoyong.gjps.permission.C2D_MESSAGE
+permission#com.xiaoyong.gjp.permission.C2D_MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:56:5-58:47
 	android:protectionLevel
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:58:9-44
@@ -1046,7 +1046,7 @@ ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/file
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:143:13-60
 intent-filter#${applicationId}+com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:145:13-158:29
-intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.xiaoyong.gjps
+intent-filter#com.meizu.c2dm.intent.RECEIVE+com.meizu.c2dm.intent.REGISTRATION+com.meizu.flyme.push.intent.MESSAGE+com.meizu.flyme.push.intent.REGISTER.FEEDBACK+com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+com.xiaoyong.gjp
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:145:13-158:29
 action#com.meizu.flyme.push.intent.MESSAGE
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:148:17-78
@@ -1072,7 +1072,7 @@ category#${applicationId}
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:157:17-61
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:157:27-58
-category#com.xiaoyong.gjps
+category#com.xiaoyong.gjp
 ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:157:17-61
 	android:name
 		ADDED from [aps-unipush-release.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/aps-unipush-release.aar/4af6fd2878d792a13eb78e2d702d58f4/AndroidManifest.xml:157:27-58
@@ -1292,7 +1292,7 @@ ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1
 		ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/e1fac872f35f31ea980658ab296a02ca/AndroidManifest.xml:34:13-66
 intent-filter#${JPUSH_PKGNAME}+cn.jpush.android.intent.DaemonService
 ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/e1fac872f35f31ea980658ab296a02ca/AndroidManifest.xml:37:13-41:29
-intent-filter#cn.jpush.android.intent.DaemonService+com.xiaoyong.gjps
+intent-filter#cn.jpush.android.intent.DaemonService+com.xiaoyong.gjp
 ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/e1fac872f35f31ea980658ab296a02ca/AndroidManifest.xml:37:13-41:29
 action#cn.jpush.android.intent.DaemonService
 ADDED from [host-sdk-release1.0.9.01.aar] /Users/dzc/.gradle/caches/transforms-1/files-1.1/host-sdk-release1.0.9.01.aar/e1fac872f35f31ea980658ab296a02ca/AndroidManifest.xml:38:17-80

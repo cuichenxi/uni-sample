@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.xiaoyong.gjps"
+    package="com.xiaoyong.gjp"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -74,10 +74,10 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- 浮动通知权限 -->
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" /> <!-- 自定义权限 -->
-    <uses-permission android:name="getui.permission.GetuiService.com.xiaoyong.gjps" />
+    <uses-permission android:name="getui.permission.GetuiService.com.xiaoyong.gjp" />
 
     <permission
-        android:name="getui.permission.GetuiService.com.xiaoyong.gjps"
+        android:name="getui.permission.GetuiService.com.xiaoyong.gjp"
         android:protectionLevel="normal" >
     </permission> <!-- 小米 -->
     <uses-permission android:name="android.permission.BROADCAST_PACKAGE_ADDED" />
@@ -86,22 +86,22 @@
     <uses-permission android:name="android.permission.BROADCAST_PACKAGE_REPLACED" />
     <uses-permission android:name="android.permission.RESTART_PACKAGES" />
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
-    <uses-permission android:name="com.xiaoyong.gjps.permission.MIPUSH_RECEIVE" />
+    <uses-permission android:name="com.xiaoyong.gjp.permission.MIPUSH_RECEIVE" />
 
     <permission
-        android:name="com.xiaoyong.gjps.permission.MIPUSH_RECEIVE"
+        android:name="com.xiaoyong.gjp.permission.MIPUSH_RECEIVE"
         android:protectionLevel="signatureOrSystem" /> <!-- 魅族 -->
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
     <uses-permission android:name="com.meizu.flyme.push.permission.RECEIVE" />
     <uses-permission android:name="com.meizu.c2dm.permission.RECEIVE" />
-    <uses-permission android:name="com.xiaoyong.gjps.push.permission.MESSAGE" />
-    <uses-permission android:name="com.xiaoyong.gjps.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.xiaoyong.gjp.push.permission.MESSAGE" />
+    <uses-permission android:name="com.xiaoyong.gjp.permission.C2D_MESSAGE" />
 
     <permission
-        android:name="com.xiaoyong.gjps.push.permission.MESSAGE"
+        android:name="com.xiaoyong.gjp.push.permission.MESSAGE"
         android:protectionLevel="signature" />
     <permission
-        android:name="com.xiaoyong.gjps.permission.C2D_MESSAGE"
+        android:name="com.xiaoyong.gjp.permission.C2D_MESSAGE"
         android:protectionLevel="signature" /> <!-- 华为 -->
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" /> <!-- OPPO -->
     <uses-permission android:name="com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE" />
@@ -425,7 +425,7 @@
                 <action android:name="com.meizu.c2dm.intent.REGISTRATION" />
                 <action android:name="com.meizu.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.xiaoyong.gjps" />
+                <category android:name="com.xiaoyong.gjp" />
             </intent-filter>
         </receiver> <!-- mipush -->
         <service
@@ -486,7 +486,7 @@
 
         <provider
             android:name="com.huawei.hms.update.provider.UpdateProvider"
-            android:authorities="com.xiaoyong.gjps.hms.update.provider"
+            android:authorities="com.xiaoyong.gjp.hms.update.provider"
             android:exported="false"
             android:grantUriPermissions="true"
             android:process=":pushservice" >
@@ -556,7 +556,7 @@
             <intent-filter>
                 <action android:name="cn.jpush.android.intent.DaemonService" />
 
-                <category android:name="com.xiaoyong.gjps" />
+                <category android:name="com.xiaoyong.gjp" />
             </intent-filter>
         </service>
         <service
@@ -578,7 +578,7 @@
 
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="com.xiaoyong.gjps.fileProvider"
+            android:authorities="com.xiaoyong.gjp.fileProvider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data

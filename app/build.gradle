@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
     buildToolsVersion '27.0.3'
     defaultConfig {
-        applicationId "com.xiaoyong.gjps"
+        applicationId "com.xiaoyong.gjp"
         minSdkVersion 16
         targetSdkVersion 25
         //建议此属性值设为21 io.dcloud.PandoraEntry 作为apk入口时   必须设置 targetSDKVersion>=21 沉浸式才生效
