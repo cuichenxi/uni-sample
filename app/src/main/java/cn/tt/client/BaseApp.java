@@ -5,7 +5,6 @@ import android.content.res.Configuration;
 
 import com.HBuilder.integrate.BuildConfig;
 import com.HBuilder.integrate.R;
-import com.qihoo360.replugin.RePlugin;
 
 import cn.jpush.android.api.CustomPushNotificationBuilder;
 import cn.jpush.android.api.JPushInterface;
@@ -17,7 +16,7 @@ public class BaseApp extends DCloudApplication {
     @Override
     public void onCreate() {
         super.onCreate();
-        RePlugin.App.onCreate();
+//        RePlugin.App.onCreate();
         JPushInterface.setDebugMode(BuildConfig.DEBUG);    // 设置开启日志,发布时请关闭日志
         JPushInterface.init(this);                         // 初始化 JPush
         CustomPushNotificationBuilder builder = new CustomPushNotificationBuilder(this, R.layout.customer_notitfication_layout, R.id.icon, R.id.title, R.id.text);
@@ -30,7 +29,7 @@ public class BaseApp extends DCloudApplication {
 
     protected void attachBaseContext(Context var1) {
         super.attachBaseContext(var1);
-        RePlugin.App.attachBaseContext(this);
+//        RePlugin.App.attachBaseContext(this);
     }
 
     @Override
@@ -38,7 +37,7 @@ public class BaseApp extends DCloudApplication {
         super.onLowMemory();
 
         /* Not need to be called if your application's minSdkVersion > = 14 */
-        RePlugin.App.onLowMemory();
+//        RePlugin.App.onLowMemory();
     }
 
     @Override
@@ -46,7 +45,7 @@ public class BaseApp extends DCloudApplication {
         super.onTrimMemory(level);
 
         /* Not need to be called if your application's minSdkVersion > = 14 */
-        RePlugin.App.onTrimMemory(level);
+//        RePlugin.App.onTrimMemory(level);
     }
 
     @Override
@@ -54,6 +53,6 @@ public class BaseApp extends DCloudApplication {
         super.onConfigurationChanged(config);
 
         /* Not need to be called if your application's minSdkVersion > = 14 */
-        RePlugin.App.onConfigurationChanged(config);
+//        RePlugin.App.onConfigurationChanged(config);
     }
 }

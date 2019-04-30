@@ -1,6 +1,0 @@
-# Referenced at /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:118
--keep class cn.tt.client.BaseApp { <init>(...); }
-
-# Referenced at /Users/dzc/que/uni-app/UniPlugin-Hello-AS/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:282
--keep class io.dcloud.multiprocess.activity.WebAppActivity1 { <init>(...); }
-

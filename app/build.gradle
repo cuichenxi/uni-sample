@@ -1,10 +1,11 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 27
     buildToolsVersion '27.0.3'
     defaultConfig {
-        applicationId "com.xiaoyong.gjp1"
+        applicationId "com.xiaoyong.gj"
         minSdkVersion 16
         targetSdkVersion 25
         //建议此属性值设为21 io.dcloud.PandoraEntry 作为apk入口时   必须设置 targetSDKVersion>=21 沉浸式才生效
@@ -25,7 +26,7 @@ android {
                 "plus.unipush.appid"    : "pPyZWvH3Fa6PXba19ID009",
                 "plus.unipush.appkey"   : "b7dOGlNPHR7pqwUxcXPVi4",
                 "plus.unipush.appsecret": "IxVYAT9qws8dlNElacmSg1",
-                "apk.applicationId"     : "io.dcloud.HBuilder",
+                "apk.applicationId"     : applicationId,
                 JPUSH_PKGNAME           : applicationId,
                 JPUSH_APPKEY            : "ca733c0a9dbea30598af62d9", //JPush上注册的包名对应的// appkey.
                 JPUSH_CHANNEL           : "developer-default", //暂时填写默认值即可.
@@ -56,17 +57,6 @@ repositories {
     }
 }
 
-allprojects {
-    configurations {
-        all*.exclude group: 'com.android.support',module: 'support-v4'
-        all*.exclude group: 'com.android.support',module: 'support-v7'
-        all*.exclude group: 'com.android.support',module: 'support-core-ui'
-        all*.exclude group: 'com.android.support',module: 'support-core-utils'
-        all*.exclude group: 'com.android.support',module: 'support-compat'
-        all*.exclude group: 'com.android.support',module: 'support-annotations'
-        all*.exclude group: 'com.android.support',module: 'support-fragment'
-    }
-}
 apply plugin: 'replugin-host-gradle'
 
 /**
@@ -79,16 +69,20 @@ repluginHostConfig {
     /**
      * 主包不使用 请注意，本sdk 不支持
      */
-    useAppCompat = true
+    useAppCompat = false
+}
+allprojects {
+    configurations {
+        all*.exclude group: 'com.android.support',module: 'support-v4'
+    }
 }
 //apply plugin: 'replugin-plugin-gradle'
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation fileTree(dir: 'libs', include: ['*.aar'])
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:1.2.31"
 //    compile 'com.qihoo360.replugin:replugin-plugin-lib:2.2.4'
-//    implementation "com.android.support:recyclerview-v7:27.1.1"
-//    implementation "com.android.support:support-v4:27.1.1"
+    implementation "com.android.support:recyclerview-v7:27.1.1"
+//    implementation "com.android.support:support-v4:23.2.1"
     implementation "com.android.support:appcompat-v7:27.1.1"
     
     implementation 'com.alibaba.android:bindingx-core:1.0.3'
@@ -99,20 +93,20 @@ dependencies {
     implementation 'com.facebook.fresco:fresco:0.12.0'
     // 基座需要，必须添加
     implementation 'com.github.bumptech.glide:glide:4.9.0'
-
-    // 添加uni-app插件
-//    implementation project(':uniplugin_richalert')
+//    implementation project(':bxvip')
+    implementation "com.qihoo360.replugin:replugin-host-lib:$replugin_version"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:1.2.31"
     implementation "cn.jiguang.sdk:jpush:3.1.1"
     implementation "cn.jiguang.sdk:jcore:1.1.9"
     implementation "cn.jiguang.sdk:janalytics:1.2.0"
 
     implementation anko, ankocommons, glide, eventbus, ormLiteLibs
-    implementation newLibHttpAar, newSupportV4AndRecyclerViewAar
-    // add date : 2018-06-09
-    implementation "com.qihoo360.replugin:replugin-host-lib:$replugin_version"
-    // add date : 2018-06-09
+    implementation newLibHttpAar
+//    , newSupportV4AndRecyclerViewAar
+    implementation 'com.github.cuichenxi:android-support:bxvipsd-SNAPSHOT'
     implementation httpLibs
     // zxing
     implementation zxing
+    api 'com.just.agentweb:agentweb:4.0.3-alpha@aar' // (必选)
 }
 

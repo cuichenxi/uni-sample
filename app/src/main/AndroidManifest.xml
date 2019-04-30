@@ -21,8 +21,9 @@
     <uses-permission android:name="android.permission.FLASHLIGHT" />
     <!-- Barcode(二维码)  end -->
     <!--android:name="io.dcloud.application.DCloudApplication"-->
+    <!--android:name="cn.tt.client.BaseApp1"-->
     <application
-        android:name="cn.tt.client.BaseApp"
+        android:name="cn.tt.client.BaseApp1"
         android:allowBackup="true"
         android:allowClearUserData="true"
         android:icon="@drawable/icon"
